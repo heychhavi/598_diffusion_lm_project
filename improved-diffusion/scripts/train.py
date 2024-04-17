@@ -3,8 +3,9 @@ Train a diffusion model on images.
 """
 
 import argparse
-import json, torch, os
+import json, torch, os,sys
 import numpy as np
+sys.path.insert(0, '/Users/zhaozesen/Desktop/SchoolWork/WN24/EECS498/Diffusion-LM/improved-diffusion/')
 from improved_diffusion import dist_util, logger
 from improved_diffusion.image_datasets import load_data
 from improved_diffusion.text_datasets import load_data_text
@@ -58,6 +59,7 @@ def main():
         assert args.padding_mode == 'pad'
 
     logger.log("creating data loader...")
+    # print(args.modality) e2e-tgt
     if args.modality == 'image':
         data = load_data(
             data_dir=args.data_dir,
@@ -133,7 +135,7 @@ def main():
                                         args.checkpoint_path, extra_args=args)
         model3 = get_weights(model2, args)
         print(model3, model3.weight.requires_grad)
-        mapping_func = partial(compute_logp, args, model3.cuda())
+        mapping_func = partial(compute_logp, args, model3)
         diffusion.mapping_func = mapping_func
         return mapping_func
 

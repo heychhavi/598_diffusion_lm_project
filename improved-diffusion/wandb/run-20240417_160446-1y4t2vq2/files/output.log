@@ -1,0 +1,45 @@
+creating data loader...
+load data **************************************************
+hello loading text data.
+hello loading e2e-tgt.
+loading dataset from simple e2e dataset
+loading form the TRAIN set
+[['The', 'Vaults', 'pub', 'near', 'Café', 'Adriatic', 'has', 'a', '5', 'star', 'rating', '.', 'Prices', 'start', 'at', '£', '30', '.', '\n'], ['Close', 'to', 'Café', 'Brazil', ',', 'The', 'Cambridge', 'Blue', 'pub', 'serves', 'delicious', 'Tuscan', 'Beef', 'for', 'the', 'cheap', 'price', 'of', '£', '10.50', '.', 'Delicious', 'Pub', 'food', '.', '\n']]
+2974 821
+save the vocab to diffusion_models/diff_e2e-tgt_block_rand16_transformer_lr0.0001_0.0_2000_sqrt_Lsimple_h128_s2_d0.1_sd102_xstart_e2e/vocab.json
+initializing the random embeddings Embedding(821, 16)
+save the random encoder to diffusion_models/diff_e2e-tgt_block_rand16_transformer_lr0.0001_0.0_2000_sqrt_Lsimple_h128_s2_d0.1_sd102_xstart_e2e/random_emb.torch
+[[0, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 15, 21, 1], [0, 22, 23, 8, 24, 25, 4, 26, 27, 6, 28, 29, 2, 2, 30, 31, 32, 33, 34, 19, 2, 15, 2, 35, 36, 15, 21, 1]]
+padding mode is block
+8
+loading from diffusion_models/diff_e2e-tgt_block_rand16_transformer_lr0.0001_0.0_2000_sqrt_Lsimple_h128_s2_d0.1_sd102_xstart_e2e/vocab.json
+821
+loading from diffusion_models/diff_e2e-tgt_block_rand16_transformer_lr0.0001_0.0_2000_sqrt_Lsimple_h128_s2_d0.1_sd102_xstart_e2e/vocab.json
+821
+Embedding(821, 16) False
+training...
+Traceback (most recent call last):
+  File "/Users/zhaozesen/Desktop/SchoolWork/WN24/EECS498/Diffusion-LM/improved-diffusion/scripts/train.py", line 210, in <module>
+    main()
+  File "/Users/zhaozesen/Desktop/SchoolWork/WN24/EECS498/Diffusion-LM/improved-diffusion/scripts/train.py", line 165, in main
+    ).run_loop()
+      ^^^^^^^^^^
+  File "/Users/zhaozesen/Desktop/SchoolWork/WN24/EECS498/Diffusion-LM/improved-diffusion/improved_diffusion/train_util.py", line 176, in run_loop
+    self.run_step(batch, cond)
+  File "/Users/zhaozesen/Desktop/SchoolWork/WN24/EECS498/Diffusion-LM/improved-diffusion/improved_diffusion/train_util.py", line 195, in run_step
+    self.forward_backward(batch, cond)
+  File "/Users/zhaozesen/Desktop/SchoolWork/WN24/EECS498/Diffusion-LM/improved-diffusion/improved_diffusion/train_util.py", line 253, in forward_backward
+    losses = compute_losses()
+             ^^^^^^^^^^^^^^^^
+  File "/Users/zhaozesen/Desktop/SchoolWork/WN24/EECS498/Diffusion-LM/improved-diffusion/improved_diffusion/respace.py", line 99, in training_losses
+    return super().training_losses(self._wrap_model(model), *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/zhaozesen/Desktop/SchoolWork/WN24/EECS498/Diffusion-LM/improved-diffusion/improved_diffusion/gaussian_diffusion.py", line 240, in training_losses
+    return self.training_losses_e2e(model, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/zhaozesen/Desktop/SchoolWork/WN24/EECS498/Diffusion-LM/improved-diffusion/improved_diffusion/gaussian_diffusion.py", line 1470, in training_losses_e2e
+    x_start_mean = model.model.module.get_embeds(input_ids)
+                   ^^^^^^^^^^^^^^^^^^
+  File "/Users/zhaozesen/miniconda3/envs/Diffusion-LM/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1688, in __getattr__
+    raise AttributeError(f"'{type(self).__name__}' object has no attribute '{name}'")
+AttributeError: 'TransformerNetModel2' object has no attribute 'module'

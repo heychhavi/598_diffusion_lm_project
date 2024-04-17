@@ -1,4 +1,3 @@
-import sys
 import os
 import argparse
 
@@ -116,19 +115,6 @@ if __name__ == '__main__':
     with open(Model_FILE + '.sh', 'w') as f:
         print(COMMANDLINE, file=f)
 
-    print(COMMANDLINE)
+    print("Full Command",COMMANDLINE)
     if args.submit == 'no':
         os.system(COMMANDLINE)  # textattack/roberta-base-ag-news # textattack/roberta-base-imdb
-    # #
-    elif args.submit == 'yes':
-        if args.use_big == 'no':
-            full_command = "nlprun  -g 1 -n {} -x jagupard10,jagupard11,jagupard12,jagupard13,jagupard14,jagupard15,jagupard16,jagupard17,jagupard20 \'{}\'".format(
-                Model_FILE, COMMANDLINE)
-        elif True:
-            full_command = "nlprun  -g 1 -n {} -x " \
-                           "jagupard10,jagupard11,jagupard12,jagupard13,jagupard14,jagupard15,jagupard16,jagupard17,jagupard18," \
-                           "jagupard19,jagupard20,jagupard21,jagupard22,jagupard23," \
-                           "jagupard24,jagupard25\'{}\'".format(Model_FILE, COMMANDLINE)
-
-        print(full_command)
-        os.system(full_command)

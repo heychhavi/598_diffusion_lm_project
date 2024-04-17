@@ -1,0 +1,28 @@
+2024-04-10 18:48:45,938 INFO    MainThread:34904 [wandb_setup.py:_flush():76] Current SDK version is 0.16.6
+2024-04-10 18:48:45,938 INFO    MainThread:34904 [wandb_setup.py:_flush():76] Configure stats pid to 34904
+2024-04-10 18:48:45,938 INFO    MainThread:34904 [wandb_setup.py:_flush():76] Loading settings from /Users/zhaozesen/.config/wandb/settings
+2024-04-10 18:48:45,938 INFO    MainThread:34904 [wandb_setup.py:_flush():76] Loading settings from /Users/zhaozesen/Desktop/SchoolWork/WN24/EECS498/Diffusion-LM/improved-diffusion/wandb/settings
+2024-04-10 18:48:45,938 INFO    MainThread:34904 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2024-04-10 18:48:45,938 INFO    MainThread:34904 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2024-04-10 18:48:45,938 INFO    MainThread:34904 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'improved-diffusion/scripts/train.py', 'program_abspath': '/Users/zhaozesen/Desktop/SchoolWork/WN24/EECS498/Diffusion-LM/improved-diffusion/scripts/train.py', 'program': '/Users/zhaozesen/Desktop/SchoolWork/WN24/EECS498/Diffusion-LM/improved-diffusion/scripts/train.py'}
+2024-04-10 18:48:45,939 INFO    MainThread:34904 [wandb_setup.py:_flush():76] Applying login settings: {}
+2024-04-10 18:48:45,939 INFO    MainThread:34904 [wandb_setup.py:_flush():76] Applying login settings: {'mode': 'offline'}
+2024-04-10 18:48:45,939 INFO    MainThread:34904 [wandb_init.py:_log_setup():521] Logging user logs to /Users/zhaozesen/Desktop/SchoolWork/WN24/EECS498/Diffusion-LM/improved-diffusion/wandb/offline-run-20240410_184845-2nsa9e9q/logs/debug.log
+2024-04-10 18:48:45,939 INFO    MainThread:34904 [wandb_init.py:_log_setup():522] Logging internal logs to /Users/zhaozesen/Desktop/SchoolWork/WN24/EECS498/Diffusion-LM/improved-diffusion/wandb/offline-run-20240410_184845-2nsa9e9q/logs/debug-internal.log
+2024-04-10 18:48:45,939 INFO    MainThread:34904 [wandb_init.py:init():561] calling init triggers
+2024-04-10 18:48:45,939 INFO    MainThread:34904 [wandb_init.py:init():568] wandb.init called with sweep_config: {}
+config: {}
+2024-04-10 18:48:45,939 INFO    MainThread:34904 [wandb_init.py:init():611] starting backend
+2024-04-10 18:48:45,939 INFO    MainThread:34904 [wandb_init.py:init():615] setting up manager
+2024-04-10 18:48:45,941 INFO    MainThread:34904 [backend.py:_multiprocessing_setup():105] multiprocessing start_methods=spawn,fork,forkserver, using: spawn
+2024-04-10 18:48:45,944 INFO    MainThread:34904 [wandb_init.py:init():623] backend started and connected
+2024-04-10 18:48:45,948 INFO    MainThread:34904 [wandb_init.py:init():715] updated telemetry
+2024-04-10 18:48:45,966 INFO    MainThread:34904 [wandb_init.py:init():748] communicating run to backend with 90.0 second timeout
+2024-04-10 18:48:45,970 INFO    MainThread:34904 [wandb_init.py:init():799] starting run threads in backend
+2024-04-10 18:48:47,197 INFO    MainThread:34904 [wandb_run.py:_console_start():2335] atexit reg
+2024-04-10 18:48:47,197 INFO    MainThread:34904 [wandb_run.py:_redirect():2190] redirect: wrap_raw
+2024-04-10 18:48:47,197 INFO    MainThread:34904 [wandb_run.py:_redirect():2255] Wrapping output streams.
+2024-04-10 18:48:47,197 INFO    MainThread:34904 [wandb_run.py:_redirect():2280] Redirects installed.
+2024-04-10 18:48:47,197 INFO    MainThread:34904 [wandb_init.py:init():842] run started, returning control to user process
+2024-04-10 18:48:47,198 INFO    MainThread:34904 [wandb_run.py:_config_callback():1347] config_cb None None {'data_dir': '', 'schedule_sampler': 'uniform', 'lr': 0.0001, 'weight_decay': 0.0, 'lr_anneal_steps': 200000, 'batch_size': 64, 'microbatch': -1, 'ema_rate': '0.9999', 'log_interval': 50, 'save_interval': 50000, 'resume_checkpoint': '', 'use_fp16': False, 'fp16_scale_growth': 0.001, 'seed': 102, 'gradient_clipping': -1.0, 'eval_interval': 2000, 'checkpoint_path': 'diffusion_models/diff_e2e-tgt_block_rand16_transformer_lr0.0001_0.0_2000_sqrt_Lsimple_h128_s2_d0.1_sd102_xstart_e2e', 'image_size': 8, 'num_channels': 128, 'num_res_blocks': 2, 'num_heads': 4, 'num_heads_upsample': -1, 'attention_resolutions': '16,8', 'dropout': 0.1, 'learn_sigma': False, 'sigma_small': False, 'class_cond': False, 'diffusion_steps': 2000, 'noise_schedule': 'sqrt', 'timestep_respacing': '', 'use_kl': False, 'predict_xstart': True, 'rescale_timesteps': True, 'rescale_learned_sigmas': True, 'use_checkpoint': False, 'use_scale_shift_norm': True, 'model_arch': 'transformer', 'in_channel': 16, 'out_channel': 16, 'training_mode': 'e2e', 'vocab_size': 821, 'config_name': 'bert-base-uncased', 'experiment_mode': 'lm', 'logits_mode': 1, 'modality': 'e2e-tgt', 'dataset_name': 'wikitext', 'dataset_config_name': 'wikitext-2-raw-v1', 'config': 'diffusion_lm/synthetic_data/configs/emnlp2020/experiments/difflm_seed0_m3_k128_trainc20000.yaml', 'model_name_or_path': 'predictability/diff_models/compress_e=5_b=60_m=gpt2_wikitext-103-raw-v1_None', 'experiment': 'random', 'roc_train': 'diffusion_lm/ROCstory', 'wiki_train': 'diffusion_lm/simple_wiki/data.v1.split/simple.training.txt', 'e2e_train': '../datasets/e2e_data', 'yelp_train': 'diffusion_lm/yelpnlg-resources/yelpnlg-corpus', 'commonGen_train': 'diffusion_lm/common-gen/commongen_data', 'emb_scale_factor': 1.0, 'noise_level': 0.0, 'cache_mode': 'no', 'use_bert_tokenizer': 'no', 'padding_mode': 'block', 'preprocessing_num_workers': 1}
+2024-04-10 18:48:48,296 WARNING MsgRouterThr:34904 [router.py:message_loop():77] message_loop has been closed
