@@ -15,6 +15,8 @@ pip install spacy==3.2.4
 pip install datasets==1.8.0 
 pip install huggingface_hub==0.4.0 
 pip install wandb
+# magic
+pip install --upgrade stanza stanza-spacy pydantic
 ```
 
 -----------------------------------------------------
@@ -45,7 +47,7 @@ python train_run.py --experiment e2e-tgt-tree  --app "--init_emb {path-to-diffus
 Then, we can use the trained classifier to guide generation. 
 (currently, need to update the classifier directory in scripts/infill.py. I will clean this up in the next release.)
 
-``python 
+``
 python scripts/infill.py --model_path {path-to-diffusion-lm} --eval_task_ 'control_tree' --use_ddim True  --notes "tree_adagrad" --eta 1. --verbose pipe``
 
 
