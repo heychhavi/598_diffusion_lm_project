@@ -6,7 +6,8 @@ https://arxiv.org/pdf/2205.14217.pdf
 
 -----------------------------------------------------
 ## Conda Setup:
-```python 
+```python
+# official version
 conda install mpi4py
 conda install pytorch torchvision torchaudio cudatoolkit=11.3 -c pytorch
 pip install -e improved-diffusion/ 
@@ -15,6 +16,15 @@ pip install spacy==3.2.4
 pip install datasets==1.8.0 
 pip install huggingface_hub==0.4.0 
 pip install wandb
+```
+
+```python
+# It works
+conda create -n <name> python=3.9.7 mpi4py
+conda activate <name>
+conda install pytorch torchvision torchaudio cudatoolkit=11.3 -c pytorch
+pip install -e improved-diffusion/ transformers/
+pip install spacy==3.2.4 datasets==1.8.0 huggingface_hub==0.4.0 wandb
 # magic
 pip install --upgrade stanza stanza-spacy pydantic
 ```
