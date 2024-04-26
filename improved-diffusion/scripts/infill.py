@@ -31,8 +31,10 @@ def main():
     set_seed(101)
     args = create_argparser().parse_args()
 
+    identifier = '' if not args.train_args_name else f'_{args.train_args_name}'
+
     # load configurations.
-    config_path = os.path.join(os.path.split(args.model_path)[0], "training_args.json")
+    config_path = os.path.join(os.path.split(args.model_path)[0], f"training_args{identifier}.json")
     print(config_path)
     # sys.setdefaultencoding('utf-8')
     with open(config_path, 'rb', ) as f:
@@ -51,7 +53,11 @@ def main():
     model, diffusion = create_model_and_diffusion(
         **args_to_dict(args, model_and_diffusion_defaults().keys())
     )
-    model.load_state_dict(th.load(args.model_path))
+    try:
+        model.load_state_dict(th.load(args.model_path))
+    except:
+        model=th.compile(model)
+        model.load_state_dict(th.load(args.model_path))
     model.to(dist_util.dev())
     model.eval()
 
@@ -717,7 +723,7 @@ def create_argparser():
         out_dir="diffusion_lm/improved_diffusion/out_gen",
         emb_scale_factor=1.0, split='train', debug_path='', eval_task_='infill',
         partial_seq="", partial_seq_file="", verbose='yes', tgt_len=15, t_merge=200, interp_coef=0.5, notes='',
-        start_idx=0, end_idx=0,
+        start_idx=0, end_idx=0,base=None
     )
     defaults.update(model_and_diffusion_defaults())
     parser = argparse.ArgumentParser()
