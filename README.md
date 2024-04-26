@@ -25,11 +25,13 @@ conda activate <name>
 conda install pytorch torchvision torchaudio cudatoolkit=11.3 -c pytorch
 pip install -e improved-diffusion/ transformers/
 pip install spacy==3.2.4 datasets==1.8.0 huggingface_hub==0.4.0 wandb
+# magic
 pip install --upgrade stanza stanza-spacy pydantic
-env MPICC=/home/selinali/.conda/envs/498/bin/mpicc pip install --no-cache-dir mpi4py
+# solve the mpi4py issue!!
 module load gcc/8.2.0
 module load openmpi/3.1.6
-# magic
+which mpicc # put your mpicc path here
+env MPICC=/home/selinali/.conda/envs/498/bin/mpicc pip install --no-cache-dir mpi4py
 ```
 
 -----------------------------------------------------
