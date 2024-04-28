@@ -1,89 +1,149 @@
 from bert_score import score
 import pandas as pd
 import numpy as np
-
-def compute_bert_scores(candidates, references):
-    """
-    Computes the BERT scores for a list of candidate sentences against reference sentences.
-
-    Args:
-    - candidates (list of str): Generated sentences.
-    - references (list of str): Ground truth sentences.
-
-    Returns:
-    - DataFrame with Precision, Recall, and F1 scores for each candidate.
-    """
-    P, R, F1 = score(candidates, references, lang="en", verbose=True)
-    results = pd.DataFrame({
-        "Candidate": candidates,
-        "Reference": references,
-        "Precision": P.numpy(),
-        "Recall": R.numpy(),
-        "F1 Score": F1.numpy()
-    })
-    return results
-
-# Example usage
-references = ["250 TL account was received for 1 portion of rice + kuru fasulye + ayran + Cola. Service and waiters are very bad.",
-"We had the opportunity to taste beyran for the first time in our lives and we had heard of the reputation of Metanet's beyran. At first; we had a bit of a prejudice; to be honest; about the intense aroma of meat or fat; but it's not like that at all. Beyrani is so delicious and balanced that we can eat it at any time of the day; morning; noon and evening",
-"Excellent appetizers; great atmosphere; acceptable prices"]
-
-candidates1 = ["UNK UNK UNK . . . . UNK of UNK UNK UNK UNK UNK UNK UNK UNK UNK and UNK are very UNK",
-              "UNK UNK the UNK to UNK UNK for the UNK UNK in our UNK and we UNK UNK of the UNK of UNK UNK UNK UNK we UNK a UNK of a UNK to be UNK UNK . . . . UNK UNK UNK but UNK not UNK that at UNK UNK is UNK UNK and UNK that we can eat it at UNK UNK of the UNK UNK UNK and UNK",
-              "UNK . . UNK UNK UNK"]
-
-candidates2 = ["UNK UNK UNK UNK the Cocum are UNK of rice UNK UNK UNK UNK UNK UNK UNK UNK and UNK are very UNK",
-"We had the UNK to taste UNK for the UNK UNK in our UNK and we had UNK of the UNK of UNK UNK At UNK we had a bit of a UNK to be UNK about Burger King . Our UNK or UNK but UNK not like that at UNK UNK is so delicious and UNK that we can eat it at UNK UNK of the UNK UNK UNK and UNK",
-"UNK are in UNK UNK UNK"]
-
-diff500 = ["UNK UNK UNK Midsummer House with an UNK of rice UNK UNK UNK UNK UNK UNK UNK UNK and UNK are very UNK END",
-"We had the UNK to taste UNK for the UNK UNK in our UNK and we had UNK of the UNK of UNK UNK At UNK we had a bit of a UNK to be UNK about 3 out of 5 UNK or UNK but UNK not like that at UNK UNK is so delicious and UNK that we can eat it at UNK UNK of the UNK UNK UNK and UNK",
-"UNK The Vaults UNK UNK UNK"]
-
-diff1000 = ["",
-"",
-""]
-# for i in candidates2:
-#     print(len(i.split()))
-# for i in candidates1:
-#     print(len(i.split()))
-# for i in references:
-#     print(len(i.split()))
-
-# Compute BERT scores
-# bert_scores = compute_bert_scores(candidates1, references)
-# bert_scores2 = compute_bert_scores(candidates2, references)
-# bert_scores3 = compute_bert_scores(diff500, references)
-
-# Print the results
-# print(bert_scores)
-# print(bert_scores2)
-# print(bert_scores3)
-
+import json
+import csv
+import random
 import matplotlib.pyplot as plt
+import os
+import datetime
+import time
+from evaluate import load
+bertscore = load("bertscore")
 
-# Sample data
-f1_scores = [0.766513,0.781068,0.775862] #bert_scores['F1 Score'].tolist()
-f1_scores2 = [0.784240,0.809651,0.793390] #bert_scores2['F1 Score'].tolist()
-f1_scores3 = [0.786876,0.813213,0.795723]
-categories = ['BERT-large\ntrain=50K steps\ndiffusion=2000 steps', 'BERT-base\ntrain=200K steps\ndiffusion=2000 steps', 'BERT-base\ntrain=200K steps\ndiffusion=500 steps']
-values = [np.average(f1_scores), np.average(f1_scores2), np.average(f1_scores3)]
 
-# Create a bar plot
-fig, ax = plt.subplots()
-bars = ax.bar(categories, values, color='skyblue',width=0.8)
+curtime = '4' #datetime.datetime.now().strftime('%Y%m%d-%H%M')
 
-# Add data labels
-for bar in bars:
-    yval = bar.get_height()
-    ax.text(bar.get_x() + bar.get_width()/2, yval, round(yval, 4), va='bottom')
 
-# Set plot title and labels
-ax.set_title('DiffusionLM output')
-ax.set_xlabel('Categories')
-ax.set_ylabel('BERT Score')
-ax.set_ylim([0.6,0.9])
+def make_dirs():
+    for i in DIFFUSION_STEPS:
+        outdir=f"/home/selinali/diffusion_lm/improved-diffusion/out_gen/diff_{i}"
+        if not os.path.exists(outdir):
+            os.make_dirs(outdir)
 
-# Adjust layout and save the plot
-plt.tight_layout()
-plt.savefig('super_pretty_bar_chart.png', dpi=300)
+def sample_references_from_dataset():
+    l=4693
+    print('sampling')
+    fp = '/home/selinali/diffusion_lm/datasets/e2e_data/src1_test.txt'
+    row_ids = np.random.choice(list(range(l)),20) # test set length
+    with open(fp, 'r') as f:
+        lines = f.readlines()
+    with open(ground_truth_file,'w+') as f:
+        for i in row_ids:
+            f.write(lines[i].split("||")[1])
+
+
+def pad():
+    print('padding')
+    with open(ground_truth_file,'r') as f:
+        sentences = f.readlines()
+    seq={}
+    N=len(sentences)
+    percentages=[]
+
+    with open(partial_seq_file+'.txt','w+') as f:
+        for i in range(N):
+            sen=sentences[i]
+            word_lst = sen.split()
+            l = len(word_lst)
+            nheads = np.random.randint(3,6)
+            heads=np.random.choice(list(range(l)),nheads)
+            gaps=np.random.choice([1,2,2,3,3,4,5],nheads)
+            count = 0
+            # each sentence is padded at 3 locations for a length of 1-5, the locations can overlap.
+            for j in range(nheads):
+                for k in range(heads[j],min(heads[j]+gaps[j],l)):
+                    if word_lst[k]!='PAD' and word_lst[k]!='.' and word_lst[k]!=',':
+                        count+=1
+                        word_lst[k]='PAD'
+            new_sen=' '.join(word_lst)
+            percentage=count/l
+            seq[str(i)] = {'text':new_sen,'percentage':percentage}
+            f.write(new_sen+'\n')
+            percentages.append(percentage)
+    with open(partial_seq_file+'.json','w+') as f:
+        json.dump(seq, f, indent=4)
+    plt.hist(percentages)
+    plt.savefig('/home/selinali/diffusion_lm/improved-diffusion/out_gen/pad_percentages.png')
+
+    
+def run_diffusion(diffusion_step):
+    command=f"python3 {script_path} \
+    --model_path {model_path} --eval_task_ 'infill' \
+    --use_ddim True --eta 1. --verbose pipe --diffusion_steps {diffusion_step} \
+    --partial_seq_file {partial_seq_file}.json --notes {curtime}"
+    print(command)
+    os.system(command)
+
+
+
+partial_seq_file="/home/selinali/diffusion_lm/improved-diffusion/out_gen/sample"
+ground_truth_file='/home/selinali/diffusion_lm/improved-diffusion/out_gen/infill_testdata.txt'
+script_path="/home/selinali/diffusion_lm/improved-diffusion/scripts/infill_parrot.py"
+
+
+categories = []
+values = []
+DIFFUSION_STEPS = [1000,400,200,100,80,40,10,5,2]
+# DIFFUSION_STEPS = [40]
+# sample_references_from_dataset()
+# pad()
+# print(gt_sentences)
+# print(padded_sentences)
+time.sleep(5)
+with open(ground_truth_file,'r') as f:
+    gt_sentences = f.readlines()
+expanded = []
+for sen in gt_sentences:
+    for i in range(8):
+        expanded.append(sen)
+
+model_names=['base']
+for I in range(2):
+    MODEL_NAME=model_names[I]
+
+    # generate infilling test set
+    model_path=f"/home/selinali/diffusion_lm/diffusion-models/{MODEL_NAME}/{MODEL_NAME}.pt"
+
+    categories=[]
+    for i in DIFFUSION_STEPS:  
+        print(f"loop running diffusion step = {i}")
+        # try:
+        # categories.append(f'BERT-{MODEL_NAME}\ndiffusion={i} steps')
+        run_diffusion(diffusion_step=i,)
+        output_file = f"/home/selinali/diffusion_lm/improved-diffusion/out_gen/diff_{i}/{MODEL_NAME}.{MODEL_NAME}.pt.infill_infill_{curtime}.txt"
+        # while True:
+        #     time.sleep(30)
+        #     if os.path.exists(output_file):
+        #         # with open(output_file,'r') as f:
+        #         #     gen_sentences=f.readlines()
+        #         break
+        # # Compute BERT scores
+        # print(len(gen_sentences))
+        # print(len(expanded))
+        # bert_scores = results = bertscore.compute(predictions=gen_sentences, references=expanded, model_type="distilbert-base-uncased")
+        # f1_scores = bert_scores['f1'] 
+        # values.append(np.average(f1_scores))
+        # np.save(np.average(f1_scores))
+        # print(f'{i}:{np.min(f1_scores)}')
+        # # except:
+        # #     continue
+
+    # # Create a bar plot
+    # fig, ax = plt.subplots()
+    # bars = ax.bar(categories, values, color='skyblue',width=0.8)
+
+    # # Add data labels
+    # for bar in bars:
+    #     yval = bar.get_height()
+    #     ax.text(bar.get_x() + bar.get_width()/2, yval, round(yval, 4), va='bottom')
+
+    # # Set plot title and labels
+    # ax.set_title('DiffusionLM output')
+    # ax.set_xlabel('Categories')
+    # ax.set_ylabel('BERT Score')
+    # ax.set_ylim([0.6,0.9])
+
+    # # Adjust layout and save the plot
+    # plt.tight_layout()
+    # plt.savefig('super_pretty_bar_chart.png', dpi=300)
