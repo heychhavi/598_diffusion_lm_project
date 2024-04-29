@@ -12,7 +12,7 @@ from evaluate import load
 bertscore = load("bertscore")
 
 
-curtime = '4' #datetime.datetime.now().strftime('%Y%m%d-%H%M')
+curtime = '6' #datetime.datetime.now().strftime('%Y%m%d-%H%M')
 
 
 def make_dirs():
@@ -25,7 +25,7 @@ def sample_references_from_dataset():
     l=4693
     print('sampling')
     fp = '/home/selinali/diffusion_lm/datasets/e2e_data/src1_test.txt'
-    row_ids = np.random.choice(list(range(l)),20) # test set length
+    row_ids = np.random.choice(list(range(l)),100) # test set length
     with open(fp, 'r') as f:
         lines = f.readlines()
     with open(ground_truth_file,'w+') as f:
@@ -48,7 +48,7 @@ def pad():
             l = len(word_lst)
             nheads = np.random.randint(3,6)
             heads=np.random.choice(list(range(l)),nheads)
-            gaps=np.random.choice([1,2,2,3,3,4,5],nheads)
+            gaps=np.random.choice([1,1,2,2,3,3,4,4],nheads)
             count = 0
             # each sentence is padded at 3 locations for a length of 1-5, the locations can overlap.
             for j in range(nheads):
@@ -84,12 +84,18 @@ script_path="/home/selinali/diffusion_lm/improved-diffusion/scripts/infill_parro
 
 categories = []
 values = []
-DIFFUSION_STEPS = [1000,400,200,100,80,40,10,5,2]
+values_max = []
+runtimes = []
+DIFFUSION_STEPS = [1000,400,200,100,80,40,10,5,2] #
 # DIFFUSION_STEPS = [40]
+
+
+
 # sample_references_from_dataset()
 # pad()
-# print(gt_sentences)
-# print(padded_sentences)
+
+
+
 time.sleep(5)
 with open(ground_truth_file,'r') as f:
     gt_sentences = f.readlines()
@@ -99,51 +105,57 @@ for sen in gt_sentences:
         expanded.append(sen)
 
 model_names=['base']
-for I in range(2):
+for I in range(1):
     MODEL_NAME=model_names[I]
 
     # generate infilling test set
     model_path=f"/home/selinali/diffusion_lm/diffusion-models/{MODEL_NAME}/{MODEL_NAME}.pt"
-
     categories=[]
     for i in DIFFUSION_STEPS:  
         print(f"loop running diffusion step = {i}")
-        # try:
-        # categories.append(f'BERT-{MODEL_NAME}\ndiffusion={i} steps')
-        run_diffusion(diffusion_step=i,)
+        categories.append(f'{i}')
+        # run_diffusion(diffusion_step=i,)
         output_file = f"/home/selinali/diffusion_lm/improved-diffusion/out_gen/diff_{i}/{MODEL_NAME}.{MODEL_NAME}.pt.infill_infill_{curtime}.txt"
-        # while True:
-        #     time.sleep(30)
-        #     if os.path.exists(output_file):
-        #         # with open(output_file,'r') as f:
-        #         #     gen_sentences=f.readlines()
-        #         break
-        # # Compute BERT scores
-        # print(len(gen_sentences))
-        # print(len(expanded))
-        # bert_scores = results = bertscore.compute(predictions=gen_sentences, references=expanded, model_type="distilbert-base-uncased")
-        # f1_scores = bert_scores['f1'] 
-        # values.append(np.average(f1_scores))
-        # np.save(np.average(f1_scores))
-        # print(f'{i}:{np.min(f1_scores)}')
-        # # except:
-        # #     continue
+        time_file = f"/home/selinali/diffusion_lm/improved-diffusion/out_gen/diff_{i}/time"
+        with open(time_file, 'r') as f:
+            lines=f.readlines()
+            runtime=float(lines[1])
+        print(output_file)
+        while True:
+            if os.path.exists(output_file):
+                with open(output_file,'r') as f:
+                    gen_sentences=f.readlines()
+                break
+            time.sleep(30)
+        # Compute BERT scores
+        print(len(gen_sentences))
+        print(len(expanded))
+        bert_scores = results = bertscore.compute(predictions=gen_sentences, references=expanded, model_type="distilbert-base-uncased")
+        f1_scores = bert_scores['f1'] 
+        values.append(np.average(f1_scores))
+        values_max.append(np.std(f1_scores))
+        runtimes.append(runtime)
+        print(f'{i}:{np.min(f1_scores)}')
+        # except:
+        #     continue
 
-    # # Create a bar plot
-    # fig, ax = plt.subplots()
-    # bars = ax.bar(categories, values, color='skyblue',width=0.8)
+    # Create a bar plot
+    fig, ax = plt.subplots()
+    bars1 = ax.bar(categories, values, color='skyblue',width=0.8)
+    bars2 = ax.bar(categories, values_max, bottom=values,color='lightcyan',width=0.8)
+    x = np.arange(len(categories))
+    ax.plot(x, runtimes, label='total runtime')
+    # Add data labels
+    for bar in bars1:
+        yval = bar.get_height()
+        ax.text(bar.get_x() + bar.get_width()/2, yval, round(yval, 4), va='bottom')
 
-    # # Add data labels
-    # for bar in bars:
-    #     yval = bar.get_height()
-    #     ax.text(bar.get_x() + bar.get_width()/2, yval, round(yval, 4), va='bottom')
+    # Set plot title and labels
+    ax.set_title('DiffusionLM output BERT-base')
+    ax.set_xlabel('Number of diffusion steps')
+    ax.set_ylabel('BERT Score')
+    ax.set_ylim([0.6,1])
 
-    # # Set plot title and labels
-    # ax.set_title('DiffusionLM output')
-    # ax.set_xlabel('Categories')
-    # ax.set_ylabel('BERT Score')
-    # ax.set_ylim([0.6,0.9])
-
-    # # Adjust layout and save the plot
-    # plt.tight_layout()
-    # plt.savefig('super_pretty_bar_chart.png', dpi=300)
+    # Adjust layout and save the plot
+    plt.tight_layout()
+    plt.savefig('super_pretty_bar_chart.png', dpi=300)

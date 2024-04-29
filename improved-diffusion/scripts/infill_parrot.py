@@ -189,6 +189,9 @@ def main():
 
     e = time.time()
     print(f"!@# {args.diffusion_steps} time elapsed: {e-s} seconds")
+    with open('./log.txt','a') as f:
+        f.write(f"!@# {args.diffusion_steps} time elapsed: {e-s} seconds\n")
+
 
     dist.barrier()
     logger.log("sampling complete")

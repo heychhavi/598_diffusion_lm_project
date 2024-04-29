@@ -1,82 +1,402 @@
 {
     "0": {
-        "text": "PAD PAD PAD PAD PAD in riverside PAD PAD PAD PAD . They serve English food and it 's kid friendly .",
-        "percentage": 0.4090909090909091
+        "text": "Green PAD PAD PAD PAD - friendly pub just north of PAD city center . It is located on the river , just east of the Express by Holiday Inn .",
+        "percentage": 0.16129032258064516
     },
     "1": {
-        "text": "There is PAD PAD PAD PAD PAD The Phoenix that is family friendly in PAD PAD PAD PAD PAD .",
-        "percentage": 0.5
+        "text": "The Mill , PAD PAD city centre near Caf\u00e9 Rouge , It PAD PAD restaurant with great prices PAD PAD PAD low PAD PAD . PAD serve English food .",
+        "percentage": 0.3333333333333333
     },
     "2": {
-        "text": "The PAD PAD PAD PAD PAD PAD PAD PAD PAD the city centre area . It PAD PAD PAD PAD the moderate price range and is child friendly",
-        "percentage": 0.4642857142857143
+        "text": "PAD PAD PAD PAD Japanese PAD PAD PAD PAD PAD PAD less than \u00a3 20 PAD PAD low customer rating . It is located on the riverside near Raja Indian Cuisine .",
+        "percentage": 0.375
     },
     "3": {
-        "text": "For PAD \u00a3 PAD , PAD PAD PAD , located near Raja Indian Cuisine , delivers Japanese food in a riverside , family friendly environment .",
-        "percentage": 0.19230769230769232
+        "text": "The Express by Holiday Inn PAD PAD PAD The Cricketers coffee PAD",
+        "percentage": 0.3333333333333333
     },
     "4": {
-        "text": "Giraffe PAD PAD fast food PAD PAD PAD PAD PAD in riverside . They are not family - PAD .",
-        "percentage": 0.4
+        "text": "The Mill is an PAD PAD PAD PAD fried fare , PAD is located several blocks from the city PAD . It is family friendly , although on the pricey side . It is located near the Caf\u00e9 Sicilia .",
+        "percentage": 0.15
     },
     "5": {
-        "text": "An English serving child friendly PAD PAD PAD PAD PAD PAD PAD PAD PAD PAD",
-        "percentage": 0.6666666666666666
+        "text": "There is a children friendly English PAD PAD PAD PAD area . It is high price range . It is called PAD PAD , PAD is located PAD PAD PAD PAD .",
+        "percentage": 0.34375
     },
     "6": {
-        "text": "PAD near the Rainbow Vegetarian Caf\u00e9 , a Fast PAD PAD PAD PAD friendly , and situated riverside called PAD .",
-        "percentage": 0.2857142857142857
+        "text": "PAD PAD PAD a PAD that has expensive Chinese PAD , PAD child friendly , and is located riverside near Raja Indian Cuisine .",
+        "percentage": 0.25
     },
     "7": {
-        "text": "PAD PAD PAD PAD PAD English food and are in the city center near Raja PAD Cuisine , check out The Mill pub PAD cheap eats - just do n't bring your kids .",
-        "percentage": 0.20588235294117646
+        "text": "Blue Spice is located on the riverside near the PAD PAD PAD . This PAD PAD PAD PAD and serves English cuisine .",
+        "percentage": 0.30434782608695654
     },
     "8": {
-        "text": "The Punter is near PAD PAD Holiday PAD PAD PAD PAD and is an Indian restaurant . It has a price range is high , PAD PAD PAD , PAD has an average customer rating .",
-        "percentage": 0.2777777777777778
+        "text": "The Punter is a restaurant providing PAD PAD PAD PAD PAD price range . It is located in the city centre . It is near Express by Holiday PAD . PAD customer rating is 1 out of 5 .",
+        "percentage": 0.1794871794871795
     },
     "9": {
-        "text": "Near Raja Indian Cuisine , PAD , there is a PAD PAD PAD PAD PAD PAD PAD .",
-        "percentage": 0.4444444444444444
+        "text": "The Wrestlers is a children PAD PAD PAD PAD Raja PAD PAD PAD the Riverside area , come down to our restaurant in the medium price range",
+        "percentage": 0.25925925925925924
     },
     "10": {
-        "text": "Blue Spice PAD PAD PAD PAD located in the riverside . It PAD PAD friendly is is PAD PAD PAD PAD PAD .",
-        "percentage": 0.4782608695652174
+        "text": "Near PAD PAD Cuisine by riverside , PAD 's a pub PAD PAD food . PAD 's called The Wrestlers , it 's kid friendly and costs around \u00a3 20 - 25 .",
+        "percentage": 0.18181818181818182
     },
     "11": {
-        "text": "The PAD PAD is child friendly and offers fast food priced on average at more PAD PAD PAD . It is PAD PAD PAD PAD area , near Raja Indian Cuisine .",
+        "text": "The Vaults restaurant offers PAD PAD PAD the high price range . PAD PAD PAD PAD of the city , PAD PAD friendly dining choice is located near Raja Indian Cuisine .",
         "percentage": 0.28125
     },
     "12": {
-        "text": "For Italian food in a kids friendly environment , try The Waterman restaurant . PAD PAD PAD 20 PAD PAD , PAD PAD PAD found in the riverside area near Raja Indian Cuisine .",
-        "percentage": 0.23529411764705882
-    },
-    "13": {
-        "text": "The Mill is a fast PAD PAD PAD Caf\u00e9 Rouge with a price range between \u00a3 20 - 25 . PAD PAD PAD PAD PAD rating and is PAD PAD PAD PAD , but it is not kid friendly .",
-        "percentage": 0.3
-    },
-    "14": {
-        "text": "Green Man is a restaurant serving PAD PAD , PAD PAD PAD in the riverside PAD PAD Express by Holiday Inn and PAD PAD PAD PAD friendly .",
-        "percentage": 0.39285714285714285
-    },
-    "15": {
-        "text": "Near the Raja Indian Cuisine in PAD PAD The Waterman PAD PAD PAD PAD friendly , Italian , PAD .",
+        "text": "Located next PAD PAD Indian Cuisine , The Wrestlers is an adult only PAD , PAD PAD PAD PAD .",
         "percentage": 0.35
     },
+    "13": {
+        "text": "The PAD PAD PAD PAD PAD PAD riverside serves a high PAD range Italian PAD .",
+        "percentage": 0.5
+    },
+    "14": {
+        "text": "The PAD PAD PAD PAD PAD , children friendly PAD shop near Ranch",
+        "percentage": 0.46153846153846156
+    },
+    "15": {
+        "text": "Close to The Sorrento you PAD be able to find PAD PAD shop PAD PAD",
+        "percentage": 0.3333333333333333
+    },
     "16": {
-        "text": "The Cricketers is a PAD - Friendly 5 out 5 rating PAD PAD PAD PAD PAD PAD",
-        "percentage": 0.4117647058823529
+        "text": "The Vaults is PAD PAD PAD PAD 5-star sushi PAD PAD pub near Raja Indian Cuisine , north of PAD PAD PAD .",
+        "percentage": 0.391304347826087
     },
     "17": {
-        "text": "The Mill is a higher priced , PAD PAD restaurant serving PAD PAD food . It is located near PAD PAD PAD .",
-        "percentage": 0.30434782608695654
+        "text": "The Cricketers is a child friendly restaurant on the riverside . If you PAD PAD you can eat their Chinese PAD for \u00a3 20-\u00a325 . PAD PAD PAD high customer rating and PAD suitable for kids . Find it PAD near All Bar One .",
+        "percentage": 0.17777777777777778
     },
     "18": {
-        "text": "The Waterman is restaurant which PAD PAD PAD . Not suitable PAD PAD , it is located in PAD PAD PAD near Raja Indian Cuisine . PAD PAD PAD moderate price range .",
+        "text": "The Mill PAD PAD PAD PAD - friendly PAD PAD PAD in PAD PAD centre near Caf\u00e9 PAD . PAD are family - friendly with a 5 out of 5 customer rating .",
         "percentage": 0.3333333333333333
     },
     "19": {
-        "text": "The PAD PAD a high priced restaurant that serves Indian food in the PAD PAD , near Express PAD Holiday Inn , it is child friendly and has an average customer rating .",
-        "percentage": 0.15151515151515152
+        "text": "There is French pub called The Phoenix which has a moderate price range and is kids friendly , but , it has a customer rating of 1 out of 5 . It is located in the city centre near Crowne PAD PAD .",
+        "percentage": 0.046511627906976744
+    },
+    "20": {
+        "text": "There 's PAD restaurant PAD PAD PAD PAD to , PAD PAD PAD price range , PAD PAD food . This restaurant is not PAD PAD PAD is located near Raja Indian Cuisine in the city centre area .",
+        "percentage": 0.3333333333333333
+    },
+    "21": {
+        "text": "The PAD , PAD PAD star French food to families , PAD PAD PAD PAD PAD PAD .",
+        "percentage": 0.5
+    },
+    "22": {
+        "text": "The Punter is an expensive family friendly PAD , PAD PAD PAD PAD the river and just PAD PAD road PAD PAD PAD PAD .",
+        "percentage": 0.44
+    },
+    "23": {
+        "text": "The Vaults is PAD moderately priced restaurant . It is PAD PAD PAD serves PAD PAD , it is located in the PAD centre near Raja Indian Cuisine .",
+        "percentage": 0.2413793103448276
+    },
+    "24": {
+        "text": "The Mill PAD PAD PAD friendly mid price PAD PAD PAD PAD Raja Indian Cuisine .",
+        "percentage": 0.4375
+    },
+    "25": {
+        "text": "PAD PAD is a restaurant providing English Food . PAD PAD PAD in riverside near PAD PAD PAD . Moderate price range and no kids friendly .",
+        "percentage": 0.2962962962962963
+    },
+    "26": {
+        "text": "PAD PAD , a child - friendly , English PAD , PAD PAD PAD riverside area , near Rainbow Vegetarian PAD .",
+        "percentage": 0.3181818181818182
+    },
+    "27": {
+        "text": "Blue Spice PAD PAD PAD PAD friendly pub near Rainbow PAD PAD PAD the riverside PAD .",
+        "percentage": 0.47058823529411764
+    },
+    "28": {
+        "text": "PAD PAD PAD a family PAD PAD PAD PAD PAD in the city centre near Crowne Plaza Hotel offering French food",
+        "percentage": 0.38095238095238093
+    },
+    "29": {
+        "text": "The Vaults pub PAD PAD PAD PAD PAD , sells French food , and has a price range of less than PAD PAD . It is located in the riverside area near Raja Indian Cuisine .",
+        "percentage": 0.19444444444444445
+    },
+    "30": {
+        "text": "There 's a pub that serves Japanese food at Riverside called The Vaults . It 's near Rainbow PAD PAD . PAD price range is about \u00a3 PAD PAD PAD and it 's not PAD - friendly , but the customer Rating is high .",
+        "percentage": 0.15555555555555556
+    },
+    "31": {
+        "text": "The Cricketers is a non - child friendly Chinese restaurant with an PAD PAD rating . They have PAD high price range and are in the city centre area nearby PAD PAD One .",
+        "percentage": 0.14705882352941177
+    },
+    "32": {
+        "text": "There is PAD PAD price range restaurant The Punter PAD PAD PAD PAD Vegetarian PAD . It is not kids friendly and it has low customer ratings but they serve Italian food .",
+        "percentage": 0.21212121212121213
+    },
+    "33": {
+        "text": "There 's this pub that serves Chinese food in the riverside area near PAD PAD PAD PAD The Punter that costs less than \u00a3 PAD PAD is family friendly .",
+        "percentage": 0.2
+    },
+    "34": {
+        "text": "There PAD PAD PAD PAD PAD PAD near Burger King . This pub has a high customer rating .",
+        "percentage": 0.3157894736842105
+    },
+    "35": {
+        "text": "The coffee shop Clowns PAD is PAD PAD PAD PAD has ratings PAD PAD PAD of 5 .",
+        "percentage": 0.4444444444444444
+    },
+    "36": {
+        "text": "Green Man is a pub serving PAD PAD . It is located by the riverside near the PAD PAD PAD PAD PAD PAD PAD PAD - friendly .",
+        "percentage": 0.35714285714285715
+    },
+    "37": {
+        "text": "The PAD PAD PAD PAD PAD Chinese food in the high price range . It is located PAD PAD riverside . It is near All Bar One . Its customer rating is average .",
+        "percentage": 0.20588235294117646
+    },
+    "38": {
+        "text": "There is a PAD PAD PAD called The Punter in the Riverside area , near Express by Holiday Inn , with an average customer rating , PAD PAD PAD food and is also child friendly .",
+        "percentage": 0.16666666666666666
+    },
+    "39": {
+        "text": "riverside PAD PAD PAD PAD PAD price PAD PAD PAD Indian Cuisine",
+        "percentage": 0.6666666666666666
+    },
+    "40": {
+        "text": "Located near Raja Indian PAD the pub PAD PAD PAD PAD PAD coffee to families of all ages in PAD city PAD",
+        "percentage": 0.36363636363636365
+    },
+    "41": {
+        "text": "Located near Avalon , The Cricketers PAD a kid - friendly restaurant that gets a customer rating PAD PAD PAD of 5 .",
+        "percentage": 0.17391304347826086
+    },
+    "42": {
+        "text": "Located in riverside near the Raja Indian PAD PAD PAD PAD PAD PAD PAD French food and PAD PAD PAD friendly",
+        "percentage": 0.47619047619047616
+    },
+    "43": {
+        "text": "The Cricketers is a PAD PAD PAD PAD PAD , PAD PAD PAD PAD is low .",
+        "percentage": 0.5294117647058824
+    },
+    "44": {
+        "text": "The Phoenix is a fast food pub that is children friendly . The prices are more PAD PAD PAD PAD PAD 's PAD PAD Sicilia in PAD PAD PAD .",
+        "percentage": 0.3333333333333333
+    },
+    "45": {
+        "text": "PAD PAD PAD a family friendly restaurant which serves PAD PAD PAD PAD price PAD of less PAD PAD PAD , but has low customer rating . It is located near Caf\u00e9 Rouge in the riverside area .",
+        "percentage": 0.2894736842105263
+    },
+    "46": {
+        "text": "The Wrestlers is a PAD PAD pub PAD PAD PAD friendly food and is located at the city centre near Raja Indian PAD .",
+        "percentage": 0.25
+    },
+    "47": {
+        "text": "PAD PAD PAD Cuisine PAD PAD PAD PAD a family friendly , less than \u00a3 20 Japanese food place , PAD PAD .",
+        "percentage": 0.391304347826087
+    },
+    "48": {
+        "text": "Highly rated PAD pub near Crowne Plaza Hotel is The Phoenix . It is not kids friendly . The price ranges from \u00a3 20 - 25 .",
+        "percentage": 0.037037037037037035
+    },
+    "49": {
+        "text": "The PAD PAD PAD Japanese restaurant near Raja Indian Cuisine in riverside . It PAD children friendly and the price range is more than \u00a3 PAD .",
+        "percentage": 0.18518518518518517
+    },
+    "50": {
+        "text": "Riverside has a child friendly quick PAD PAD PAD The Mill . It PAD a average customer rating and is in the PAD PAD PAD . It is located near Caf\u00e9 PAD .",
+        "percentage": 0.24242424242424243
+    },
+    "51": {
+        "text": "Family Friendly The Phoenix is a PAD PAD PAD Fast food . It is PAD PAD PAD PAD Raja Indian PAD .",
+        "percentage": 0.36363636363636365
+    },
+    "52": {
+        "text": "The PAD PAD PAD located near PAD PAD PAD PAD city centre and PAD PAD PAD PAD range .",
+        "percentage": 0.5789473684210527
+    },
+    "53": {
+        "text": "Wildwood is a French restaurant near Raja Indian Cuisine PAD riverside . PAD is family - Friendly .",
+        "percentage": 0.1111111111111111
+    },
+    "54": {
+        "text": "Caf\u00e9 Rouge is children friendly in the riverside area and has PAD PAD PAD PAD PAD opposed PAD PAD PAD PAD PAD PAD PAD a high price range called The Mill .",
+        "percentage": 0.375
+    },
+    "55": {
+        "text": "The Mill offers Japanese food and restaurant with cheap price near PAD Rouge PAD PAD .",
+        "percentage": 0.1875
+    },
+    "56": {
+        "text": "There is an inexpensive and family friendly pub serving PAD PAD PAD PAD PAD PAD in riverside called The Mill .",
+        "percentage": 0.2857142857142857
+    },
+    "57": {
+        "text": "The PAD PAD a restaurant PAD PAD food in the cheap price range . It is PAD in PAD PAD PAD . It is near Crowne Plaza Hotel . Its customer rating is 5 out of 5 .",
+        "percentage": 0.21052631578947367
+    },
+    "58": {
+        "text": "The PAD PAD PAD low PAD price family friendly pub located next to PAD PAD .",
+        "percentage": 0.375
+    },
+    "59": {
+        "text": "The Cricketers is PAD children - friendly restaurant near Avalon . It is rated at PAD PAD PAD PAD .",
+        "percentage": 0.25
+    },
+    "60": {
+        "text": "PAD Strada is a PAD PAD PAD PAD One that PAD PAD PAD PAD of 1 PAD PAD 5 .",
+        "percentage": 0.55
+    },
+    "61": {
+        "text": "PAD Punter is a Italian restaurant near Rainbow Vegetarian Caf\u00e9 . This family - PAD PAD PAD PAD PAD PAD PAD has a average rating with cheap prices .",
+        "percentage": 0.27586206896551724
+    },
+    "62": {
+        "text": "If you are looking for a non children - friendly restaurant , with prices around \u00a3 PAD , PAD PAD high PAD PAD , The Punter is for PAD . PAD PAD PAD food PAD PAD is located in the city centre , near Express by Holiday Inn .",
+        "percentage": 0.22448979591836735
+    },
+    "63": {
+        "text": "Wildwood PAD a family oriented restaurant that PAD PAD PAD . It is located Near PAD PAD PAD PAD City Centre .",
+        "percentage": 0.36363636363636365
+    },
+    "64": {
+        "text": "On the riverside near PAD Indian Cuisine The PAD serves PAD PAD . This pub is PAD PAD PAD PAD PAD .",
+        "percentage": 0.4090909090909091
+    },
+    "65": {
+        "text": "The Wildwood is an Indian pub in the PAD PAD . PAD pub is very PAD PAD PAD PAD PAD PAD PAD Raja Indian Cuisine .",
+        "percentage": 0.38461538461538464
+    },
+    "66": {
+        "text": "Japanese food can be found PAD PAD PAD PAD area at The PAD PAD . This average - priced option is not a good location to bring PAD . PAD PAD can be found next to Raja Indian Cuisine .",
+        "percentage": 0.225
+    },
+    "67": {
+        "text": "The Wrestlers , located by the margin PAD PAD river , next to Raja Indian Cuisine , PAD a high cost PAD PAD provides Japanese PAD .",
+        "percentage": 0.2222222222222222
+    },
+    "68": {
+        "text": "If you are interested in quality coffee and PAD PAD PAD PAD price tag to match , come to The Punter . The shop is located in the PAD of the city near Express by Holiday Inn . PAD PAD PAD focused on an adult clentele with a customer rating of 1 out of 5 .",
+        "percentage": 0.14285714285714285
+    },
+    "69": {
+        "text": "Situated near the PAD PAD PAD PAD the riverside area of PAD city , The Blue PAD PAD , PAD PAD if you fancy traditional English food whilst out with the kids .",
+        "percentage": 0.2727272727272727
+    },
+    "70": {
+        "text": "The PAD PAD a restaurant providing Chinese food in the high price PAD . PAD PAD PAD in the riverside . It PAD PAD All Bar One . Its customer rating is average .",
+        "percentage": 0.23529411764705882
+    },
+    "71": {
+        "text": "The Phoenix PAD a restaurant near Raja Indian Cuisine in the PAD PAD . They serve Fast food , PAD PAD PAD or services , in a high price range .",
+        "percentage": 0.1935483870967742
+    },
+    "72": {
+        "text": "A high priced restaurant PAD PAD PAD serves Indian food in the city PAD PAD PAD PAD PAD PAD PAD not family friendly .",
+        "percentage": 0.4166666666666667
+    },
+    "73": {
+        "text": "A PAD PAD restaurant called The PAD PAD located near Caf\u00e9 PAD . It has a low customer rating .",
+        "percentage": 0.25
+    },
+    "74": {
+        "text": "The Mill PAD a PAD PAD PAD PAD Cuisine . It is on the riverside and is child friendly . PAD PAD is English and over \u00a3 PAD .",
+        "percentage": 0.27586206896551724
+    },
+    "75": {
+        "text": "PAD Punter pub PAD PAD PAD PAD PAD PAD PAD Chinese food . It PAD PAD PAD PAD moderately priced . Located near Raja Indian Cuisine .",
+        "percentage": 0.4444444444444444
+    },
+    "76": {
+        "text": "By Caf\u00e9 Rouge in city PAD PAD The Mill British PAD , family - friendly PAD PAD PAD of 5 .",
+        "percentage": 0.2857142857142857
+    },
+    "77": {
+        "text": "The Plough PAD PAD PAD restaurant and restaurant in PAD PAD PAD PAD PAD Indian Cuisine . It PAD PAD friendly and has cheap pricing .",
+        "percentage": 0.38461538461538464
+    },
+    "78": {
+        "text": "The Giraffe PAD a restaurant serving PAD PAD . It 's PAD PAD PAD Indian Cuisine in PAD . PAD do n't bring the kids",
+        "percentage": 0.32
+    },
+    "79": {
+        "text": "Family friendly PAD PAD PAD PAD PAD PAD the Raja Indian Cuisine . Offering PAD PAD PAD PAD prices .",
+        "percentage": 0.5
+    },
+    "80": {
+        "text": "PAD Cricketers is PAD PAD PAD in the city centre area nearby All Bar One . They have an average customer rating , a high price range , and are not child - PAD .",
+        "percentage": 0.14285714285714285
+    },
+    "81": {
+        "text": "Near Raja Indian Cuisine in the riverside area you can find The PAD . This adult pub PAD PAD PAD PAD .",
+        "percentage": 0.22727272727272727
+    },
+    "82": {
+        "text": "With a PAD PAD PAD PAD out of 5 , The PAD PAD a child friendly restaurant PAD PAD PAD PAD Hotel .",
+        "percentage": 0.43478260869565216
+    },
+    "83": {
+        "text": "Near Express by Holiday Inn their PAD PAD PAD that PAD PAD PAD PAD Italian food along the PAD PAD PAD PAD .",
+        "percentage": 0.4782608695652174
+    },
+    "84": {
+        "text": "The Waterman is a pub providing Indian food PAD PAD PAD PAD \u00a3 20 price range . It is PAD PAD PAD PAD centre . It is near Raja Indian Cuisine .",
+        "percentage": 0.25
+    },
+    "85": {
+        "text": "There is a moderately PAD PAD called The Wrestlers in the PAD of the city near Raja Indian Cuisine . It serves Japanese PAD PAD PAD PAD PAD welcomed .",
+        "percentage": 0.26666666666666666
+    },
+    "86": {
+        "text": "PAD PAD friendly English pub located in PAD PAD PAD Indian Cuisine that is moderately PAD PAD PAD PAD Punter .",
+        "percentage": 0.42857142857142855
+    },
+    "87": {
+        "text": "The Cricketers is a restaurant PAD PAD PAD PAD the \u00a3 20 - 25 price range . It is located PAD PAD PAD . It PAD PAD All Bar One . Its customer rating is high .",
+        "percentage": 0.24324324324324326
+    },
+    "88": {
+        "text": "Wildwood is a family - PAD PAD PAD PAD PAD PAD Cuisine in PAD PAD .",
+        "percentage": 0.5
+    },
+    "89": {
+        "text": "The Wrestlers is a pub serving Japanese food . It is situated near Raja Indian Cuisine PAD PAD PAD . PAD PAD PAD than \u00a3 20 . PAD family - friendly .",
+        "percentage": 0.21875
+    },
+    "90": {
+        "text": "The Wrestlers pub a variety of foods , PAD PAD PAD Raja Indian PAD in the City centre",
+        "percentage": 0.2222222222222222
+    },
+    "91": {
+        "text": "A kid friendly English PAD PAD in riverside near Raja Indian Cuisine that is moderately PAD PAD PAD PAD PAD .",
+        "percentage": 0.3333333333333333
+    },
+    "92": {
+        "text": "The Vaults restaurant is a family oriented restaurant PAD PAD some of the best wine in the area . Also close PAD PAD PAD PAD",
+        "percentage": 0.24
+    },
+    "93": {
+        "text": "The Vaults pub , PAD PAD PAD City centre , offers PAD PAD PAD PAD suitable for kids as well as adults . With a customer PAD PAD PAD out of 5 , it is an alternative to the Rainbow Vegetarian Caf\u00e9 located nearby .",
+        "percentage": 0.2222222222222222
+    },
+    "94": {
+        "text": "Near Raja Indian Cuisine PAD the city centre is a Japanese pub called The Wrestlers . PAD PAD PAD price range of more than \u00a3 30 and is not kid - friendly .",
+        "percentage": 0.12121212121212122
+    },
+    "95": {
+        "text": "The Wrestlers is a pub providing Japanese food in the moderate PAD PAD . PAD PAD located in the riverside area near Raja Indian Cuisine PAD PAD",
+        "percentage": 0.2222222222222222
+    },
+    "96": {
+        "text": "Green Man PAD PAD Italian food PAD a kids friendly setting . located near PAD PAD by Holiday PAD PAD PAD PAD area .",
+        "percentage": 0.375
+    },
+    "97": {
+        "text": "The Mill is an English restaurant near PAD PAD PAD PAD with has a moderate price range , is not kids PAD , and has PAD 3 out of 5 customer rating .",
+        "percentage": 0.18181818181818182
+    },
+    "98": {
+        "text": "Looking for a restaurant PAD PAD PAD in the price range PAD PAD PAD PAD 20 , with low customer PAD PAD the city centre area near PAD PAD Holiday Inn and is family friendly , then visit The Punter .",
+        "percentage": 0.2682926829268293
+    },
+    "99": {
+        "text": "Near Caf\u00e9 PAD PAD PAD riverside there is a restaurant PAD PAD PAD PAD with a moderate price range and rating of PAD PAD PAD 5",
+        "percentage": 0.38461538461538464
     }
 }
