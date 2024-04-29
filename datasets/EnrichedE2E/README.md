@@ -1,3 +1,6 @@
+# Run transform_data.py to get data in txt file
+
+
 # EnrichedE2E
 Enriched version of the E2E dataset introduced in the INLG 2021 paper "Enriching the E2E Dataset"
 
