@@ -94,4 +94,16 @@ Real Command feed into train.py:
 OPENAI_LOGDIR=diffusion_models/diff_e2e-tgt_block_rand16_transformer_lr0.0001_0.0_2000_sqrt_Lsimple_h128_s2_d0.1_sd102_xstart_e2e  TOKENIZERS_PARALLELISM=false python scripts/train.py   --checkpoint_path diffusion_models/diff_e2e-tgt_block_rand16_transformer_lr0.0001_0.0_2000_sqrt_Lsimple_h128_s2_d0.1_sd102_xstart_e2e --model_arch transformer --modality e2e-tgt --save_interval 50000 --lr 0.0001 --batch_size 64  --diffusion_steps 2000 --noise_schedule sqrt  --use_kl False --learn_sigma False  --image_size 8 --num_channels 128 --seed 102 --dropout 0.1 --in_channel 16 --out_channel 16 --padding_mode block --experiment random  --lr_anneal_steps 200000 --weight_decay 0.0 --num_res_blocks 2  --predict_xstart True --training_mode e2e --vocab_size 821  --e2e_train ../datasets/e2e_data
 ```
 
+## Our commands
+
+### BERT-large
+` OPENAI_LOGDIR=diffusion_models/diff_e2e-tgt_block_rand16_transformer_lr0.0001_0.0_2000_sqrt_Lsimple_h128_s2_d0.1_sd102_Bert_large  TOKENIZERS_PARALLELISM=false python scripts/train.py   --checkpoint_path diffusion_models/diff_e2e-tgt_block_rand16_transformer_lr0.0001_0.0_2000_sqrt_Lsimple_h128_s2_d0.1_sd102_Bert_large --model_arch transformer --modality e2e-tgt --save_interval 50000 --lr 0.0001 --batch_size 64  --diffusion_steps 2000 --noise_schedule sqrt  --use_kl False --learn_sigma False  --image_size 8 --num_channels 128 --seed 102 --dropout 0.1 --in_channel 16 --out_channel 16 --padding_mode block --experiment random  --lr_anneal_steps 200000 --weight_decay 0.0 --num_res_blocks 2  --predict_xstart True --training_mode e2e --vocab_size 821  --e2e_train ../datasets/e2e_data `
+
+*Didn't converge tho
+
+### Infilling
+`python3 diffusion_lm/improved-diffusion/scripts/infill_parrot.py     --model_path diffusion_lm/diffusion-models/large/large.pt --eval_task_ 'infill'     --use_ddim True --eta 1. --verbose pipe --diffusion_steps 2     --partial_seq_file diffusion_lm/improved-diffusion/out_gen/sample.json --notes 3`
+
+`python3 diffusion_lm/improved-diffusion/scripts/infill_parrot.py --model_path diffusion_lm/checkpoints/ema_0.9999_200000_base.pt --eval_task_ 'infill' --use_ddim True  --notes '1' --eta 1. --verbose yes --diffusion_steps 20 --train_args_name base --partial_seq 'PAD PAD PAD , PAD PAD PAD PAD , PAD PAD PAD PAD PAD PAD PAD .' --out_dir diffusion_lm/improved-diffusion/out_gen/diff_20`
+
 presentation link for the paper: [link](https://slideslive.com/38990777/diffusionlm-improves-controllable-text-generation?ref=speaker-34175)
