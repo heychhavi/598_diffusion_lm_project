@@ -1,0 +1,184 @@
+START The Golden Curry restaurant , a family friendly atmosphere , serves English and has average customer ratings . 
+ END START , 3 star Zizzi coffee shop , Zizzi , is in the city centre . Children friendly and averagely , 
+ END START Cotto , a children friendly French restaurant near Ranch . a Customer UNK of 3 out of 5 , , pub family a friendly Located START . END
+START Express by Holiday Inn , The Rice Boat has , customer rating of 5 out of 5 . UNK Japanese food , is not family - friendly , the prices range at a cheap UNK . 
+ END START There , a moderately - priced , kid friendly restaurant called Travellers Rest Beefeater . 
+ END UNK The Dumpling Tree is a , why place . its is riverside service . END
+START Located near Café Brazil , The Cambridge Blue is , pub serving Italian food at high prices . 
+ END START , Wrestlers coffee shop is French , and is near the Rainbow Vegetarian Café . Located at the riverside , it 's kid friendly , and is located near Raja Indian Cuisine . 
+ END UNK For fast - style food , 
+ , it is than Italian , . END
+START The Eagle is a , shop serving Indian food , great coffee and price range price , . UNK the , , is not good for families , near the Burger King along the river . 
+ END START The , Curry is a family , Indian restaurant with a low rating . . END START UNK UNK of UNK UNK UNK , your restaurant UNK 
+ are for a . END
+START For an Italian restaurants , close to Café Sicilia , check out the The Punter coffee shop . It 's family , friendly . 3 star stars , very higher prices and good rated . . END START The Waterman , a family friendly restaurant , which prices of less than £ 20 . Go to UNK you English UNK by UNK , 5 this , much to Italian UNK . END
+START Browns Cambridge coffee shop , near Crowne Plaza Hotel , is serves French food , family friendly . on the riverside , 
+ END START The Vaults , which is located near the Café Brazil . It is highly rated , family friendly and cheap , coffee shop . 
+ END START Clowns . a riverside UNK shop , near Clare Hall , Hotel . near START 
+ The Vaults . END
+START A high priced restaurant , , The Golden Palace , is located on UNK part of Cambridge . It offers sushi , UNK . 
+ END START , Browns Cambridge is a family - friendly . providing English food . , is located in the , centre near The Sorrento . 
+ END . The English UNK is served at Midsummer House , The The in - The pub friendly . END
+START Located near Café Rouge , The Plough pub pub , serves has amazing Indian food . It . not kid friendly , and its will cost you , £ 20 - 25 . 
+ END . Strada , Chinese food , more than £ 30 , is located near the Rainbow Vegetarian Café . UNK in UNK UNK and UNK UNK friendly , range not located restaurant at generally average . END
+START There is a cheap , three - star restaurant , The Rice Boat , that 's family . . 
+ END , Browns Cambridge is an average , Indian coffee shop near Crowne Plaza Hotel . Locate in riverside area , it 's family friendly , 
+ END START Cocum is a cheap . family friendly UNK . Customer ratings are average , river is near Food an and to . END
+START Looking for a Japanese , in the riverside area , that is child friendly and have rated . rating by customers , a 5 out of 5 , named The Golden Curry . 
+ END . In the city centre , called The Olive Grove , is moderately priced but not kid friendly . 
+ END UNK Cocum is a kid friendly , and Rouge that pub , known , . END
+START Low priced English restaurant , Green Man is not , friendly . Located in the riverside area . 
+ END START , Olive Grove is a pub , the city centre which serves Indian food . It is quite expensive , but not family friendly , 
+ END START The Golden Curry Chinese . has a UNK rating of 5 out of , is very the an pub The is . END
+START 
+ END START Wildwood , serves English food and , a 1 out of 5 customer rating . 
+ END START , Golden Curry near The Bakers , is an Italian restaurant for adults only . 
+ END START The , Boat is child friendly , has a high price range Japanese food . It is UNK the Express by Holiday Inn , The is is near UNK price near . END
+START 
+ END START The , is a fast food , located near Raja Indian Cuisine in riverside . It is a , - friendly coffee shop with , price range of more than £ 30 . 
+ END START The , is a five star , situated UNK UNK of UNK of town . They can UNK College . 
+ END START , in and cheeses They 
+ , riverside . END
+START Located near Café Sicilia , a family friendly coffee , called The Punter , has Japanese food . less than £ , and a low customer rating , 
+ END START For a child friendly . and will experience UNK , you could try Clowns , a pub style restaurant with riverside area . Although the UNK has a nice price range , £ pub pub friends 20 average and . END
+START In the city centre , near The Portland Arms , you will find a Cotto type coffee . Serving Japanese food , the price range is high , and the customer rating is quite low . 
+ END START UNK , Check out The Wrestlers , with a 5 out of 5 rating . Japanese food UNK if you won ' t , shop Yes , so are Adults UNK . END
+START With a moderate price , The Rice Boat restaurant , kids - friendly with an average rating . Located in Riverside , near the close to Express , Holiday Inn , you will find it . 
+ END START The , Midsummer House is cheap , cheap , French restaurant located next to . Bar One UNK 
+ END START Customer rated , a English with START I on , . END
+START The kid friendly place , Taste of Cambridge , , is a coffee shop with French food . Located in Riverside , near Crowne Plaza Hotel . , END START The Mill is a coffee . , at the riverside , located near The Sorrento , Prices range from more than £ 30 . a delicious UNK 
+ END START The Mill , has riverside a Food than coffee French . END
+START Located near Clare Hall , Bibimbap House has Chinese , price range from £ 20 - 25 . 
+ END START , Strada near Rainbow Vegetarian Café , French cuisine has an average customer rating . Despite the price range , less than 20 pounds , and no , it is not family . . 
+ UNK START The Zizzi pub is , , has less is , near average . END
+START The Phoenix , located , of the city centre , offers a full - UNK British UNK . 
+ END START , Cambridge Blue is an Indian , serving restaurant with a low customer rating . 
+ END START There , a high - priced , children friendly restaurant named The Waterman . . END START UNK a high rating The Vaults , 
+ 
+ The restaurant is , The . END
+START If you UNK coffee , in the riverside district , come for The Vaults near Café Brazil . It 's got , 5 out of 5 rating , and is meal , usually £ 30 . 
+ END START Cotto , is not children friendly , but is rated 3 out of 5 . At the UNK Strada they sell French food , a is riverside love The 
+ Japanese . END
+START The Taste of Cambridge , near Crown Plaza Hotel , is a kid friendly fast food restaurant . 
+ END START , it is a UNK restaurant , rating is The Golden Palace in riverside . 
+ END START Near , Rice Boat in riverside , The Twenty Two offers cheap for food . It is UNK and has UNK average reviews , near Golden is Palace prices high riverside . END
+START In the riverside area , near the Café Adriatic , is the averagely priced Travellers Rest Beefeater . With low ratings , that it its city centre , it can be found near Café Adriatic . It is not family , friendly . 
+ END , The Punter is a moderately priced restaurant . 
+ END UNK No name is The Vaults , near spaghetti a UNK , low , . END
+START Located in city centre , is a high rated , inexpensive Japanese food restaurant , The Phoenix . 
+ END START , Wrestlers is a family friendly , low - cost and typical Japanese food . 
+ END START Giraffe , located near The Bakers , is a family friendly coffee shop , . a customer UNK of 5 out of 5 , high high low standard serves UNK provides . END
+START The Rice Boat is , at The Olive Grove , near the city centre . It is . family - friendly , 
+ END START Loch Fyne , a restaurant providing kid friendly Italian food . £ 30 price range , 
+ END START Zizzi , a Japanese , child friendly pub , . its customer UNK is 1 out of 5 , in The Italian range in a £ . END
+START For an English meal , try The Plough near , Bakers . 
+ END START Loch Fyne . a fast food , that is not kid friendly , average price between £ 20 - 25 . 
+ END START Clowns , located near Café Sicilia , is family friendly and family friendly too . It is UNK than £ 20 but has , is 
+ a kids with range between . END
+START Blue Spice is a , restaurant in the average , range , boasts an average customer rating . Good the service , it is not family friendly , and is located in the riverside area . 
+ END START The , Boat is an Italian , . 
+ END START The Golden Curry . an Italian UNK located near The Bakers . , as the customer is below earned an . END
+START In the riverside area , near the Burger King , you can visit The Eagle coffee shop . While the Japanese , for less than 20 pounds , it boasts a low customer rating . . END START Bibimbap House , a fast food restaurant , it is located near The Rice Boat . It is UNK riverside . 
+ END START , the food UNK restaurant 20 than for . END
+START Family - friendly venue , with average customer rating , serving cheap Italian food . 
+ END . A low rated , French restaurant near Café Rouge , the city centre is The Golden Curry . 
+ END START Wildwood , a French pub establishment , serves alcohol and has higher than average . . 
+ UNK START The Wrestlers is a , family city , average restaurant Family is . END
+START There is a riverside , called The Rice Boat , located near the Express by Holiday Inn . They have a , out of 5 customer rating , with a non - kid friendly environment . The average is of , moderately - priced UNK , 
+ END START The Wrestlers is an . full English UNK . It is child friendly , The this French - of , UNK . END
+START Near the city centre , The Eagle is a , Italian food coffee Shop near Burger King . It 's cheap , it is family - friendly , and 5 out of 5 customer rating . 
+ END START There , a family friendly pub , The Plough , is serving French food . The average UNK is less than £ 20 , the is a less coffee and 20 . END
+START The French restaurant The , Tree has a moderate , range . 
+ END START Green Man . the city centre , located near All Bar One , offers French food and is kid friendly . 
+ END START Fitzbillies , is a coffee shop , offering Japanese food for mid range prices . It has UNK excellent rating , is located , near , and has Italian is good . END
+START Offering cheap French food , near to The Bakers , The Golden Curry serves is family friendly . 
+ END START , Dumpling Tree is a pub , it is located near The Portland Arms . It is family friendly , is family friendly , , serves Italian food . 
+ END START . is a UNK pub north of the City , and The a and a friends family . END
+START The Rice Boat restaurant , a 5 - rated , French restaurant in City centre , 's . UNK friendly . , END START The Rice Boat , located close to Express by Holiday Inn . a low customer rating , moderate price range service , and is in the area of riverside . 
+ END UNK There is a high priced , more restaurant UNK END a 
+ atmosphere . END
+START The Eagle family friendly , French style restaurant , , located near Burger King . UNK prices . under 20 pounds , the customer rating is low , 
+ END START The riverside Travellers Rest . near Café Adriatic , , a low rating and , price range of less than £ 20 . 
+ END UNK Located near All Bar One , , a price less has offers Beefeater . END
+START The Indian food restaurant , Fitzbillies , is cheap , rated 5 out of 5 by customers . It is rather , riverside . It is also , Friendly . 
+ END START The Golden . provides Chinese food It , located in the city , . It is near the Café Rouge . Its customer UNK is 5 out of 5 , the expensive is . . rating is . END
+START Located near Café Brazil , there is a pub , serving Japanese food called The Cambridge Blue . It is expensive , and costs more than £ , . 
+ END START There is an . restaurant in riverside called , Phoenix . It has , rating of 5 out of 5 . . END START UNK the riverside near Burger King , serves customer UNK rating It has It . END
+START For great riverside food , try the Wildwood Pub , near Café Rouge and UNK up . . END START Yes , there is a high end , kids friendly restaurant , called Loch Fyne . It is Fast food , 
+ END START Cotto , near Ranch offers family friendly French food . It has UNK high customer rating and is , UNK in located Cotto called nearby bar . END
+START The Punter is a , shop offering fast food , it is located near the Café Sicilia . It is cheap , but the customer rating , , family friendly and UNK a UNK food . 
+ END START Fitzbillies , is a coffee shop , Indian food in the high price range . It is UNK in a city centre and , delicious near stop shop is 5 of . END
+START For a 3 star , family friendly coffee shop , try the UNK , the Blue Spice . It is located , the city centre near Avalon , offers good reviews for low prices . . END START Browns Cambridge , a child friendly restaurant , near The Sorrento , serves Chinese foods . 
+ END UNK Located near Rainbow Vegetarian Café , , , 
+ near a priced END . END
+START In the riverside area , near to Café Brazil , is a coffee shop called The Vaults . Offering you type , with at moderate prices , , customer rating of 3 out of 5 . 
+ END START For , 's cheap Italian food , visit Blue Spice in the riverside area . 
+ END UNK The Golden Curry serves Chinese , great there Blue UNK find is with . END
+START Located near All Bar , , UNK UNK UNK , Green Man , located in city centre . Serving Italian food , the customer rating is high , and it is not family - friendly . 
+ END START Alimentum , a highly - rated , family friendly restaurant , serves Indian food . It is UNK priced . 
+ END START , Food one UNK is less go near . END
+START Located near Café Rouge , The Plough serves Chinese , menu items : £ 30 and more . 
+ END START , Vaults is a family friendly , cheap fast food joint . 
+ END . Near Rainbow Vegetarian Café , there is a cheap , family Chinese food joint place called Strada . The average UNK received a low customer rating , and a 
+ Strada fast its is . END
+START The Eagle , a , restaurant serving French food , coffee is a coffee shop style UNK . In the side , near Burger King . Yes , it is rate 1 out of 5 . It is children friendly , 
+ END START Cotto , an Indian restaurant , is kid friendly . The customer UNK is 1 out of 5 , it with the UNK very quite is . END
+START Near The Portland Arms , is The Dumpling Tree , offering wonderful English food . 
+ END . For Italian food , and near Burger King , , go to the UNK UNK in Cambridge . The Eagle coffee shop , not child - friendly , but the prices are more than £ . . 
+ UNK START Blue Spice is a , . rated The . eat due UNK . END
+START Italian food and coffee , UNK from Clare Hall , and Clowns has a 3 star rating . 
+ END START , Golden Curry is a high , Chinese restaurant . It is family friendly . located near The Bakers , 
+ END START Clowns , a coffee shop located near Clare Hall . It has UNK customer ratings and is Japanese , The a cheaper riverside The food UNK . END
+START With good customer reviews , and a moderate price , Blue Spice is in the city centre . 
+ END START , Japanese food at The Waterman , would UNK from the Crowne Plaza Hotel . 
+ END START Cotto , a family friendly restaurant , is a three star restaurant near Ranch . 
+ END UNK The Rice Boat , a , , clentele near kid UNK Indian near . END
+START Near the The Sorrento , there is a riverside , Japanese coffee shop named , The Mill . The type much , and UNK a great food , with UNK meals for about 30 euros . 
+ END START Cocum , is a restaurant that , moderately priced , but not kid friendly . It has UNK 3 out of 5 rating , , shop restaurant and by want for . END
+START Riverside near Café Rouge , The Golden Curry is , Japanese . Rated 5 out of 5 . Family friendly . , END START The Green Man , English food for less than 20 pounds . A family friendly and , in the riverside area , 
+ END START The Olive Grove pub . Chinese food UNK a moderate price range . , French Italian The The The START . . END
+START Near The Portland Arms , is a fast food , 3 - star coffee shop called Cotto . Located in Riverside , in the City centre . , END START Wildwood is a coffee shop . It is low rated , serves French food and , a price range of more than £ . . 
+ UNK START Near All Bar One , END near In Fitzbillies site . rated . END
+START Located by the riverside , near to Café Rouge , The Golden Curry is an Indian restaurant . UNK UNK delicious , average UNK UNK , UNK , and they are not recommended for children . 
+ END START Fitzbillies , in the city centre , is a family - friendly coffee shop . French food UNK Located in the City Centre , an is family a get The , . END
+START In the city centre , close to Café Sicilia , The Dumpling Tree offers has UNK in . coffee shop that , it is not kid friendly , but the price is more than £ . . 
+ END START , is The Vaults for , kid - friendly , English food . . END START UNK riverside and kid friendly venue , need UNK , English kid 's just . END
+START Near Crowne Plaza Hotel , in the city centre , is a coffee shop called Browns Cambridge . UNK low rating , and is not kid friendly , 
+ END START At a high UNK . riverside , Bibimbap House , the fast food restaurant , can be found close to Clare Hall . 
+ END UNK Cocum is a child friendly , Chinese called shop be START restaurants the . END
+START Located on the riverside , Fitzbillies is a kid , friendly coffee shop that serves Italian food . Customer rating is , out of 5 . 
+ , START The Olive Grove has a price . less than £ 20 , is not family friendly , and is a pub serving Japanese food . 
+ END UNK Check out Loch Fyne restaurant , one , pub spot low only is . END
+START Located near The Bakers , go to The Giraffe , It is a new rated coffee shop . With UNK reviews , they are not children friendly , but usually cost less than 20 pounds . 
+ END START Alimentum , an Italian riverside restaurant , is kid friendly and has moderate prices . 
+ END UNK Loch Fyne is a restaurant , be a affordable The and go restaurant . END
+START There is a pub , Browns Cambridge , Cocum , with 5 out of 5 customer rating . Enjoy great food , for up £ 30 £ , 
+ END START Alimentum is an Indian . restaurant restaurant in Riverside , near Yippee Noodle Bar , has moderate well , and low reviews . 
+ END UNK Strada is a moderately priced , English £ with near Yippee 5 Yippee . END
+START If you 're looking , a pub type eatery , try The Vaults , near Café Brazil . It has a , range of less than £ , as well as a high customer rating . 
+ END START Cotto , a coffee shop is , near The Portland Arms on the riverside . It offers UNK for less than 20 pounds , coffee It UNK Food , , 30 . END
+START In the riverside area , near Café Brazil , , is a coffee shop named The Vaults . They have a , customer rating and are in , price range of £ 20 - 25 . 
+ END START There , a kid friendly restaurant , a 3 out of 5 customer rating . The Italian UNK is called The Golden Curry , which , is a and a range . END
+START Browns Cambridge is a , friendly Japanese restaurant near , Sorrento . 
+ END START Near Ranch . a cheap eatery , Wildwood . It is Italian , a 5 out of 5 customer rating . 
+ END START Yes , there is a pub , called The Olive Grove which serves Japanese . . It UNK located in the city centre , Cotto pub is , There the friendly . END
+START If you like to , for quality Indian food , The Wrestlers is a family friendly restaurant . The price range , less than £ 20 per , a low customer satisfaction service . 
+ . START A great place , UNK in riverside that , family friendly is called The Rice Boat . It is UNK near Express by Holiday Inn , The food UNK while for a is . END
+START Near Rainbow Vegetarian Café , there is an average , cheap Italian restaurant called Strada . It . not child friendly , 
+ END START The Waterman , an average restaurant that sells Italian food . 
+ END START The , is a high priced , three star restaurant located near the river . 
+ END UNK Cocum , a coffee shop , near is fast an . is an . END
+START Near The Portland Arms , in the riverside area , is a cheap restaurant called The Punter . 
+ END START , Phoenix provides French food at , prices ranging from £ 20 - 25 . Located in city centre , UNK the why it , have 3 out of 5 customer rating . 
+ END UNK There 's a French food , , £ , this for all UNK . END
+START 
+ END START Giraffe , a French style pub , , is located in the city centre . Not family - , . 
+ END START The , , a coffee shop located near Burger . in the city centre , offers cheap Fast food , an average customer rating . 
+ END . Fitzbillies the UNK restaurant near The Six Bells , , a is rating price 's average . END
+START Alimentum is an expensive , three star restaurant near , river , near the Yippee Noodle Bar . 
+ END START , Eagle is a family friendly , fast food coffee shop , The Eagle . Located near Burger King , it is moderately priced , and is rated 5 out of 5 . 
+ END UNK Browns Cambridge is a cheap , about city the centre near to near . END
+START The Golden Curry is , near to Café Rouge , UNK UNK . 
+ END START UNK . They serve Wine , The Phoenix has five star , and have , UNK and UNK . . END START In Riverside , there is a cheap , family friendly Italian coffee shop 
+ END . A customer UNK of 1 out of 5 , expensive , has Riverside 
+ Phoenix has . END

@@ -95,6 +95,8 @@ def create_model_and_diffusion(
         experiment_mode=experiment_mode,
         logits_mode=logits_mode,
     )
+    # print("in create model and diffusion")
+    # print(diffusion_steps)
     diffusion = create_gaussian_diffusion(
         steps=diffusion_steps,
         learn_sigma=learn_sigma,
@@ -131,6 +133,7 @@ def create_model(
     config_name='',
     experiment_mode='lm',
     logits_mode=1,
+    **kwargs,
 ):
     print(f'creating model, based on {model_arch}')
     if model_arch == 'conv-unet':
@@ -389,7 +392,10 @@ def create_gaussian_diffusion(
     timestep_respacing="",
     model_arch='conv-unet',
     training_mode='emb',
+    **kwargs,
 ):
+    # print("in create gaussian diffusion")
+    # print(steps)
     betas = gd.get_named_beta_schedule(noise_schedule, steps)
     if training_mode == 'e2e':
         # end to end training
@@ -443,6 +449,7 @@ def add_dict_to_argparser(parser, default_dict):
         elif isinstance(v, bool):
             v_type = str2bool
         parser.add_argument(f"--{k}", default=v, type=v_type)
+    return parser
 
 
 def args_to_dict(args, keys):

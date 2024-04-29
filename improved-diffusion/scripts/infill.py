@@ -30,9 +30,10 @@ from spacy.lang.en import English
 def main():
     set_seed(101)
     args = create_argparser().parse_args()
+    print("steps!!!!!",args.diffusion_steps)
 
     # load configurations.
-    config_path = os.path.join(os.path.split(args.model_path)[0], "training_args.json")
+    config_path = os.path.join(os.path.split(args.model_path)[0], f"training_args.json")
     print(config_path)
     # sys.setdefaultencoding('utf-8')
     with open(config_path, 'rb', ) as f:
@@ -51,7 +52,11 @@ def main():
     model, diffusion = create_model_and_diffusion(
         **args_to_dict(args, model_and_diffusion_defaults().keys())
     )
-    model.load_state_dict(th.load(args.model_path))
+    try:
+        model.load_state_dict(th.load(args.model_path))
+    except:
+        model=th.compile(model)
+        model.load_state_dict(th.load(args.model_path))
     model.to(dist_util.dev())
     model.eval()
 
@@ -78,9 +83,11 @@ def main():
         partial_seq = []
         partial_seq_idx = []
         for idx, (key, val) in enumerate(sent_lst.items()):
-            if idx < int(args.start_idx) or idx > int(args.end_idx):
-                continue
-            partial_seq_ = f"{val['obs1']} " + "PAD " * 10 + f"{val['obs2']}"
+            # ! Changed to fit multiple padded sections
+            # if idx < int(args.start_idx) or idx > int(args.end_idx):
+            #     continue
+            # partial_seq_ = f"{val['obs1']} " + "PAD " * 10 + f"{val['obs2']}"
+            partial_seq_ = val
             word_lst = [x.text for x in tokenizer_spacy(partial_seq_)]
             partial_seq_ = " ".join(word_lst)
             print(partial_seq_, idx)
@@ -538,7 +545,6 @@ def main():
                             shifted_labels = label_ids
                             loss = loss_fn(shifted_logits.view(-1, shifted_logits.size(-1)),
                                            shifted_labels.view(-1)).reshape(shifted_labels.shape)
-                            print(loss, loss.shape)
                             # print(loss.sum(dim=-1).tolist())
                             word_lst = rounding_func(args.experiment, final, model3, tokenizer)
                             print(len(word_lst))
@@ -656,7 +662,7 @@ def main():
     if args.verbose == 'pipe':
         print(f'sampled for {len(sample_dict)} control tasks')
         out_path_pipe = os.path.join(args.out_dir, f"{model_base_name}.infill_{args.eval_task_}_{args.notes}.json")
-        fout = open(out_path_pipe, 'w')
+        fout = open(out_path_pipe, 'w+')
         result_dict = decode_helper(args, sample_dict, diff_model=model)
         for k, word_lst in result_dict.items():
             print({k:word_lst}, file=fout)
@@ -693,7 +699,8 @@ def main():
             word_lst = rounding_func(args.experiment, arr, model, tokenizer)
 
         out_path2 = os.path.join(args.out_dir, f"{model_base_name}.infill_{args.eval_task_}_{shape_str}_{args.notes}.txt")
-        fout = open(out_path2, 'w')
+        print(word_lst)
+        fout = open(out_path2, 'w+')
         for (xx) in zip( word_lst):
             print(xx[0], file=fout)
         fout.close()
@@ -701,7 +708,7 @@ def main():
 
         ##############
         out_path2 = os.path.join(args.out_dir, f"{model_base_name}.infill_{args.eval_task_}_{shape_str}_{args.notes}.json")
-        fout = open(out_path2, 'w')
+        fout = open(out_path2, 'w+')
         for (xx) in zip(word_lst):
             print(json.dumps(xx), file=fout)
         fout.close()
@@ -717,7 +724,7 @@ def create_argparser():
         out_dir="diffusion_lm/improved_diffusion/out_gen",
         emb_scale_factor=1.0, split='train', debug_path='', eval_task_='infill',
         partial_seq="", partial_seq_file="", verbose='yes', tgt_len=15, t_merge=200, interp_coef=0.5, notes='',
-        start_idx=0, end_idx=0,
+        start_idx=0, end_idx=0,base=None,diffusion_steps=2000
     )
     defaults.update(model_and_diffusion_defaults())
     parser = argparse.ArgumentParser()

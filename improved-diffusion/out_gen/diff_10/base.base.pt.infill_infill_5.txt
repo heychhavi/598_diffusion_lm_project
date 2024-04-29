@@ -1,0 +1,800 @@
+highly stars coffee Shop is a cheap restaurant serving Fast food . It is located by the river , Family friendly .
+END START Bibimbap House is a cheap restaurant serving Fast food . It is located near Clare Hall in city centre .
+END START The Wrestlers is a cheap restaurant serving Fast food . It is located 5 out of 5 by customers .
+END START Bibimbap House is a cheap restaurant serving Fast food . It is located in city center near Clare Hall .
+END START The Plough is a cheap restaurant serving Fast food . It is located near Café Rouge . \n UNK .
+\n END START Fitzbillies is a cheap restaurant serving Fast food . It is located near The Six Bells - riverside .
+END START The Phoenix is a cheap restaurant serving Fast food . It is located in the riverside . \n END .
+END START Green Man is a cheap restaurant serving Fast food . It is located in riverside near All Bar One .
+Located in the riverside area . near All Bar King , The Cricketers serves coffee and Chinese food for a price range of £ 20 - 25 . It is a non children friendly area and it has a high customer rating .
+Located in the city centre . near All Bar King , The Cricketers serves coffee and Chinese food for a price range of £ 20 - 25 . It is a non children friendly area and it has a high customer rating .
+Located in the city centre . near All Bar One , The Cricketers serves coffee and Chinese food for a price range of £ 20 - 25 . It is a non children friendly area and it has a high customer rating .
+Located in the riverside UNK . near All Bar Sicilia , The Cricketers serves coffee and Chinese food for a price range of £ 20 - 25 . It is a non children friendly area and it has a high customer rating .
+Located in the riverside area . near All Bar King , The Cricketers serves coffee and Chinese food for a price range of £ 20 - 25 . It is a non children friendly area and it has a high customer rating .
+Located in the riverside area . near All Bar King , The Cricketers serves coffee and Chinese food for a price range of £ 20 - 25 . It is a non children friendly area and it has a high customer rating .
+Located in the riverside area . near All Bar One , The Cricketers serves coffee and Chinese food for a price range of £ 20 - 25 . It is a non children friendly area and it has a high customer rating .
+Located in the riverside area . near All Bar King , The Cricketers serves coffee and Chinese food for a price range of £ 20 - 25 . It is a non children friendly area and it has a high customer rating .
+The Waterman is a high rated pub located on the riverside near riverside . \n END START . Punter has a mid - level price range and is not children friendly .
+The Boat is a high rated pub located on the riverside near the Express by Holiday Inn . It has a mid - level price range and is not children friendly .
+The Vaults is a high rated pub located on the riverside near Café Adriatic . \n END . Cocum has a mid - level price range and is not children friendly .
+The Cricketers is a high rated pub located on the riverside near Ranch \n END START The . Cocum has a mid - level price range and is not children friendly .
+The Waterman is a high rated pub located on the riverside near \n END START The Wrestlers . restaurant has a mid - level price range and is not children friendly .
+The Waterman is a high rated pub located on the riverside near customers day lovely French food . It has a mid - level price range and is not children friendly .
+The Boat is a high rated pub located on the riverside near the Express by Holiday Inn . It has a mid - level price range and is not children friendly .
+The Boat is a high rated pub located on the riverside near the Express by Holiday Inn . It has a mid - level price range and is not children friendly .
+Near the Express by Holiday Inn on the city is The Rice Boat . It is a Japanese pub that is family - friendly .
+Near the Express by Holiday Inn , the city is The Rice Boat . It is a Japanese pub that is family - friendly .
+Near the Express by Holiday Inn in the city is The Rice Boat . It is a Japanese pub that is family - friendly .
+Near the Express by Holiday Inn in the city centre The Rice Boat . a low priced Japanese pub that is family - friendly .
+Near the Express by Holiday Inn in the city centre The Rice Boat . It is a Japanese pub that is family - friendly .
+Near the Express by Holiday Inn and the city is The Rice Boat . It is a Japanese pub that is family - friendly .
+Near the Express by Holiday Inn in the city centre The Rice Boat . It is a Japanese pub that is family - friendly .
+Near the Express by Holiday Inn in the city centre The Rice Boat . It is an Japanese pub that is family - friendly .
+The Wrestlers located close near Raja Indian Cuisine that has expensive , family friendly food service .
+The Wrestlers coffee shop near Raja Indian Cuisine that has expensive , family friendly dining experience .
+The Wrestlers is located near Raja Indian Cuisine that has expensive , family friendly riverside why .
+The Wrestlers , located near Raja Indian Cuisine that has expensive , family friendly food place .
+The Wrestlers coffee shop near Raja Indian Cuisine that has expensive , family friendly food that .
+The Wrestlers in Riverside near Raja Indian Cuisine that has expensive , family friendly Indian food .
+The Wrestlers is located near Raja Indian Cuisine that has expensive , family friendly riverside UNK .
+The Wrestlers coffee shop near Raja Indian Cuisine that has expensive , family friendly , items .
+' pub is a low priced . \n END START Cotto UNK , near The Portland Arms .
+The Waterman is a low priced , 3 - star Chinese restaurant , near the city centre .
+The Waterman is a low priced restaurant in Cambridge , you stop , near riverside style food .
+START There is a low priced restaurant UNK called The Twenty Two , near The Rice Boat .
+Blue Spice is a low priced coffee shop providing a night UNK , near Avalon in Riverside .
+START There is a low priced family - friendly shop The Wrestlers , near Raja Indian Cuisine .
+Loch Fyne is a low priced Japanese restaurant located in City centre , near The Rice Boat .
+The Wrestlers is a low priced Italian coffee shop in City Centre , near Raja Indian Cuisine .
+The Punter , a restaurant that that serves Chinese food less than £ 20 , It is in the city , near Raja Indian Cuisine .
+The Punter , a restaurant that they serve Chinese food less than £ 20 , is located in City Centre , near Raja Indian Cuisine .
+The Punter , a restaurant that offers family Chinese food less than £ 20 , it is in Riverside and , near Raja Indian Cuisine .
+The Punter , a restaurant that that serves Chinese food less than £ 20 , it is in City Centre , near Raja Indian Cuisine .
+The Punter , a restaurant that that serves Chinese food less than £ 20 , is located in City centre , near Raja Indian Cuisine .
+The Punter , a restaurant that also sells Chinese food less than £ 20 , It is in in Riverside , near Raja Indian Cuisine .
+The Punter , a restaurant that that offers Chinese food less than £ 20 , is located in the riverside , near Raja Indian Cuisine .
+The Punter , a restaurant that that serves Chinese food less than £ 20 , is located in City centre , near Raja Indian Cuisine .
+There is a cheap family friendly pub coffee shop called The Wrestlers , in the city centre , they are located near Raja Indian Cuisine .
+There is a cheap family friendly pub of UNK called The Wrestlers , they serve Japanese good , they are located near Raja Indian Cuisine .
+There is a cheap family friendly pub shop called The Wrestlers in , that serves fast food , They are located near Raja Indian Cuisine .
+There is a cheap family friendly pub shop in Riverside called The , . They serve French , and are located near Raja Indian Cuisine .
+There is a cheap family friendly pub food coffee shop in the , centre called The Wrestlers , They are located near Raja Indian Cuisine .
+There is a cheap family friendly pub shop in the riverside area , called The Wrestlers . , it are located near Raja Indian Cuisine .
+There is a cheap family friendly pub shop called The Wrestlers and , down by the riverside , it are located near Raja Indian Cuisine .
+There is a cheap family friendly pub coffee shop called The Wrestlers , they serve fast food , they are located near Raja Indian Cuisine .
+A family - friendly coffee shop , called The Cricketers is located near Ranch and has well French food customers .
+A family - friendly coffee \n END START The Cricketers is located near Ranch and has UNK for UNK ratings .
+A family - friendly coffee \n END START The Cricketers is located near Ranch and has a family friendly atmosphere .
+A family - friendly coffee \n END START The Cricketers is located near Ranch and has a children friendly pub .
+A family - friendly coffee \n END START The Cricketers is located near Ranch and has a children friendly pub .
+A family - friendly coffee \n END START The Cricketers is located near Ranch and has a high customer rating .
+A family - friendly coffee \n END START The Cricketers is located near Ranch and has a low customer rating .
+A family - friendly coffee \n END START The Cricketers is located near Ranch and has a children friendly atmosphere .
+A high priced restaurant serving fast food in the riverside area , near Raja Indian Cuisine , is The Phoenix . It is children friendly .
+A high priced restaurant serving fast food in the riverside area , near Raja Indian Cuisine , is The Phoenix . It is children friendly .
+A high priced restaurant serving fast food in the riverside area , near Raja Indian Cuisine , is The Phoenix . It is children friendly .
+A high priced restaurant serving fast food in the riverside area , near Raja Indian Cuisine , is The Phoenix . It is children friendly .
+A high priced restaurant serving fast food in the riverside area , near Raja Indian Cuisine , is The Phoenix . It is children friendly .
+A high priced restaurant serving fast food in the riverside area , near Raja Indian Cuisine , is The Phoenix . It is children friendly .
+A high priced restaurant serving fast food in the riverside area , near Raja Indian Cuisine , is The Phoenix . It is children friendly .
+A high priced restaurant serving fast food in the riverside area , near Raja Indian Cuisine , is The Phoenix . It is children friendly .
+This non kid friendly restaurant called The Wrestlers , can be found near Raja Indian Cuisine in the city centre which offers Indian food at a high price range .
+This non kid friendly restaurant called The Wrestlers , can be found near Raja Indian Cuisine in the city centre which provides Indian food at a high price range .
+This non kid friendly restaurant called The Wrestlers , can be found near Raja Indian Cuisine in the city centre which offers fast food at a high price range .
+This non kid friendly restaurant called The Wrestlers , can be found near Raja Indian Cuisine in the city centre which provides Indian food at a high price range .
+This non kid friendly restaurant called The Wrestlers , can be found near Raja Indian Cuisine in the city centre which offers fast food at a high price range .
+This non kid friendly restaurant called The Wrestlers , can be found near Raja Indian Cuisine in the city centre which offers Japanese food at a high price range .
+This non kid friendly restaurant called The Wrestlers , can be found near Raja Indian Cuisine in the city centre which offers Italian food at a high price range .
+This non kid friendly restaurant called The Wrestlers , can be found near Raja Indian Cuisine in the city centre which provides fast food at a high price range .
+The Wrestlers is located next to Raja Indian Cuisine . They are a pub shop in riverside .
+The Wrestlers is located next to Raja Indian Cuisine . They are a pub restaurant in UNK .
+The Wrestlers is located next to Raja Indian Cuisine . They are a pub shop in Riverside .
+The Wrestlers is located next to Raja Indian Cuisine . They are a pub and in UNK .
+The Wrestlers is located close to Raja Indian Cuisine . They are a pub with the riverside .
+The Wrestlers is located next to Raja Indian Cuisine . They are a pub shop in riverside .
+The Wrestlers is located close to Raja Indian Cuisine . They are a pub shop in riverside .
+The Wrestlers is located next to Raja Indian Cuisine . They are a pub - friendly establishment .
+With one star The Wrestlers is a family friendly pub shop offering Italian food . It is situated in the riverside area near Raja Indian Cuisine .
+With one star The Wrestlers is a family friendly pub shop providing French food . It is situated in the riverside area near Raja Indian Cuisine .
+With one star The Wrestlers is a family friendly pub shop offering Japanese food . It is situated in the riverside area near Raja Indian Cuisine .
+With one star The Wrestlers is a family friendly pub eatery and coffee shop . It is situated in the riverside area near Raja Indian Cuisine .
+With one star The Wrestlers is a family friendly pub shop serving French food . It is situated in the riverside area near Raja Indian Cuisine .
+With one star The Wrestlers is a family friendly pub shop serving French food . It is situated in the riverside area near Raja Indian Cuisine .
+With one star The Wrestlers is a family friendly pub shop that serves pasta . It is situated in the riverside area near Raja Indian Cuisine .
+With one star The Wrestlers is a family friendly pub shop serving Japanese food . It is situated in the riverside area near Raja Indian Cuisine .
+The Phoenix is a 3 - star family restaurant located outside of City centre .
+The Phoenix is high for it star family facility , as well as service .
+The Phoenix is a new 5 star family restaurant located in the city center .
+The Phoenix is a 1 - star family UNK with a UNK of stop .
+The Phoenix is a great 5 star family restaurant with a UNK priced food .
+The Phoenix is a five - star family restaurant serving UNK local and UNK .
+The Phoenix is a cheap - star family restaurant in the centre \n END .
+The Phoenix is a 5 - star family cuisine restaurant located by the river .
+The Plough is a pub providing Chinese food in the cheap price range . It is located in the riverside . \n END START The Indian restaurant .
+The Plough is a pub providing Chinese food in the high price range . It is located near Café Rouge . Not only sells like Indian allowed .
+The Plough is a pub providing Chinese food in the low price range . It is located near Café Rouge . \n END START UNK Indian food .
+The Plough is a pub providing Chinese food in the cheap price range . It is located in the riverside . It is near Raja Indian Cuisine .
+The Plough is a pub providing Chinese food in the low price range . It is located near Café Rouge . \n END START The Indian is .
+The Plough is a pub providing Chinese food in the high price range . It is located near Café Rouge . Look allows children and Indian people .
+The Plough is a pub providing Chinese food in the moderate price range . It is located in the riverside . It is near Raja Indian Cuisine .
+The Plough is a pub providing Chinese food in the high price range . It is located near Café Rouge . \n END START The Indian restaurant .
+The adult only French pub , The Punter , is located near Café Sicilia in riverside where you can eat for under £ 25 at head . It 's fancy rated place
+The adult only French pub , The Plough , is located near Café Sicilia in riverside where you can eat for under £ 25 at \n END START Clowns is rated place
+The adult only French pub , The Plough , is located near Café Sicilia in riverside where you can eat for under £ 25 at \n END START A low rated place
+The adult only French pub , The Plough , is located near Café Sicilia in riverside where you can eat for under £ 25 at a average . \n END rated place
+The adult only French pub , The Plough , is located near Café Sicilia in riverside where you can eat for under £ 25 at head \n END START family rated place
+The adult only French pub , The Plough , is located near Café Sicilia in riverside where you can eat for under £ 25 at head . \n END START rated place
+The adult only French pub , The Plough , is located near Café Sicilia in riverside where you can eat for under £ 25 at \n END START The Eagle rated place
+The adult only French pub , The Plough , is located near Café Sicilia in riverside where you can eat for under £ 25 at head . \n END START rated place
+The Phoenix is an average Indian restaurant located in the city center near Express by Holiday Inn , END START The The UNK pub .
+The Phoenix is an average Indian restaurant located in the city centre near Express by Holiday Inn , \n END START Blue Spice is .
+The Phoenix is an average Indian restaurant located in the city centre near Express by Holiday Inn , \n END START The UNK is .
+The Phoenix is an average Indian restaurant located in the city centre near Express by Holiday Inn , This restaurant is not child friendly .
+The Phoenix is an average Indian restaurant located in the city centre near Express by Holiday Inn , This earned is not family friendly .
+The Phoenix is an average Indian restaurant located in the city centre . \n by Holiday Inn , serves food for less than 20 .
+The Phoenix is an average Indian restaurant located in the city centre near Express by Holiday Inn , and the family friendly is cheap .
+The Phoenix is an average Indian restaurant , in the city center near Express by Holiday Inn , the cost are not is cheap .
+There is a coffee shop in the sure Cambridge that serves cheap .
+There is a coffee shop which serves sushi , called The Punter .
+There is a coffee shop in City Centre , food is UNK .
+There is a coffee shop pricey called The Vaults near Café Brazil .
+There is a coffee shop called The Mill in the riverside area .
+There is a coffee shop named Cocum which is rated five stars .
+There is a coffee shop called Fitzbillies near taste UNK the average .
+There is a coffee shop , UNK for adults , The Cricketers .
+The Mill is a family - friendly pub that offers fast food . It has a low customer rating , is located in the riverside , near Café Sicilia , and is expensive .
+The Mill is a family - friendly pub that offers fast food . It has a low customer rating , is located in the riverside , near Café Sicilia , and is expensive .
+The Mill Curry is family - friendly pub that offers fast food . It has a low customer rating , is located in City centre , near Café Sicilia , and is expensive .
+The Mill is a family - friendly pub that offers fast food . It has a low customer rating , is located in city centre , near Café Sicilia , and is expensive .
+The Mill is a family - friendly pub that offers fast food . It has a low customer rating , is located in city centre , UNK of Sicilia , and is expensive .
+The Mill is a family - friendly pub that offers fast food . It has a low customer rating , is located in city centre , nearby Café Sicilia , and is expensive .
+The Mill Curry is family - friendly pub that offers fast food . It has a low customer rating , is located in City Centre , near Café Sicilia , and is expensive .
+The Mill is a family - friendly pub that offers fast food . It has a low customer rating , is located in City Centre , nearby Café Sicilia , and is expensive .
+The Vaults restaurant serves French for and is children friendly . Near Raja Indian Cuisine in riverside . be UNK .
+The Vaults restaurant serves French for located by the riverside . Near Raja Indian Cuisine is £ . 20 range .
+The Vaults restaurant serves French for in a coffee shop . Near Raja Indian Cuisine in riverside . \n END .
+The Vaults restaurant serves French for , a and coffee . Near Raja Indian Cuisine at riverside . price range .
+The Vaults restaurant serves French for average priced coffee shop . Near Raja Indian Cuisine in Riverside . \n END .
+The Vaults restaurant serves French for less than 20 Euros . Near Raja Indian Cuisine . UNK . It is .
+The Vaults restaurant serves French for less than £ 20 . Near Raja Indian Cuisine UNK riverside . No one .
+The Vaults restaurant serves French for UNK night the UNK . Near Raja Indian Cuisine - riverside . The Wrestlers .
+Located near All Bar One , The Cricketers is a restaurant styled joint that sells Chinese food . This shop is known in the city center , its high prices , family friendly atmosphere , and high ratings .
+Located near All Bar One , The Cricketers is a restaurant styled joint that sells Chinese food . This shop is known in the city centre has its high prices , family friendly atmosphere , and high ratings .
+Located near All Bar One , The Cricketers is a restaurant styled joint that sells Chinese food . This shop is known in the city centre , its high prices , family friendly atmosphere , and high ratings .
+Located near All Bar One , The Cricketers is a restaurant styled joint that sells Chinese food . This shop is known in the city centre area its high prices , family friendly atmosphere , and high ratings .
+Located near All Bar One , The Cricketers is a restaurant styled joint that sells Chinese food . This shop is known in the city centre , its high prices , family friendly atmosphere , and high ratings .
+Located near All Bar One , The Cricketers is a restaurant styled joint that sells Chinese food . This shop is known in the city centre , its high prices , family friendly atmosphere , and high ratings .
+Located near All Bar One , The Cricketers is a restaurant styled joint that sells Chinese food . This shop is known in the city centre , its high prices , family friendly atmosphere , and high ratings .
+Located near All Bar One , The Cricketers is a restaurant styled joint that sells Chinese food . This shop is known for the city short location its high prices , family friendly atmosphere , and high ratings .
+Near the Rainbow Vegetarian Café , by the riverside is a pub called The Blue Spice . It welcomes cost . \n END .
+Near the Rainbow Vegetarian Café , by the riverside is a pub called The Blue Spice . It has a moderate price range .
+Near the Rainbow Vegetarian Café , by the riverside is a pub called The Blue Spice . It also has a moderate price .
+Near the Rainbow Vegetarian Café , by the riverside is a pub called The Blue Spice . It has a cheap price range .
+Near the Rainbow Vegetarian Café , by the riverside is a pub called The Blue Spice . It has a moderate price range .
+Near the Rainbow Vegetarian Café , by the riverside is a pub called The Blue Spice . It UNK prices . \n END .
+Near the Rainbow Vegetarian Café , by the riverside is a pub called The Blue Spice . It is moderately priced \n END .
+Near the Rainbow Vegetarian Café , by the riverside is a pub called The Blue Spice . It has an average price range .
+There 's a cheap , three - star restaurant The Cricketers near to All Bar One . \n END START . It serves Chinese food and has an average customer rating .
+There 's a cheap , five - star restaurant The Cricketers near to All Bar One , called Midsummer House . It serves Chinese food and has an average customer rating .
+There 's a cheap , UNK place food find The Cricketers near to All Bar One , called Midsummer House . It serves Chinese food and has an average customer rating .
+There 's a cheap , family friendly place called The Cricketers near to All Bar One in the riverside area . It serves Chinese food and has an average customer rating .
+There 's a cheap , family - friendly restaurant The Cricketers near to All Bar One in the riverside area . It serves Chinese food and has an average customer rating .
+There 's a cheap , average - priced restaurant The Cricketers near to All Bar Bar in the city centre . It serves Chinese food and has an average customer rating .
+There 's a cheap , UNK Japanese restaurant called The Cricketers near to All Bar One \n END START Alimentum . It serves Chinese food and has an average customer rating .
+There 's a cheap , . \n END START The Cricketers near to All Bar Bar in the riverside area . It serves Chinese food and has an average customer rating .
+Near Crowne Plaza Hotel is a family friendly restaurant with a customer rating of five out of five called The Waterman .
+Near Crowne Plaza Hotel is a family friendly restaurant with a customer rating of five out of five called Browns Cambridge .
+Near Crowne Plaza Hotel is a family friendly restaurant with a customer rating of five out of five . \n END .
+Near Crowne Plaza Hotel is a family friendly restaurant with a customer rating of five out of five in Cambridge for .
+Near Crowne Plaza Hotel is a family friendly restaurant with a customer rating of five out of five , The Waterman .
+Near Crowne Plaza Hotel is a family friendly restaurant with a customer rating of five out of five . \n END .
+Near Crowne Plaza can find a family friendly restaurant with a customer rating of five out of 5 . \n END .
+Near Crowne Plaza Hotel for a family friendly restaurant with a customer rating of five out of five called The Waterman .
+The Wrestlers is a family pub that provides wine and spirits and UNK food items is inexpensive and close to Raja Indian Cuisine .
+The Wrestlers is a family pub that provides wine and spirits and UNK food items is inexpensive and close to Raja Indian Cuisine .
+The Cambridge Blue is family pub that provides wine and spirits and UNK food items is inexpensive and close to Raja Café Brazil .
+The Wrestlers has a family pub that provides wine and spirits and UNK food items is inexpensive and close to Raja Indian Cuisine .
+The Wrestlers is a family pub that provides wine and spirits and UNK food items is inexpensive and close to Raja Indian Cuisine .
+The Wrestlers is a family pub that provides wine and spirits and UNK food items is inexpensive and close to Raja Indian Cuisine .
+The Cambridge Blue is family pub that provides wine and spirits and UNK food items is inexpensive and close to Raja Café Brazil .
+The Plough , is family pub that provides wine and spirits and UNK food items is inexpensive and close to Raja Café Rouge .
+The Wrestlers is a high priced , child friendly , Fast food Café in riverside , nearby Raja Indian Cuisine .
+Wrestlers coffee Shop , high priced , family friendly , Fast food in city centre , near Raja Indian Cuisine .
+coffee shop is a high priced , kid friendly , Fast food , in Riverside , near Raja Indian Cuisine .
+The Wrestlers is a high priced , kid friendly , Fast food in City Centre , near Raja Indian Cuisine .
+Wrestlers coffee shop is high priced , family friendly , Fast food in City Centre , near Raja Indian Cuisine .
+\n END START For high priced , child friendly , Fast food , The Wrestlers , near Raja Indian Cuisine .
+END START There 's high priced , family friendly , Fast food eatery The Wrestlers , near Raja Indian Cuisine .
+UNK sure to be high priced , kid friendly , Fast food restaurant in Riverside , nearby Raja Indian Cuisine .
+Blue Spice is an average - priced pub in the riverside the Rainbow Vegetarian Café .
+Blue Spice is a cheap family friendly pub in riverside near the Rainbow Vegetarian Café .
+Blue Spice is \n END START UNK pub in Riverside near the Rainbow Vegetarian Café .
+Blue Spice is a higher UNK British pub in town near the Rainbow Vegetarian Café .
+Blue Spice is a high end end pub in riverside near the Rainbow Vegetarian Café .
+Blue Spice is a high - end pub in riverside near the Rainbow Vegetarian Café .
+Blue Spice is a family - friendly pub in the city the Rainbow Vegetarian Café .
+Blue Spice is a low rated French pub in is located the Rainbow Vegetarian Café .
+The Vaults near The Rice Boat in the city centre is a pub located Italian food for less than £ 20 . It is not family - friendly with a low customer rating .
+The Vaults near Café Rouge located in the city centre is a pub providing Italian food for less than £ 20 . It is not family - friendly with a low customer rating .
+The Vaults near the Burger King in the city centre is a pub shop serving food for less than £ 20 . It is not family - friendly with a low customer rating .
+The Vaults near END START located in the city centre is a pub providing English food for less than £ 20 . It is not family - friendly with a low customer rating .
+The Vaults near END START Fitzbillies in the city centre is a pub shop serving Italian for less than £ 20 . It is not family - friendly with a low customer rating .
+The Vaults near Burger King located in the city centre is a pub shop providing food for less than £ 20 . It is not family - friendly with a low customer rating .
+The Vaults near the Burger King in the city centre is a pub offering Italian food for less than £ 20 . It is not family - friendly with a low customer rating .
+The Vaults near Shop , located in the city centre is a pub offering Italian food for less than £ 20 . It is not family - friendly with a low customer rating .
+The Cricketers is a coffee shop near Café Sicilia . Yes it is children friendly . It has an average customer rating .
+The Cricketers is a coffee shop near Café Sicilia . Yes it is children friendly . It has an average customer rating .
+The Cricketers is a coffee shop near Café Sicilia . Yes it is children friendly . It has an high price range .
+The Cricketers is a coffee shop near Café Sicilia . Yes it is children friendly . It has an average customer rating .
+The Cricketers is a coffee shop near Café Sicilia . Yes it is children friendly . It has an average customer rating .
+The Cricketers is a coffee shop near Café Sicilia . Yes it is children friendly . It has an average customer rating .
+The Cricketers is a coffee shop near Café Sicilia . Yes it is children friendly . It has an average customer rating .
+The Cricketers is a coffee shop near Café Sicilia . Yes it is children friendly . it has an average price range .
+The Cricketers is a coffee shop serving French food . It is children friendly and has a 3 out of 5 customer rating .
+The Cricketers is a coffee shop serving French food . It is children friendly and has a 3 out of 5 customer rating .
+The Cricketers is a coffee shop offering Indian food . It is children friendly and has a 3 out of 5 customer rating .
+The Cricketers is a coffee shop near The Bakers . It is children friendly and has a 3 out of 5 customer rating .
+The Cricketers is a coffee shop near The Bakers . It is children friendly and has a 3 out of 5 customer rating .
+The Cricketers is a coffee shop serving French food . It is children friendly and has a 3 out of 5 customer rating .
+The Cricketers is a coffee shop near The Bakers . It is children friendly and has a 3 out of 5 customer rating .
+The Cricketers is a coffee shop serving Japanese food . It is children friendly and has a 3 out of 5 customer rating .
+The 5 out of 5 rated restaurant , The Phoenix , is located in the city centre near the UNK Burger King . It is not family friendly , with cheap Indian food UNK served .
+The 5 out of 5 rated restaurant , The Phoenix , is located in the city centre near the food Burger King . It is not family friendly , with cheap UNK over 30 served .
+The 5 out of 5 rated restaurant , The Phoenix , is located in the city centre near the by Holiday Inn . It is not family friendly , with cheap Indian food at served .
+The 5 out of 5 rated restaurant , The Phoenix , is located in the riverside area near the Burger King , . It is not family friendly , with cheap food for a served .
+The 5 out of 5 rated restaurant , The Phoenix , is located in the city centre near the Burger King . . It is not family friendly , with cheap Indian food being served .
+The 5 out of 5 rated restaurant , The Phoenix , is located in the city centre near the Burger King UNK . It is not family friendly , with cheap ranging at 30 served .
+The 5 out of 5 rated restaurant , The Phoenix , is located in the city centre near the Crowne Plaza Hotel . It is not family friendly , with cheap coffee shop are served .
+The 5 out of 5 rated restaurant , The Phoenix , is located in the city centre near the UNK coffee shop . It is not family friendly , with cheap food and Indian served .
+Wildwood is a pub providing Indian food It is located in the riverside . \n END START Giraffe , Cambridge .
+Wildwood is a pub providing Indian food It is located in the riverside . UNK customers rating it okay average .
+Wildwood is a pub providing Indian food It is located in the riverside . Its customer rating is high . .
+Wildwood is a pub providing Indian food It is located in the riverside . \n END START A is restaurant .
+Wildwood is a pub providing Indian food It is located in the riverside . \n END START Wildwood is a .
+Wildwood is a pub providing Indian food It is located in the riverside . Its customer rating is very high .
+Wildwood is a pub providing Indian food It is located in the riverside . Its customer rating is high , .
+Wildwood is a pub providing Indian food It is located in the riverside . \n END START The is restaurant .
+The Mill is a moderately priced pub near Raja Indian Cuisine in the city centre . It is not the type of place people bring your kids .
+The Mill is a moderately priced pub near Raja Indian Cuisine in the city centre . It is not the type of place people bring \n END .
+The Mill is a moderately priced pub near Raja Indian Cuisine in the city centre . It is not the type of place people bring out kids .
+The Mill is a moderately priced pub near Raja Indian Cuisine in the city centre . It is not the type of place people bring fast food .
+The Mill is a moderately priced pub near Raja Indian Cuisine in the city centre . It is not the type of place people bring Japanese food .
+The Mill is a moderately priced pub near Raja Indian Cuisine in the city centre . It is not the type of place people bring fast food .
+The Mill is a moderately priced pub near Raja Indian Cuisine in the city centre . It is not the type of place people bring Italian food .
+The Mill is a moderately priced pub near Raja Indian Cuisine in the city centre . It is not the type of place people bring it taste .
+The Punter is a high - priced restaurant that serves Japanese food . It is child friendly and has a customer rating of 1 out of 5 . It is located near Express by Holiday Inn \n END .
+The Punter is a high - priced restaurant which serves Japanese food . It is family friendly and has a customer rating of 1 out of 5 . It is located near Express by Holiday Inn \n END .
+The Punter is a high - priced coffee shop offering Italian food . It is child friendly and has a customer rating of 1 out of 5 . It is located near Express by Holiday Inn \n END .
+The Punter is a high - priced venue shop serving French food . It is family friendly and has a customer rating of 1 out of 5 . It is located near Express by Holiday Inn \n END .
+The Punter is a high - priced restaurant in the city food . It is family friendly and has a customer rating of 1 out of 5 . It is located near Express by Holiday Inn \n END .
+The Punter is a high - priced coffee shop offering Japanese food . It is child friendly and has a customer rating of 1 out of 5 . It is located near Express by Holiday Inn in riverside .
+The Punter is a high - priced coffee shop serving French food . It is child friendly and has a customer rating of 1 out of 5 . It is located near Express by Holiday Inn \n END .
+The Punter is a high - priced venue that provides Italian food . It is child friendly and has a customer rating of 1 out of 5 . It is located near Express by Holiday Inn \n END .
+The Vaults is a restaurant is located near Raja Indian Cuisine by the river . They offer a cheap price range and are family friendly .
+The Vaults is a restaurant is located near Raja Indian Cuisine by the river . They offer wine and cheese and is UNK family friendly .
+The Vaults is a restaurant is located near Raja Indian Cuisine by the river . They UNK in low price range and is family friendly .
+The Vaults is a restaurant is located near Raja Indian Cuisine by the river . They serve UNK UNK and is UNK to family friendly .
+The Vaults is a restaurant is located near Raja Indian Cuisine by the river . They END START UNK food in Ranch is family friendly .
+The Vaults is a restaurant is located near Raja Indian Cuisine by the river . They are a pub UNK and are not family friendly .
+The Vaults is a restaurant is located near Raja Indian Cuisine by the river . They serve wine , UNK UNK and is family friendly .
+The Vaults is a restaurant is located near Raja Indian Cuisine by the river . They are in the low range and is family friendly .
+The Cricketers is a family friendly restaurant that serves Chinese food with a price range of less than £ 20 and has a low customer rating . It is located near All Bar One in riverside . . END START Green .
+The Cricketers is a family friendly restaurant that serves Chinese food with a price range of less than £ 20 and has a low customer rating . It is located near All Bar One in END START . provides UNK UNK .
+The Cricketers is a family friendly restaurant that serves Chinese food with a price range of less than £ 20 and has a low customer rating . It is located near All Bar One in the riverside . Unfortunately Also favorite .
+The Cricketers is a family friendly restaurant that serves Chinese food with a price range of less than £ 20 and has a low customer rating . It is located near All Bar One in the riverside . \n END START .
+The Cricketers is a family friendly restaurant that serves Chinese food with a price range of less than £ 20 and has an average customer rating . It is located near All Bar One in \n END . Alimentum in Cambridge .
+The Cricketers is a family friendly restaurant that serves Chinese food with a price range of less than £ 20 and has is no family area . It is located near All Bar One in riverside . . END START Wildwood .
+The Cricketers is a family friendly restaurant that serves Chinese food with a price range of less than £ 20 and has a low customer rating . It is located near All Bar One in \n END . Here The Vaults .
+The Cricketers is a family friendly restaurant that serves Chinese food with a price range of less than £ 20 and has an average customer rating . It is located near All Bar One in City Centre . \n END START .
+A close to Raja Indian Cuisine in the city centre , The Wrestlers UNK French food moderate pricing and is also kid friendly .
+A UNK near Raja Indian Cuisine in the city centre area , The Wrestlers French food moderate pricing and is not kid friendly .
+A Near the Raja Indian Cuisine in the city centre area . It is French food moderate pricing and is not kids friendly .
+A UNK near Raja Indian Cuisine in the city centre , UNK The Wrestlers French food moderate pricing and is not kid friendly .
+A Located near Raja Indian Cuisine in the city centre , The Wrestlers has French food moderate pricing and is not kid friendly .
+A near the Raja Indian Cuisine in the city centre , The Wrestlers sells French food moderate pricing and is not kids friendly .
+A located near Raja Indian Cuisine in the city centre . They are a French food moderate pricing and is not kid friendly .
+A coffee shop Raja Indian Cuisine in the city centre called The Wrestlers has French food moderate pricing and is not kid friendly .
+Customers rate Zizzi coffee shop , near UNK UNK , must .
+Customers rate Zizzi coffee shop , near food river , average .
+Customers rate Zizzi coffee shop , near the food , high .
+Customers rate Zizzi coffee shop , near the river , average .
+Customers rate Zizzi Italian shop , near food see , average .
+Customers rate Zizzi coffee shop , near the UNK , average .
+Customers rate Zizzi coffee shop , near food light , average .
+Customers rate Zizzi coffee shop , near UNK family , UNK .
+coffee Shop is a moderately - priced Italian restaurant near Raja Indian Cuisine in the city centre which is not kid friendly .
+The Wrestlers is a moderately - priced Italian restaurant near Raja Indian Cuisine in the city centre which is not kid friendly .
+The Wrestlers is a moderately - priced Italian restaurant near Raja Indian Cuisine in the city centre which is not kid friendly .
+Green Man is a moderately - priced Italian restaurant near All Indian One in the city centre which is not kid friendly .
+The Waterman is a moderately - priced Italian restaurant near Raja Indian Cuisine in the city centre which is not kid friendly .
+The Wrestlers is a moderately - priced Italian restaurant near Raja Indian Cuisine in the city centre which is not kid friendly .
+Green Man is a moderately - priced Italian restaurant near All Indian One in the city centre which is not kid friendly .
+The Waterman is a moderately - priced Italian restaurant near it Indian located in the city centre which is not kid friendly .
+Near riverside and . \n END START A kid friendly , fast food restaurant is Zizzi .
+Near riverside and I UNK . UNK with kid friendly , fast food is UNK coffee .
+Near riverside and a low - priced , kid friendly , fast food restaurant Café well .
+Near riverside and less from £ 20 , kid friendly , fast food is The Waterman .
+Near riverside and is a highly rated , kid friendly , fast food restaurant The Waterman .
+Near riverside and a high - priced , kid friendly , fast food The Olive Grove .
+Near riverside and is a moderately priced , kid friendly , fast food restaurant The Waterman .
+Near riverside and UNK to site UNK a kid friendly , fast food restaurant The Waterman .
+Near All Bar One there is a pub named Clowns and it is rated 3 out of 5 .
+Near All Bar One area has a pub named Clowns and it is rated 3 out of 5 .
+Near All Bar One there is a pub named Clowns and it is rated 3 out of 5 .
+Near All Bar One their is a pub named Clowns and it is rated 3 out of 5 .
+Near All Bar One , have a pub named Clowns and it is rated 3 out of 5 .
+Near All Bar One there is a pub named Clowns and it is rated 3 out of 5 .
+Near All Bar One there is a pub named Clowns and it is rated 3 out of 5 .
+Near All Bar One there is a pub named Clowns and it is rated 3 out of 5 .
+Near Near Raja Indian Cuisine in the riverside area is a kid - friendly pub with moderate prices . It is the Wrestlers .
+Near near Raja Indian Cuisine \n END START area is a kid - friendly pub with low ratings . It is the Cocum .
+Near START Raja you are in the Riverside area is a kid - friendly pub with average ratings . It is the places .
+Near Burger Raja . \n END START The area is a kid - friendly pub with reasonable prices . It is the Café .
+Near £ Raja - 25 \n END START area is a kid - friendly pub with high ratings . It is the Ranch .
+Near average Raja . \n END START The area is a kid - friendly pub with fast food . It is the Café .
+Near to Raja Plaza Hotel \n END START area is a kid - friendly pub with Italian food . It is the UNK .
+Near the Raja a perfect high , The area is a kid - friendly pub with cheap food . It is the Ranch .
+Serving Italian food , The Punter is a restaurant in the center of the city , near Rainbow Vegetarian Café . It has a moderate price range and is not children friendly . Customers rate is 1 out of 5 .
+Serving Italian food , The Punter is a restaurant in the center of the city , near Rainbow Vegetarian Café . It has a moderate price range and is kid friendly . . Customers rate is 1 out of 5 .
+Serving Italian food , The Punter is a restaurant in the center of the city , near Rainbow Vegetarian Café . It has a UNK moderate priced it is not kid friendly . Customers rate is 1 out of 5 .
+Serving Italian food , The Punter is a restaurant in the center of the city , near Rainbow Vegetarian Café . It has a moderate price range and is not kid friendly . Customers rate is 1 out of 5 .
+Serving Italian food , The Punter is a restaurant in the center of the city , near Rainbow Vegetarian Café . It has not children friendly and so is on the moderate . Customers rate is 1 out of 5 .
+Serving Italian food , The Punter is a restaurant in the center of the city , near Rainbow Vegetarian Café . It has a moderate price range and is not kid friendly . Customers rate is 1 out of 5 .
+Serving Italian food , The Punter is a restaurant in the center of the city , near Rainbow Vegetarian Café . It has a moderate price range , is kid friendly , . Customers rate is 1 out of 5 .
+Serving Italian food , The Punter is a restaurant in the center of the city , near Rainbow Vegetarian Café . It has a high price range and is family - friendly . Customers rate is 1 out of 5 .
+The Cricketers is a mid priced coffee shop with a high customer rating . It is located near the Café Brazil .
+The Cricketers is a child friendly coffee shop with a high customer rating . It is located near the Café Sicilia .
+The Cricketers is a family friendly coffee shop with a high customer range . It is located near the Café Sicilia .
+The Cricketers is a kid friendly coffee shop with a high customer rating . It is located near the Café Sicilia .
+The Cricketers is a mid priced coffee shop with a high customer rating . It is located near the Café Sicilia .
+The Cricketers is a children friendly coffee shop with a high customer rating . It is located near the Café Sicilia .
+The Cricketers is a family friendly coffee shop with a high customer price . It is located near the Café Sicilia .
+The Cricketers is a child Friendly coffee shop with a high customer rating . It END located near the Café Brazil .
+The Wrestlers is a go restaurant , suitable for families and features moderately priced wine and UNK , UNK customers including families . You can find The Wrestlers near Raja Indian Cuisine at City Centre .
+The Wrestlers is a go - to restaurant for families and features moderately priced foods right on the UNK customers including families . You can find The Wrestlers near Raja Indian Cuisine at City Centre .
+The Wrestlers is a go out that caters for families and features moderately priced prices . The style UNK customers including families . You can find The Wrestlers near Raja Indian Cuisine at City Centre .
+The Wrestlers is a go UNK , UNK for families and features moderately priced go to UNK the UNK customers including families . You can find The Wrestlers near Raja Indian Cuisine at City Centre .
+The Wrestlers is a go that is suitable for families and features moderately priced fast foods UNK , UNK customers including families . You can find The Wrestlers near Raja Indian Cuisine at City Centre .
+The Wrestlers is a go shop , UNK for families and features moderately priced fast food . You UNK customers including families . You can find The Wrestlers near Raja Indian Cuisine at City Centre .
+The Wrestlers is a go priced restaurant suitable for families and features moderately priced Italian items here from UNK customers including families . You can find The Wrestlers near Raja Indian Cuisine at City Centre .
+The Wrestlers is a go food restaurant suitable for families and features moderately priced . \n END START UNK customers including families . You 'll find The Wrestlers near Raja Indian Cuisine at City Centre .
+The Wrestlers food near the Raja Indian Cuisine the riverside . \n END START The food and is very kid friendly
+by the riverside near the Raja Indian Cuisine the UNK of the moderately priced fast food and is very kid friendly
+END START Located near the Raja Indian Cuisine the The Wrestlers coffee shop has Italian food and is very kid friendly
+serve UNK food near the Raja Indian Cuisine the the riverside \n END START Zizzi food and is very kid friendly
+city centre , near the Raja Indian Cuisine the The Wrestlers has a moderate price food and is very kid friendly
+END START Located near the Raja Indian Cuisine the city centre , The Wrestlers serves food and is very kid friendly
+UNK UNK , near the Raja Indian Cuisine the END START Cotto , average Fast food and is very kid friendly
+UNK that is near the Raja Indian Cuisine the the city centre . Good fast food and is very kid friendly
+The Wrestlers is a Japanese food restaurant , located in the Riverside area nearby Raja Indian Cuisine . It is relatively a high also UNK establishment .
+The Wrestlers is a Japanese food restaurant , located in the Riverside area nearby Raja Indian Cuisine . It is relatively children friendly also average price .
+The Wrestlers is a Japanese food restaurant , located in the Riverside area nearby Raja Indian Cuisine . It is relatively a moderately also coffee shop .
+The Wrestlers is a Japanese food restaurant , located in the Riverside area nearby Raja Indian Cuisine . It is relatively UNK and also kid friendly .
+The Wrestlers is a Japanese food restaurant , located in the Riverside area nearby Raja Indian Cuisine . It is relatively coffee shop also for families .
+The Wrestlers is a Japanese food restaurant , located in the Riverside area nearby Raja Indian Cuisine . It is relatively priced and also popular eatery .
+The Wrestlers is a Japanese food restaurant , located in the Riverside area nearby Raja Indian Cuisine . It is relatively children friendly also \n END .
+The Wrestlers is a Japanese food restaurant , located in the Riverside area nearby Raja Indian Cuisine . It is relatively children friendly also \n END .
+The Mill , a family - friendly restaurant offers English food at affordable prices . The restaurant is sited in the city centre near Raja Indian Cuisine .
+The Mill , a family - friendly restaurant offers English food at affordable prices . The restaurant is located in the city centre near Raja Indian Cuisine .
+The Mill , a family - friendly restaurant offers English food at affordable prices . The restaurant is located in the city centre near Raja Indian Cuisine .
+The Mill , a family - friendly restaurant offers English food at affordable prices . The restaurant is sited in the city centre near Raja Indian Cuisine .
+The Mill , a family - friendly restaurant offers English food at affordable prices . The Wrestlers is sited in the city centre near Raja Indian Cuisine .
+The Mill , a family - friendly restaurant offers English food at affordable prices . The restaurant is located in the city centre near Raja Indian Cuisine .
+The Mill , a family - friendly restaurant offers English food at affordable prices . The site is sited in the city centre near Raja Indian Cuisine .
+The Mill , a family - friendly restaurant offers English food at affordable prices . The can is located in the city centre near Raja Indian Cuisine .
+The Mill is a family friendly mid range star pub located north of the City .
+The Mill is a family friendly mid - priced pub located beside . Portland Arms .
+The Mill is a family friendly mid - price pub located close to Café Rouge .
+The Mill is a family friendly mid range priced pub located close to Café Rouge .
+The Mill is a family friendly mid - range pub located just outside of Riverside .
+The Mill is a family friendly mid priced Italian pub located near Café Rouge \n .
+The Mill is a family friendly mid range priced pub located near the Café Rouge .
+The Mill is a family friendly mid 5 star pub located in the city center .
+The Phoenix is a pub shop near Burger King in the city centre . They serve Italian food , are children UNK or services , in a high price range .
+The Phoenix is a pub with low customer rating in the city centre . They serve Japanese food , UNK children UNK or services , in a high price range .
+The Phoenix is a pub star gourmet , just in the city centre . They serve Indian food , a children UNK or services , in a high price range .
+The Phoenix is a pub shop near Burger King in the city centre . They serve Indian food , are children UNK or services , in a high price range .
+The Phoenix is a pub located off the river in the city centre . They serve UNK food , a children UNK or services , in a high price range .
+The Phoenix is a pub rated fast food restaurant in the city centre . They serve START reviewed , a children UNK or services , in a high price range .
+The Phoenix is a pub shop near Burger King in the city centre . They serve fast food , a children UNK or services , in a high price range .
+The Phoenix is a pub where English restaurant this in the city centre . They serve cost UNK , a children UNK or services , in a high price range .
+The Punter Indian restaurant , is moderate priced , has a 3 out of 5 customer Rating , not kid friendly on the riverside . \n END Holiday Chinese .
+The Punter Indian restaurant , is moderate in price UNK a 1 out of 5 customer Rating , not kid friendly on the riverside . UNK a Holiday UNK .
+The Punter Indian restaurant , is moderate in price range , 3 out of 5 customer Rating , not kid friendly on the UNK near Express by Holiday Inn .
+The Punter Indian restaurant , is moderate in price received a 3 out of 5 customer Rating , not kid friendly on the menu 5 out The Holiday but .
+The Punter Indian restaurant , is moderate in price , with 3 out of 5 customer Rating , not kid friendly on the riverside . \n END Holiday Come .
+The Punter Indian restaurant , is moderate in price , a 3 out of 5 customer Rating , not kid friendly on the riverside . \n END Holiday Looking .
+The Punter Indian restaurant , is moderate in price UNK a 3 out of 5 customer Rating , not kid friendly on the city centre , near Holiday King .
+The Punter Indian restaurant , is moderate in price UNK a 3 out of 5 customer Rating , not kid friendly on the city centre . \n Holiday START .
+Wrestlers coffee shop serves French food and is near the city center and the Raja Indian Cuisine . It is not family - friendly and is priced in the less than 20 START A .
+Wrestlers coffee shop serves French food and is near the city center and the Raja Indian Cuisine . It is not family - friendly and is priced in the less than £ 20 range .
+coffee shop that serves French food and is near the city center and the Raja Indian Cuisine . It is not family - friendly and is priced in the less than £ 20 range .
+coffee shop that serves French food and is near the city center and the Raja Indian Cuisine . It is not family - friendly and is priced in the less than £ 20 range .
+Wrestlers coffee shop serves French food and is near the city center and the Raja Indian Cuisine . It is not family - friendly and is priced in the less than £ 20 range .
+Wrestlers coffee shop serves French food and is near the city center and the Raja Indian Cuisine . It is not family - friendly and is priced in the less than average pound range .
+Wrestlers coffee shop serves French food and is near the city center and the Raja Indian Cuisine . It is not family - friendly and is priced in the less than £ 20 range .
+coffee shop that serves French food and is near the city center and the Raja Indian Cuisine . It is not family - friendly and is priced in the less than £ 20 range .
+. \n END START kid Wrestlers coffee shop located the Raja Indian Cuisine in the riverside area . It serves French food .
+There is a cheap kid friendly coffee shop located the Raja Indian Cuisine in the riverside area . It serves French food .
+Wrestlers UNK , a kid friendly coffee shop near the Raja Indian Cuisine in the riverside area . UNK on French food .
+, food at a kid friendly coffee shop located the Raja Indian Cuisine in the riverside area . \n END French food .
+Wrestlers budget UNK is kid friendly it located near the Raja Indian Cuisine in the riverside area . UNK the French food .
+£ 20 . \n kid START The Wrestlers , the Raja Indian Cuisine in the riverside area . now friendly French food .
+START There is a kid friendly coffee shop near the Raja Indian Cuisine in the riverside area . UNK from French food .
+\n END START A kid friendly coffee shop near the Raja Indian Cuisine in the riverside area . It serves French food .
+START Taste of Cambridge is friendly coffee shop near Crowne Plaza Hotel .
+START The Waterman is children friendly and is near Crowne Plaza Hotel .
+children friendly . \n END friendly The Waterman near Crowne Plaza Hotel .
+of Cambridge . There is friendly coffee shop near Crowne Plaza Hotel .
+out of UNK are UNK friendly they UNK near Crowne Plaza Hotel .
+is from average , a friendly UNK , near Crowne Plaza Hotel .
+of Cambridge is a family friendly coffee shop near Crowne Plaza Hotel .
+Cambridge is great , this friendly UNK riverside near Crowne Plaza Hotel .
+The Vaults , a UNK pub on the river and Raja Indian Cuisine , boasts moderate prices , high ratings and a kid friendly environment .
+The Vaults , an Italian pub on the riverside UNK Raja Indian Cuisine , boasts moderate prices , high ratings and a sure for kids .
+The Vaults , a great pub on the riverside of Raja Indian Cuisine , boasts moderate prices , high ratings and a friendly UNK atmosphere .
+The Vaults , it UNK pub on the riverside near Raja Indian Cuisine , boasts moderate prices , high ratings and a kid friendly environment .
+The Vaults , a nice pub on the riverside . Serving Indian Cuisine , boasts moderate prices , high ratings and a beautiful bar UNK .
+The Vaults , a restaurant pub on the riverside , Raja Indian Cuisine , boasts moderate prices , high ratings and a lovely mature UNK .
+The Vaults , a UNK pub on Riverside area to Raja Indian Cuisine , boasts moderate prices , high ratings and a UNK of food .
+The Vaults , a great pub on Cambridge , and wonderful Indian Cuisine , boasts moderate prices , high ratings and a UNK going visit .
+In the city centre , near the Raja Indian Cuisine , lies the Wildwood . \n END START The Golden Curry offers Indian food . The venue is not family friendly .
+In the city centre , near the Raja Indian Cuisine , lies the Wildwood . \n END START The Golden Curry offers Indian food . The venue is not family friendly .
+In the city centre , near the Raja Indian Cuisine , lies the Wildwood . This is a moderately priced restaurant serving Indian food . The venue is not family friendly .
+In the city centre , near the Raja Indian Cuisine , lies the Wildwood . \n END START The Twenty Two offers Indian food . The venue is not family friendly .
+In the city centre , near the Raja Indian Cuisine , lies the Wildwood . This is a coffee shop serving cheap Indian food . The venue is not family friendly .
+In the city centre , near the Raja Indian Cuisine , lies the Wildwood . \n END START The Rice Boat serves Indian food . The venue is not family friendly .
+In the city centre , near the Raja Indian Cuisine , lies the Wildwood . Also coffee shop \n END START UNK Indian food . The venue is not family friendly .
+In the city centre , near the Raja Indian Cuisine , lies the Wildwood . It is a coffee shop serving cheap Indian food . The venue is not family friendly .
+The Vaults is a pub in the riverside area that has a 3 out of 5 customer rating . Although it has a high price range , it is children friendly , so cheaper of UNK it near the Raja Indian Cuisine .
+The Vaults is a pub in the Riverside area that has a 3 out of 5 customer rating . Although it has a high price range , it is children friendly , you 'll gets the riverside near the Raja Indian Cuisine .
+The Vaults is a pub in the riverside area that has a 3 out of 5 customer rating . Although it has a high price range , it is children friendly , and is located in riverside near the Raja Indian Cuisine .
+The Vaults is a pub in the riverside area that has a 3 out of 5 customer rating . Although it has a high price range , it is children friendly , . You will find it near the Raja Indian Cuisine .
+The Vaults is a pub in the riverside area that has a 3 out of 5 customer rating . Although it has a high price range , it is children friendly , . You will find it near the Raja Indian Cuisine .
+The Vaults is a pub in the riverside area that has a 3 out of 5 customer rating . Although it has a high price range , it is children friendly , \n END START The Wrestlers near the Raja Indian Cuisine .
+The Vaults is a pub in the riverside area that has a 3 out of 5 customer rating . Although it has a high price range , it is children friendly , I UNK from it is near the Raja Indian Cuisine .
+The Vaults is a pub in the Riverside area that has a 3 out of 5 customer rating . Although it has a high price range , it is children friendly , so this over it is near the Raja Indian Cuisine .
+in riverside near Raja Indian Cuisine has a , range family more than French 30 .
+in riverside near Raja Indian Cuisine , without , the family and enjoy French cuisine .
+in riverside near Raja Indian Cuisine . However , is family can UNK French shop .
+in riverside near Raja Indian Cuisine and UNK , the family will sell French cuisine .
+in riverside near Raja Indian Cuisine , it , a family UNK offering French food .
+in riverside near Raja Indian Cuisine , The , is family friendly serving French food .
+in riverside near Raja Indian Cuisine . \n , START family Wrestlers serves French food .
+in riverside near Raja Indian Cuisine is UNK , END family The Wrestlers French food .
+The Punter is a fast food coffee shop located in the city centre near Café Sicilia . It has a low customer rating , but fast food there costs under 20 pounds .
+The Punter is a family friendly coffee shop located in the city centre near Café Sicilia . It has a low customer rating , but fast food there costs under 20 pounds .
+The \n END START There is a coffee shop in the city centre near Café Sicilia . It has a low customer rating , but fast food there costs under 20 pounds .
+The Cricketers . \n END START The Eagle is in the city centre near Café Sicilia . It has a low customer rating , but fast food there costs under 20 pounds .
+The . \n END START shop can be found in the city centre near Café Sicilia . It has a low customer rating , but fast food there costs under 20 pounds .
+The Punter is a coffee shop that is located in the city centre near Café Sicilia . It has a low customer rating , but fast food there costs under 20 pounds .
+The Punter coffee shop is a family friendly restaurant in the city centre near Café Sicilia . It has a low customer rating , but fast food there costs under 20 pounds .
+The The Punter is a coffee shop , located in the city centre near Café Sicilia . It has a low customer rating , but fast food there costs under 20 pounds .
+The Mill Curry is a French food place pub near Café Sicilia by the river . It is family friendly and has a low rating .
+The Mill START The Waterman is a French pub near Café Sicilia by the river . It is family friendly and has a low rating .
+The Mill Curry serves Chinese food and is pub near Café Sicilia by the river . It is family friendly and has a low rating .
+The Mill is a coffee shop serving Japanese pub near Café Sicilia by Burger King . It is family friendly and has a low rating .
+The Mill Boat . \n END START Zizzi pub near Café Sicilia by cheap food . It is family friendly and has a low rating .
+The Mill Curry is a fast food restaurant pub near Café Sicilia by the river . It is family friendly and has a low rating .
+The Mill . \n END START The Punter pub near Café Sicilia by cheap food . It is family friendly and has a low rating .
+The Mill is a coffee shop serving French pub near Café Sicilia by City centre . It is family friendly and has a low rating .
+at welcome our one . We a non family - friendly pub our food is Italian we are near the Crowne Plaza Hotel we are at riverside , and our customer rating is low .
+Welcome to The Eagle . We a non family - friendly pub our food is Italian we are near the Burger King and we are at riverside , the Our customer rating is low .
+food at The Eagle . We a non family - friendly pub our food is Italian we are near the Café Rouge and we are at the riverside , our customer rating is low .
+UNK Welcome to Strada . We a non family - friendly pub our food is Italian we are near the Rainbow Vegetarian Café we are at Strada . UNK our customer rating is low .
+UNK of the city . We a non family - friendly pub our food is Italian we are near the Rainbow Vegetarian Café we are at Strada and . Our our rating is low .
+at Browns Cambridge coffee . We a non family - friendly pub our food is Italian we are near the delicious Hotel and we are at the riverside . Our customer rating is low .
+\n END START Browns . We a non family - friendly pub our food is Italian we are near the Crowne Plaza Hotel we are at the riverside . Our customer rating is low .
+Welcome to The Waterman . We a non family - friendly pub our food is Italian we are near the city centre and we are at The Waterman . Our customer rating is low .
+Family Friendly restaurant with the higher - priced menu at UNK , Rice Punter serves Indian dishes , near Express by Holiday Inn in the city centre area .
+Family Friendly restaurant that UNK a moderate price range , The , Boat Punter serves Indian dishes , near Express by Holiday Inn in the city centre area .
+Family Friendly restaurant \n END START 1 out of 5 stars , Rice Punter serves Indian dishes , near Express by Holiday Inn in the city centre area .
+Family Friendly restaurant . Wildwood \n END START The average UNK , Boat Punter serves Indian dishes , near Express by Holiday Inn in the city centre area .
+Family Friendly restaurant , UNK The customer , The Rice Boat , is Punter serves Indian dishes , near Express by Holiday Inn in the city centre area .
+Family Friendly restaurant with low customer ratings . \n END START , Rice Punter serves Indian dishes , near Express by Holiday Inn in the city centre area .
+Family Friendly restaurant Browns Cambridge \n END START The high restaurant , Rice Punter serves Indian dishes , near Express by Holiday Inn in the city centre area .
+Family Friendly restaurant . \n END START Although not family friendly , Rice Punter serves Indian dishes , near Express by Holiday Inn in the city centre area .
+The Vaults is a restaurant which provides Indian food at £ 20 - 25 . Located by the riverside near Raja Indian Cuisine , it is ideal for the
+The Vaults is a restaurant which provides Indian food at £ 20 - 25 . Located on the riverside near Raja Indian Cuisine , it is ideal for kids
+The Vaults is a restaurant which provides Indian food at less than £ 25 . Located in the riverside near Raja Indian Cuisine , it is ideal for UNK
+The Vaults is a restaurant which provides Indian food at prices under £ 25 . Located by the riverside near Raja Indian Cuisine , it is ideal for adults
+The Vaults is a restaurant which provides Indian food at £ 20 - 25 . Located on the riverside near Raja Indian Cuisine , it is ideal for adults
+The Vaults is a restaurant which provides Indian food at a high price 25 . Located on the riverside near Raja Indian Cuisine , it is ideal for kids
+The Vaults is a restaurant which provides Indian food at a moderate price 25 . Located in the riverside near Raja Indian Cuisine , it is ideal for kids
+The Vaults is a restaurant which provides Indian food at a cheap price 25 . Located in the riverside near Raja Indian Cuisine , it is ideal for UNK
+Strada coffee shop has a low customer rating and is located near Express by Holiday Inn .
+Strada coffee shop has a low priced rating and is located near Express by Holiday Inn .
+Strada coffee shop has a low price , It is located near Express by Holiday Inn .
+Strada coffee shop has a low price range and is located near Express by Holiday Inn .
+Strada coffee shop has a low price range and is located near Express by Holiday Inn .
+Strada coffee shop has a low customer rating and is located near Express by Holiday Inn .
+Strada coffee shop has a low - rating and is located near Express by Holiday Inn .
+Strada coffee shop has a low price range and is located near Express by Holiday Inn .
+In the area of riverside the has a restaurant is The Phoenix , that serves English food . It is not kid friendly and the Fast are UNK as expensive .
+In the area of riverside near the Burger King is The Phoenix , and a coffee shop . It is not kid friendly and the Fast food is slightly expensive .
+In the area of the riverside , you will is The Phoenix , near Raja Indian Cuisine . It is not kid friendly and the Fast food is quite expensive .
+In the area of riverside Express by Holiday Inn is The Phoenix , which sells Italian food . It is not kid friendly and the Fast has moderate price expensive .
+In the area of riverside and near Burger King is The Phoenix , it serves coffee food . It is not kid friendly and the Fast customer rating of expensive .
+In the area of riverside riverside serving Japanese food is The Phoenix , \n END START Yes . It is not kid friendly and the Fast rating is moderately expensive .
+In the area of city centre near Burger King is The Phoenix , which has great coffee . It is not kid friendly and the Fast food is UNK expensive .
+In the area of riverside , near Burger King is The Phoenix , a coffee shop UNK . It is not kid friendly and the Fast is 20 - expensive .
+The Cricketers is a family - friendly coffee shop near The Portland that has been rated average by customers .
+The Cricketers is a family - friendly coffee shop . Located near that UNK , as average by customers .
+The Cricketers is a family friendly French coffee shop near Café Sicilia that has been as average by customers .
+The Cricketers is a family friendly coffee coffee near Café Sicilia , that is UNK as average by customers .
+The Cricketers is a family friendly Japanese coffee shop near Café Sicilia that is rated as average by customers .
+The Cricketers is a family friendly Japanese coffee UNK . but , that has been rated average by customers .
+The Cricketers is a family - friendly coffee shop by Café Sicilia that has been rated average by customers .
+The Cricketers is a family friendly pub coffee the UNK Arms , that 's UNK as average by customers .
+Blue Spice is in the high price range .
+Blue Spice is known for a family eats .
+Blue Spice provides local has have children standard .
+Blue Spice is located in the city center .
+Blue Spice UNK near home for please UNK .
+Blue Spice coffee shop is located near Avalon .
+Blue Spice is located middle of the river .
+Blue Spice is UNK beverages and low children .
+The Mill is a moderately priced Indian restaurant that is not children friendly . It 's near the city centre . \n END . The menu serves English food and is usually more £ 30 , but it 's worth it .
+The Mill , is a high rating restaurant that is not children friendly . It 's near the city centre and Burger King . The menu serves English food and is usually more £ 30 , but it 's worth it .
+The Mill is a high high priced restaurant that is not children friendly . It 's near the city centre of the city . The menu serves English food and is usually more £ 30 , but it 's worth it .
+The Mill is a high customer rated restaurant that is not children friendly . It 's near the city centre and the Waterman . The menu serves English food and is usually more £ 30 , but it 's worth it .
+The Mill is a more fast food restaurant that is not children friendly . It 's near the city centre . \n END . The menu serves English food and is usually more £ 30 , but it 's worth it .
+The Mill is not an average rated restaurant that is not children friendly . It 's near the city centre . \n END . The menu serves English food and is usually more £ 30 , but it 's worth it .
+The Mill is high expensive fast food restaurant that is not children friendly . It 's near the city centre . \n END . The menu serves English food and is usually more £ 30 , but it 's worth it .
+The Mill customers There is a coffee restaurant that is not children friendly . It 's near the city centre near Burger King . The menu serves English food and is usually more £ 30 , but it 's worth it .
+There is an average restaurant serving Italian Giraffe . It is located in the riverside area near Clare Hall . UNK venue , yes , which will UNK high .
+There is an establishment that serves Japanese Giraffe . It is located in the riverside area near Express by Holiday Inn . , yes , is over 30 pounds .
+There is an average Japanese restaurant called Giraffe . It is located in the riverside area near a family friendly place and , yes , Fitzbillies . \n END .
+There is an expensive restaurant offering Italian Giraffe . It is located in the riverside area near the Yippee Noodle Bar , , yes , called The Dumpling Tree .
+There is an expensive coffee shop Blue Giraffe . It is located in the riverside area near Avalon . UNK of ratings , yes , is also kid friendly .
+There is an Italian pub called the Giraffe . It is located in the riverside area near UNK . \n END START , yes , and has Japanese food .
+There is an adults only French restaurant Giraffe . It is located in the riverside area near \n END START The pub , yes , family friendly , riverside .
+There is an UNK restaurant called The Giraffe . It is located in the riverside area near that are also £ UNK , yes , 5 out of 5 .
+The Punter Italian restaurant near meals is priced Inn in the Riverside centre is kid friendly . With an average customer rating .
+The Punter Italian restaurant near Express by Holiday Inn in the Riverside area offers kid friendly dining with a high customer rating .
+The Punter Italian restaurant near Express by Holiday Inn in the Riverside centre is kid friendly , but has high customer rating .
+The Punter Italian restaurant near The Rice Boat Inn in the Riverside , its kid friendly but has a high customer rating .
+The Punter Italian restaurant near Express by Holiday Inn in the Riverside area is kid friendly but has a high customer rating .
+The Punter Italian restaurant near The Rice Boat Inn in the Riverside , is kid friendly and has an average customer rating .
+The Punter Italian restaurant near Express by Holiday Inn in the Riverside area is kid friendly and has an average customer rating .
+The Punter Italian restaurant near Express by Holiday Inn in the Riverside Area , kid friendly and has an average customer rating .
+If you do UNK mind UNK a bit more , The Wrestlers restaurant is child - friendly and serves good Japanese food . You will find it near Raja Indian Cuisine in the riverside area .
+If you do UNK mind UNK a bit more , The Wrestlers restaurant is child - friendly and serves good Japanese food . You can find it near Raja Indian Cuisine in the riverside area .
+If you do UNK mind UNK a bit more , The Wrestlers restaurant is child - friendly and serves good Japanese food . You can find it near Raja Indian Cuisine in the riverside area .
+If you do UNK mind UNK a bit more , The Wrestlers restaurant is child - friendly and serves good Japanese food . You can find it near Raja Indian Cuisine in the riverside area .
+If you do UNK mind UNK a bit more , The Wrestlers restaurant is child - friendly and serves good Japanese food . You can find it near Raja Indian Cuisine in the riverside area .
+If you do UNK mind UNK a bit more , The Wrestlers restaurant is child - friendly and serves good Japanese food . You will find it near Raja Indian Cuisine in the riverside area .
+If you do UNK mind UNK a bit more , The Wrestlers restaurant is child - friendly and serves good Japanese food . You can find it near Raja Indian Cuisine in the riverside area .
+If you do UNK mind UNK a bit more , The Wrestlers restaurant is child - friendly and serves good Japanese food . You can find it near Raja Indian Cuisine in the riverside area .
+a family friendly coffee shop that sells fine foods at moderate prices . They welcome , UNK , just east of Raja Indian Cuisine on the River
+a children friendly environment , it sells fine foods at moderate prices . They welcome be UNK located just east of Raja Indian Cuisine on the River
+The Wrestlers is a coffee shop sells fine foods at moderate prices . They welcome UNK located the just east of Raja Indian Cuisine on the River
+in the riverside area . It sells fine foods at moderate prices . They welcome START The Wrestlers just east of Raja Indian Cuisine on the River
+is a restaurant , and it sells fine foods at moderate prices . They welcome START The Wrestlers just east of Raja Indian Cuisine on the River
+UNK for a coffee shop which sells fine foods at moderate prices . They welcome called The Wrestlers just east of Raja Indian Cuisine on the River
+. \n END START The Wrestlers sells fine foods at moderate prices . They welcome , UNK located just east of Raja Indian Cuisine on the River
+\n END START The Wrestlers also sells fine foods at moderate prices . They welcome families and located just east of Raja Indian Cuisine on the River
+Serving English food on the riverside in The Punter . A kid friendly restaurant in the price range of 20 - £ 25 . The Punter is located near Raja Indian Cuisine .
+Serving English food on the riverside in The Punter . A kid friendly restaurant in the price range £ 20 - £ 25 . The Punter is located near Raja Café Sicilia .
+Serving English food on the riverside in The Punter . A kid friendly restaurant in the price range of 20 - £ 25 . The Punter is located near Raja Indian Cuisine .
+Serving English food on the riverside in The Punter . A kid friendly restaurant in the price range of 20 - £ 25 . The Punter is located near Raja city centre .
+Serving English food on the riverside in The Punter . A kid friendly restaurant in the price range of 20 - £ euros . The Punter is located near Raja Indian Cuisine .
+Serving English food on the riverside in The Punter . A kid friendly restaurant in the price range £ 20 - £ 25 . The Punter is located near Raja Indian Cuisine .
+Serving English food on the riverside in The Punter . A kid friendly restaurant in the price range £ 20 - £ 25 . The Punter is located near Raja Indian Cuisine .
+Serving English food on the riverside in The Punter . A kid friendly restaurant in the price range of 20 - £ UNK . The Punter is located near Raja Indian Cuisine .
+START If you are looking a great place to eat , try Green Man , a coffee shop near All Bar One with a customer rating of 5 out of 5 stars .
+UNK . \n END START a great place to eat , try Green Man , a coffee shop near All Bar One with a customer rating of 3 out of 5 stars .
+END START For a not a great place to eat , try Green Man , a coffee shop near All Bar One with a customer rating of 3 out of 5 stars .
+If you UNK and some a great place to eat , try Green Man , a coffee shop near All Bar One with a customer rating of 5 out of 5 stars .
+. \n END START For a great place to eat , try Green Man , a coffee shop near All Bar One with a customer rating of 3 out of 5 stars .
+END START If looking for a great place to eat , try Green Man , a coffee shop near All Bar One with a customer rating of 5 out of 5 stars .
+range . \n END START a great place to eat , try Green Man , a coffee shop near All Bar One with a customer rating of 5 out of 5 stars .
+END START If you need a great place to eat , try Green Man , a coffee shop near All Bar One with a customer rating of 3 out of 5 stars .
+There is an average - priced restaurant in riverside called The Waterman that offers English food and is kids friendly Raja \n END .
+There is a high price range restaurant in riverside called The Phoenix that offers English food and it has a Raja customer rating .
+There is a non child friendly restaurant in riverside called Alimentum , that offers English food and more than £ Raja \n END .
+There is a moderately priced coffee restaurant in riverside called The Wrestlers that offers English food and is located near Raja Indian Cuisine .
+There is a cheap family friendly restaurant in riverside called The Waterman that offers English food and more than £ Raja on average .
+There is an expensive family friendly restaurant in riverside called The Wrestlers that offers English food and is located near Raja Indian Cuisine .
+There is a high rated average restaurant in riverside called The Waterman that offers English food and is child friendly Raja \n END .
+There is a high price range restaurant in riverside called The Wrestlers that offers English food and is located near Raja Indian Cuisine .
+UNK Raja Indian Cuisine in riverside there is a high price range , fast food and restaurant called The Wrestlers .
+UNK Raja Indian Cuisine in riverside there is a children - friendly , fast food and restaurant called The Wrestlers .
+UNK Raja Indian Cuisine in riverside there is a coffee shop that serves fast food and restaurant called kid friendly .
+UNK Raja Indian Cuisine in riverside there is a coffee shop that serves fast food and restaurant moderate price range .
+UNK Raja Indian Cuisine in riverside there is a coffee shop that serves fast food and restaurant called The Wrestlers .
+UNK Raja Indian Cuisine in riverside there is a cheap , family friendly fast food and restaurant The Wrestlers \n .
+UNK Raja Indian Cuisine in riverside there is a coffee shop that serves fast food and restaurant called The Wrestlers .
+UNK Raja Indian Cuisine in riverside there is a cheap family - friendly fast food and restaurant called The Wrestlers .
+The Wrestlers is a moderately priced Japanese pub in the riverside area , near Raja Indian Cuisine . This pub is a coffee shop .
+The Wrestlers is a moderately priced Japanese pub in the riverside area , near Raja Indian Cuisine . This pub is a coffee shop .
+The Wrestlers is a moderately priced Japanese pub in the riverside area , near Raja Indian Cuisine . This pub is a coffee shop .
+The Wrestlers is a moderately priced Japanese pub in the city area , near Raja Indian Cuisine . This pub is not kid friendly .
+The Wrestlers is a moderately priced Japanese pub in the Riverside area , near Raja Indian Cuisine . This pub is UNK for families .
+The Wrestlers is a moderately priced Japanese pub in the Riverside area , near Raja Indian Cuisine . This pub is a for UNK .
+The Wrestlers is a moderately priced Japanese pub in the riverside area , near Raja Indian Cuisine . This pub is a coffee shop .
+The Wrestlers is a moderately priced Japanese pub in the riverside area , near Raja Indian Cuisine . This pub is a coffee shop .
+The Waterman is a pub near to Raja Indian Cuisine and is child - friendly . It has a high price range . \n END in riverside
+The Waterman is a pub near to Raja Indian Cuisine that is child - friendly . UNK has a high price range the coffee shop in riverside
+The Waterman is a pub near to Raja Indian Cuisine that is child - friendly . It has a high price range . \n END in riverside
+The Waterman is a pub near to Raja Indian Cuisine that is child - friendly . It has a high price range and is located in riverside
+The Waterman is a pub near to Raja Indian Cuisine that is child - friendly . It has a high - priced restaurant , located in riverside
+The Waterman is a pub near to Raja Indian food and is child - friendly . It has a high customer rating and is located in riverside
+The Waterman is a pub near to Raja Indian Cuisine that is child - friendly . It has a high price range and is located in riverside
+The Waterman is a pub near to Raja Indian Cuisine that is child - friendly . It has a high price range . It is in riverside
+The Vaults pub offers French food , in the riverside area . In the moderate price range .
+The Vaults pub offers French food , in the riverside area . It has low customer ratings .
+The Vaults pub offers French style , in the riverside area . \n END START The is .
+The Vaults pub offers French food , in the riverside area . UNK customer ratings are average .
+The Vaults pub offers French food , in the riverside area . Prices range under 20 £ .
+The Vaults pub offers French food , in the riverside area . \n END START The friendly .
+The Vaults pub offers French Italian , in the riverside area . \n END START Zizzi is .
+The Vaults pub offers French style , in the riverside area . \n END START Café restaurant .
+is over £ 30 . Sicilia is a fast food restaurant are is sited in the city center .
+\n END START Near Café Sicilia is a fast food restaurant are The Punter located in City center .
+On the river near Café Sicilia is a fast food restaurant are The Golden Curry . Kids center .
+. \n END START Green Sicilia is a fast food restaurant are the riverside in the higher center .
+\n END START The Green Sicilia is a fast food restaurant are the river and All Bar center .
+\n END START Near Clare Sicilia is a fast food restaurant are named Bibimbap House in city center .
+your UNK to UNK . Sicilia is a fast food restaurant are poorly UNK in the city center .
+food . \n END START Sicilia is a fast food restaurant are a short distance from City center .
+Near Raja Indian Cuisine there is a place called The Wrestlers that offers less than £ 20 Italian food and is by the river side . Kids family friendly
+Near Raja Indian Cuisine there is a restaurant called The Wrestlers that offers less than £ 20 Italian food and is by the river side . Kids not friendly
+Near Raja Indian Cuisine there is a place called The Wrestlers that offers less than £ 20 Italian food and is by the river side . Kids are UNK
+Near Raja Indian Cuisine there is a place called The Wrestlers that offers less than £ 20 Italian food and is by the river side . Kids are not
+Near Raja Indian Cuisine there is a restaurant named The Wrestlers that offers less than £ 20 Italian food and is by the river side . Kids END START
+Near Raja Indian Cuisine there is a restaurant called The Wrestlers that offers less than £ 20 Italian food and is by the river side . Kids END START
+Near Raja Indian Cuisine there is a restaurant called The Wrestlers that offers less than £ 20 Italian food and is by the river side . Kids END START
+Near Raja Indian Cuisine there is a restaurant called The Wrestlers that offers less than £ 20 Italian food and is by the river side . Kids END START
+The Phoenix is a pub situated right by the river . The shop offers a range of snacks , wine and coffee . The Phoenix offers the food this boasts a 3 out of 5 stars . The Phoenix is located near Crowne Plaza Hotel .
+The Phoenix is a pub situated right by the river . The shop offers a range of snacks , wine and coffee . The Phoenix is a fast food score a 3 out of 5 stars . The Phoenix is located near Crowne Plaza Hotel .
+The Phoenix is a pub situated right by the river . The shop offers a range of snacks , wine and coffee . The Phoenix also is a coffee shop a 3 out of 5 stars . The Phoenix is located near Crowne Plaza Hotel .
+The Phoenix is a pub situated right by the river . The shop offers a range of snacks , wine and coffee . The Phoenix - priced UNK shop scores a 3 out of 5 stars . The Phoenix is located near Crowne Plaza Hotel .
+The Phoenix is a pub situated right by the river . This establishment offers a range of snacks , wine and coffee . The Phoenix START Taste of Cambridge is a 3 out of 5 stars . The Phoenix is located near Crowne Plaza Hotel .
+The Phoenix is a pub situated right by the river . This establishment offers a range of snacks , wine and coffee . The Phoenix START There is a family a 3 that offers Indian stars . The Phoenix is located near Crowne Plaza Hotel .
+The Phoenix is a pub situated right by the river . The establishment offers a range of snacks , wine and coffee . The Phoenix has customers - give here a 3 out of 5 stars . The Phoenix is located near Crowne Plaza Hotel .
+The Phoenix is a pub situated right by the river . The shop offers a range of snacks , wine and coffee . The Phoenix is UNK the this shop a 3 out of 5 stars . The Phoenix is located near Crowne Plaza Hotel .
+The Mill restaurant is located east of Café Rouge . It is a low priced , and not family - friendly .
+The Mill restaurant is located east of Café Rouge . It is a reasonably priced , and not family - friendly .
+The Mill restaurant is located east of Café Rouge . It is high - priced , and not family - friendly .
+The Mill restaurant is located east of Café Rouge . It is low - priced , and not family - friendly .
+The Mill restaurant is located east of Café Rouge . It is low - priced , and not family - friendly .
+The Mill restaurant is located east of Café Rouge . It is a low priced , and not family - friendly .
+The Mill restaurant is located east of Café Rouge . It specializes in - priced , and not family - friendly .
+The Mill restaurant is located east of Café Rouge . It sell low - priced , and not family - friendly .
+Blue Spice is a high price range restaurant located in the City which serves English food and Loch Fyne is be kid friendly .
+Blue Spice is a family friendly restaurant \n END START Loch Fyne which serves English food and the price to be kid friendly .
+Blue Spice is a low - priced restaurant located in riverside , which serves English food and UNK , to be kid friendly .
+Blue Spice is a moderately priced restaurant in the heart of city which serves English food and is UNK to be kid friendly .
+Blue Spice is a high customer rating , located on the riverside which serves English food and this place to be kid friendly .
+Blue Spice is a restaurant of high price near The Portland Arms which serves English food and yes , it be kid friendly .
+Blue Spice is a cheap restaurant \n END START There is restaurant which serves English food and Loch Fyne might be kid friendly .
+Blue Spice is a cheap please the UNK and for a place which serves English food and the restaurant will be kid friendly .
+yes it with friends have children . the Indian food , called The Wrestlers , although has a high price range , and near the Raja Indian Cuisine near the city centre is a pub but quite expensive at more than £ 30 ,
+yes it is friendly have children . The French food , called The Wrestlers , although has a low consumer rating , \n END START Raja Indian Cuisine near the city centre is a pub but quite expensive at more than £ 30 ,
+yes it does not have children . The price food , called The Wrestlers , although has high rating . \n , START Located near Raja Indian Cuisine near the city centre is a pub but quite expensive at more than £ 30 ,
+yes it does being have children . Serving French food , called The Wrestlers , although has a high price range , \n END START Raja Indian Cuisine near the city centre is a pub but quite expensive at more than £ 30 ,
+yes it is not have children . has Fast food , called The Wrestlers , although has a cheap price range , \n END START Raja Indian Cuisine near the city centre is a pub but quite expensive at more than £ 30 ,
+yes it welcomes they have children . There Fast food , called The Wrestlers , although has UNK UNK of food , UNK . Near Raja Indian Cuisine near the city centre is a pub but quite expensive at more than £ 30 ,
+yes it a place have children . The fast food , called The Wrestlers , although has provide a high price , which just by Raja Indian Cuisine near the city centre is a pub but quite expensive at more than £ 30 ,
+yes it 's good have children . Serving Japanese food , called The Wrestlers , although has an average rating between , \n END START Raja Indian Cuisine near the city centre is a pub but quite expensive at more than £ 30 ,
+The Vaults is a coffee shop that is near the Raja Indian Cuisine in the city centre . They serve Japanese food that costs less than £ 20 and have a low customer rating .
+The Vaults is \n END START The Wrestlers near the Raja Indian Cuisine in the city centre . They serve French food that costs less than £ 20 and have a low customer rating .
+The Vaults is a coffee shop that is near the Raja Indian Cuisine in the city centre . They serve Japanese food that costs less than £ 20 and have a low customer rating .
+The Vaults is a family friendly coffee shop near the Raja Indian Cuisine in the city centre . They serve Japanese food that costs less than £ 20 and have a low customer rating .
+The Vaults is UNK expensive coffee shop located near the Raja Indian Cuisine in the city centre . They serve Japanese food that costs less than £ 20 and have a low customer rating .
+The Vaults is a family friendly coffee shop near the Raja Indian Cuisine in the city centre . They serve French food that costs less than £ 20 and have a low customer rating .
+The Vaults is END START The Wrestlers is near the Raja Indian Cuisine in the city centre . They serve French food that costs less than £ 20 and have a low customer rating .
+The Vaults is a family friendly coffee shop near the Raja Indian Cuisine in the city centre . They serve Japanese food that costs less than £ 20 and have a low customer rating .
+UNK and Welcome to The Punter , we serve the UNK Italian food around and have an average UNK rating this is very good for a restaurant we are near Rainbow Vegetarian Café and our area is the riverside our price range is very cheap for such good food at the UNK we are not family - friendly .
+END START Welcome to The Punter , we serve the UNK Italian food around and have an average customer rating this is very good for a restaurant we are near Rainbow Vegetarian Café and our area is the riverside our price range is very cheap for such good food at the UNK we are not family - friendly .
+are UNK Welcome to The Punter , we serve the UNK Italian food around and have an average customer rating this is very good for a restaurant we are near Rainbow Vegetarian Café and our area is the riverside our price range is very cheap for such good food at the UNK we are not family - friendly .
+\n price Welcome to The Punter , we serve the UNK Italian food around and have an average customer rating this is very good for a restaurant we are near Rainbow Vegetarian Café and our area is the riverside our price range is very cheap for such good food at the UNK we are not family - friendly .
+UNK and welcome to The Punter , we serve the UNK Italian food around and have an average customer rating this is very good for a restaurant we are near Rainbow Vegetarian Café and our area is the riverside our price range is very cheap for such good food at the UNK we are not family - friendly .
+UNK popular welcome to The Punter , we serve the UNK Italian food around and have an average customer rating this is very good for a restaurant we are near Rainbow Vegetarian Café and our area is the riverside our price range is very cheap for such good food at the UNK we are not family - friendly .
+and UNK welcome to The Punter , we serve the UNK Italian food around and have an average customer rating this is very good for a restaurant we are near Rainbow Vegetarian Café and our area is the riverside our price range is very cheap for such good food at the UNK we are not family - friendly .
+and at welcome to The Punter , we serve the UNK Italian food around and have an average customer rating this is very good for a restaurant we are near Rainbow Vegetarian Café and our area is the riverside our price range is very cheap for such good food at the UNK we are not family - friendly .
+Close also a wine , UNK you . It has really menu view .
+Close to Clare Hall , Bibimbap House . Wine is an average price .
+Close friendly coffee shop , is Giraffe . Right next to The Bakers .
+Close , child friendly , located food . The customer rating are average .
+Close serves Chinese food , environment children . UNK , the customer rating .
+Close Wrestlers sells high , fast food . Customers rate it as average .
+Close open to UNK , I friendly . out UNK ' UNK , .
+Close is a open , the kids . It has an average rating .
+In the heart of town near Burger King , is a coffee shop called The Vaults . They offer a family - friendly environment , good food , and UNK , at a low cost .
+In the heart of town near Café Rouge , is a pub named The Plough Vaults . They offer a family - friendly environment , good food , cheeses , UNK for a low cost .
+In the heart of town near the Burger King is a coffee shop called The Vaults . They offer a family - friendly environment , good food , and UNK , at a low cost .
+In the heart of town near Burger King there is a coffee shop named The Vaults . They offer a family - friendly environment , good food , and really food , a low cost .
+In the heart of town near Burger King there is a coffee shop called The Vaults . They offer a family - friendly environment , good food , and have given it a low cost .
+In the heart of town near Burger King , is a coffee shop called The Vaults . They offer a family - friendly environment , good food , and UNK , it a low cost .
+In the heart of town near Burger King , is a coffee shop called The Vaults . They offer a family - friendly environment , good food , UNK such , and a low cost .
+In the heart of town near Burger King , is a coffee shop called The Vaults . They offer a family - friendly environment , good food , and taste , at a low cost .
+Found near Crowne Plaza Hotel , Clowns is a pub with a customer rating of 3 out of 5 .
+Found near Crowne Plaza Hotel , Clowns is a pub with a low rating . \n END START Strada .
+Found near Crowne Plaza Hotel , Clowns is a pub with low customer rating \n END START Wildwood prices .
+Found near Crowne Plaza Hotel , Clowns is a pub with a high rating , offers a Riverside family .
+Found near Crowne Plaza Hotel , Clowns is a pub with a low rating \n END START Browns Cambridge .
+Found near Crowne Plaza Hotel , Clowns is a pub with an average rating by UNK good of UNK .
+Found near Crowne Plaza Hotel , Clowns is a pub with an average rating of 3 . \n END .
+Found near Crowne Plaza Hotel , Clowns is a pub with a low rating that is not kid friendly .
+END START Strada is a pub located by the river , near the Rainbow Vegetarian Café . But is not child friendly .
+UNK , which is a pub located by the UNK , near the Rainbow Vegetarian Café . It is not child friendly .
+END START Strada is a pub located by a UNK , near the Rainbow Vegetarian Café . Strada is not child friendly .
+START The Waterman is a pub located by City centre , near the River of Café . But is not child friendly .
+END START There is a pub located by the river , near the Rainbow Vegetarian Café . Strada is not child friendly .
+Taste of Cambridge is a pub located by the riverside , near the Crowne Plaza Café . It is not child friendly .
+The Golden Palace is a pub located by the riverside , near the Rainbow Vegetarian Café . It is not child friendly .
+END START Strada is a pub located by City Centre , near the Rainbow Vegetarian Café . UNK is not child friendly .
+Giraffe is a fast food , kid friendly restaurant in the riverside area , near Crowne Plaza Hotel .
+Giraffe is a fast food , kid friendly located in the riverside area , near The Portland Arms .
+Giraffe is a fast food , kid friendly restaurant in the riverside area , near for Browns Cambridge .
+Giraffe is a fast food , kid friendly restaurant in the riverside area , near All Bar One .
+Giraffe is a fast food , kid friendly restaurant in the riverside area , near Raja Indian Cuisine .
+Giraffe is a fast food , kid friendly eatery in the riverside area , near the Browns Cambridge .
+Giraffe is a fast food , kid friendly restaurant in the riverside area , near The Rice Boat .
+Giraffe is a fast food , kid friendly restaurant in the riverside area , near All Bar One .
+The child friendly Fast food pub named The Phoenix is located near the Raja Indian Cuisine \n END START The Wrestlers in moderate price range .
+The child friendly Fast food pub named The Phoenix is located near the Raja Indian Cuisine in riverside . It is in the price range .
+The child friendly Fast food pub named The Phoenix is located near the Raja Indian Cuisine \n END START The Waterman in moderate price range .
+The child friendly Fast food pub named The Phoenix , is near the Raja Indian Cuisine in city centre is in a high price range .
+The child friendly Fast food pub named The Phoenix is located near the Raja Indian Cuisine . This coffee shop has a high price range .
+The child friendly Fast food pub named The Phoenix is located near the Raja Indian Cuisine in , the riverside has a high price range .
+The child friendly Fast food pub named The Phoenix , is near the Raja Indian Cuisine . It is also in the high price range .
+The child friendly Fast food pub named The Phoenix is located near the Raja Indian Cuisine , coffee shop is in the high price range .
+The Wrestlers is a high priced French restaurant near Raja Indian Cuisine in the city centre with \n END START Zizzi , a sushi child friendly
+The Wrestlers is a high priced coffee shop near Raja Indian Cuisine in the City centre with \n END START UNK , Strada , child friendly
+The Wrestlers is a high coffee shop located near Raja Indian Cuisine in the city centre with \n END START UNK , UNK must child friendly
+The Wrestlers is a high price coffee shop near Raja Indian Cuisine in the city centre with \n END START Zizzi , is a child friendly
+The Wrestlers is a high end coffee shop near Raja Indian Cuisine in the city centre with \n END START Cocum , is very child friendly
+The Wrestlers is a high price French restaurant near Raja Indian Cuisine in the city centre with \n END START UNK , it is child friendly
+The Wrestlers is a high priced restaurant located near Raja Indian Cuisine in the city centre with \n END START UNK , UNK , child friendly
+The Wrestlers is a high priced coffee shop near Raja Indian Cuisine in the city centre with . \n END START , day , child friendly
+\n , START The , is reasonably priced . Only near Raja Indian Cuisine , it 's not considered family friendly .
+UNK , The Waterman , is reasonably priced . Located near Raja Indian food , it 's not considered family friendly .
+shop , fast food , is reasonably priced . Situated near Raja Indian Cuisine , it 's not considered family friendly .
+UNK , the UNK , is reasonably priced . Located near Raja Indian Cuisine , it 's not considered family UNK .
+UNK , The Wrestlers , is reasonably priced . Situated near Raja Indian Cuisine , it 's not considered family friendly .
+shop , The Wrestlers , is reasonably priced . Located near Raja Indian Cuisine , it 's not considered family friendly .
+UNK , coffee shop , is reasonably priced . Found near Raja Indian Cuisine , it 's not considered family friendly .
+UNK , the would , is reasonably priced . Located near Raja Indian Cuisine , it 's not considered family friendly .
+The Punter is a 1 out of 5 stars Indian restaurant shop located near Burger King in the city centre . It is in the high price range , but is children friendly .
+The Punter is a 1 out of 5 stars Indian restaurant . \n END START Fitzbillies is the city centre . It is in the high price range , but is children friendly .
+The Punter is a 1 out of 5 stars Indian restaurant . The Waterman is located in the city centre . It is in the high price range , but is children friendly .
+The Punter is a 1 out of 5 stars Indian restaurant shop located near Burger King in the city centre . It is in the high price range , but is children friendly .
+The Punter is a 1 out of 5 stars Indian restaurant situated close to Burger King in the city centre . It is in the high price range , but is children friendly .
+The Punter is a 1 out of 5 stars Indian restaurant located near the Burger King in the city centre . It is in the high price range , but is children friendly .
+The Punter is a 1 out of 5 stars Indian restaurant coffee shop near Burger King in the city centre . It is in the high price range , but is children friendly .
+The Punter is a 1 out of 5 stars Indian restaurant shop located near Burger King in the city centre . It is in the high price range , but is children friendly .
+The Punter is a restaurant which serves Chinese food , located in the center of the city near the Raja Indian Cuisine . It serves Chinese food and is considered family friendly with a price range of less than 20 euros .
+The Punter is a restaurant which serves Chinese coffee shop located in the center of the city , near Raja Indian Cuisine . It serves Chinese food and is considered family friendly with a price range of 20 - 25 pounds .
+The Punter is a restaurant which serves Chinese food , located in the center of the city near the Raja Indian Cuisine . It is Chinese food and is considered family friendly with a price range of £ 20 - 25 .
+The Punter is a restaurant which serves Chinese food , located in the center of the city near the Raja Indian Cuisine . It serves Chinese food and is considered family friendly with a price range of less than £ 20 .
+The Punter is coffee shop which serves Chinese food , located in the center of the city , near Raja Indian Cuisine . It serves Chinese food and is considered family friendly with a price range of £ 30 or less .
+The Punter is coffee shop which serves Chinese food , located in the center of the city near the Raja Indian Cuisine . It has Chinese food and is considered family friendly with a price range of less than £ 20 .
+The Punter is a restaurant which serves Chinese coffee shop located in the center of the city , near Raja Indian Cuisine . It serves Chinese food and is considered family friendly with a price range of £ 20- £ 25 .
+The Punter is a coffee which serves Chinese food , located in the center of the city , near Raja Indian Cuisine . It serves Chinese food and is considered family friendly with a price range of less than £ 20 .
+Welcome to The Wrestlers , we are a restaurant . We 're family - friendly we serve fast food we are located in the city centre near the Raja Indian Cuisine .
+Welcome to The Rice , we are a restaurant . We 're family - friendly we Italian food . we are located in the city centre near Express by Holiday Cuisine .
+Welcome to The Wrestlers , we are a restaurant . We 're family - friendly we serve fast food we are located in the city centre near the Raja Indian Cuisine .
+Welcome to The Wrestlers , we are a restaurant . We 're family - friendly we serve , and we are located in the city centre near the Raja Indian Cuisine .
+Welcome to The Wrestlers , we are a restaurant . We 're family - friendly we serve fast food we are located in the city centre near the Raja Indian Cuisine .
+Welcome to The Rice , we are a restaurant . We 're family - friendly we serve Italian and we are located in the city centre near Express by Holiday Cuisine .
+Welcome to The Wrestlers , we are a restaurant . We 're family - friendly we serve sushi and we are located in the city centre near the Raja Indian Cuisine .
+Welcome to The Cambridge , we are a restaurant . We 're family - friendly we serve fast food we are located in the city centre near the Crowne Plaza Cuisine .
+Welcome to The Phoenix , we are kid friendly . We 're a kid friendly Japanese food restaurant and we are located in the city centre near the popular Burger King .
+Welcome to The Phoenix , we are children friendly . We 're in this friendly a UNK coffee and we are located in the city centre near the The Burger King .
+Welcome to The Phoenix , we are Japanese food . We 're a 5 friendly rating the experience . we are located in the city centre near the UNK average cost .
+Welcome to The Phoenix , we are fast food . We 're family - friendly , serve UNK , we are located in the city centre near the Raja Indian Cuisine .
+Welcome to The Phoenix , we are not cheap . We 're Japanese food friendly UNK average UNK . we are located in the city centre near the UNK UNK UNK .
+Welcome to The Phoenix , we are Fast food . We 're UNK expensive friendly UNK UNK UNK , we are located in the city centre near the Yippee Noodle Bar .
+Welcome to The Phoenix , we are fast food . We 're family - friendly and our cheap . we are located in the city centre near the The is low .
+Welcome to The Phoenix , we are Chinese food . We 're UNK this friendly rating is low and we are located in the city centre near the Yippee Noodle Bar .
+Midsummer House is an English restaurant near Café Rouge with a high price rating of 1 out of 5 \n END .
+The Punter is an English restaurant near Café Rouge with a high price range of 1 out of 5 , rating .
+The Punter is an English restaurant near Café Rouge with a high price range . 1 out of 5 customers UNK .
+START Wildwood is an English restaurant near Café Rouge with a high price . of 1 out of 5 \n END .
+Midsummer House is an English restaurant near Café Rouge with a high price range of 1 out of 5 \n END .
+Midsummer House is an English restaurant near Café Rouge with a high price . Rated 1 out of 5 \n END .
+START Wildwood is an English restaurant near Café Rouge with a high price with rank 1 out of 5 \n END .
+The Waterman is an English restaurant near Café Rouge with a high price and a 1 out of 5 customer rating .

@@ -1,0 +1,160 @@
+Near Express by Holiday Inn in riverside is The Rice Boat . They serve English food and it 's kid friendly .
+END START The Golden Curry in riverside is near Café Rouge . They serve English food and it 's kid friendly .
+START Browns Cambridge is in in riverside area near The Sorrento . They serve English food and it 's kid friendly .
+Café Rouge . \n END in riverside is The Olive Grove . They serve English food and it 's kid friendly .
+\n END START The Waterman in riverside , prices are high . They serve English food and it 's kid friendly .
+END START Green Man is in riverside near All Bar One . They serve English food and it 's kid friendly .
+an expensive coffee shop located in riverside area near Burger King . They serve English food and it 's kid friendly .
+\n END START Browns Cambridge in riverside is near The Sorrento . They serve English food and it 's kid friendly .
+There is a high priced restaurant called The Phoenix that is family friendly in \n END START The Waterman .
+There is a high - priced restaurant The Phoenix that is family friendly in \n END START UNK Punter .
+There is an average - priced restaurant The Phoenix that is family friendly in riverside and serves Chinese food .
+There is a cheap coffee shop called The Phoenix that is family friendly in the riverside near Burger King .
+There is a mid priced restaurant called The Phoenix that is family friendly in the riverside . of Cambridge .
+There is a middle priced UNK restaurant The Phoenix that is family friendly in has a 3 star rating .
+There is an affordable Japanese restaurant named The Phoenix that is family friendly in the UNK UNK of food .
+There is an above average price called The Phoenix that is family friendly in average customer ratings \n END .
+The Fitzbillies is a Food . It is located in the city centre area . It provides menu items in the moderate price range and is child friendly
+The Rice Boat is near Express by Holiday Inn in the city centre area . It serves Italian food in the moderate price range and is child friendly
+The Vaults . \n END START Fitzbillies is located in the city centre area . It serves Japanese food in the moderate price range and is child friendly
+The \n END START The Olive Grove is located in the city centre area . It offers Italian food in the moderate price range and is child friendly
+The coffee shop is located near Raja Indian Cuisine in the city centre area . It serves Japanese food in the moderate price range and is child friendly
+The an average price range . They are located in the city centre area . It END START Strada in the moderate price range and is child friendly
+The a coffee shop that serves Italian food located in the city centre area . It coffee shop is in the moderate price range and is child friendly
+The Eagle coffee shop is near the Burger King in the city centre area . It serves Japanese food in the moderate price range and is child friendly
+For under £ 20 , The Wrestlers coffee , located near Raja Indian Cuisine , delivers Japanese food in a riverside , family friendly environment .
+For under £ 20 , The Wrestlers coffee , located near Raja Indian Cuisine , delivers Japanese food in a riverside , family friendly environment .
+For under £ 20 , The Wrestlers coffee , located near Raja Indian Cuisine , delivers Japanese food in a riverside , family friendly environment .
+For than £ 30 , The Wrestlers , , located near Raja Indian Cuisine , delivers Japanese food in a riverside , family friendly environment .
+For under £ 20 , the coffee shop , located near Raja Indian Cuisine , delivers Japanese food in a riverside , family friendly environment .
+For good £ \n , START The Wrestlers , located near Raja Indian Cuisine , delivers Japanese food in a riverside , family friendly environment .
+For under £ 20 , START The Wrestlers , located near Raja Indian Cuisine , delivers Japanese food in a riverside , family friendly environment .
+For under £ 20 , The Wrestlers coffee , located near Raja Indian Cuisine , delivers Japanese food in a riverside , family friendly environment .
+Giraffe UNK rated fast food , The Waterman is located in riverside . They are not family - friendly .
+Giraffe END START fast food is coffee shop type located in riverside . They are not family - friendly .
+Giraffe is a fast food . It is located near in riverside . They are not family - friendly .
+Giraffe is a fast food restaurant \n END START Giraffe in riverside . They are not family - friendly .
+Giraffe Waterman provides fast food at less than £ 20 in riverside . They are not family - friendly .
+Giraffe is a fast food and is a UNK spot in riverside . They are not family - friendly .
+Giraffe is a fast food restaurant called The Twenty Two in riverside . They are not family - friendly .
+Giraffe get cheap fast food \n END by The Waterman in riverside . They are not family - friendly .
+An English serving child friendly venue known as The Vaults . \n END START Cheap
+An English serving child friendly restaurant . is Strada has good reviews you UNK with
+An English serving child friendly \n END START Zizzi is a pub providing excellent food
+An English serving child friendly venue called The Wrestlers with average ratings . \n END
+An English serving child friendly eatery in Zizzi with a 5 out of 5 rating
+An English serving child friendly restaurant , is Loch Fyne . \n END START The
+An English serving child friendly is Loch Fyne . \n END START Loch Fyne restaurant
+An English serving child friendly and has high ratings . \n END START The UNK
+is near the Rainbow Vegetarian Café , a Fast food of average kid friendly , and situated riverside called Strada .
+is near the Rainbow Vegetarian Café , a Fast food and is kid friendly , and situated riverside called Strada .
+START near the Rainbow Vegetarian Café , a Fast expensive , not child friendly , and situated riverside called Strada .
+is near the Rainbow Vegetarian Café , a Fast restaurant that is family friendly , and situated riverside called low .
+Located near the Rainbow Vegetarian Café , a Fast food restaurant that is friendly , and situated riverside called Strada .
+START near the Rainbow Vegetarian Café , a Fast restaurant which is family friendly , and situated riverside called Strada .
+is near the Rainbow Vegetarian Café , a Fast , is a family friendly , and situated riverside called available .
+UNK near the Rainbow Vegetarian Café , a Fast out of 5 customer friendly , and situated riverside called Strada .
+. \n END START For English food and are in the city center near Raja Indian Cuisine , check out The Mill pub shop cheap eats - just do UNK bring your kids .
+children friendly \n END START English food and are in the city center near Raja Indian Cuisine , check out The Mill pub a cheap eats - just do UNK bring your kids .
+for a coffee shop serving English food and are in the city center near Raja Indian Cuisine , check out The Mill pub for cheap eats - just do UNK bring your kids .
+friendly . You can order English food and are in the city center near Raja Indian Cuisine , check out The Mill pub UNK cheap eats - just do UNK bring your kids .
+. \n END START For English food and are in the city center near Raja Indian Cuisine , check out The Mill pub shop cheap eats - just do UNK bring your kids .
+START If you are UNK English food and are in the city center near Raja Indian Cuisine , check out The Mill pub This cheap eats - just do UNK bring your kids .
+If you 're looking for English food and are in the city center near Raja Indian Cuisine , check out The Mill pub . cheap eats - just do UNK bring your kids .
+START If you 're UNK English food and are in the city center near Raja Indian Cuisine , check out The Mill pub This cheap eats - just do UNK bring your kids .
+The Punter is near The Portland Holiday \n END START The and is an Indian restaurant . It has a price range is high , is kid friendly , and has an average customer rating .
+The Punter is near The Portland Holiday . \n END START and is an Indian restaurant . It has a price range is high , it is affordable , and has an average customer rating .
+The Punter is near The Portland Holiday . \n END START and is an Indian restaurant . It has a price range is high , is children friendly , and has an average customer rating .
+The Punter is near Express by Holiday Inn in the city and is an Indian restaurant . It has a price range is high , is children friendly , and has an average customer rating .
+The Punter is near Express by Holiday Inn in the city and is an Indian restaurant . It has a price range is high , is children friendly , and has an average customer rating .
+The Punter is near The Portland Holiday . \n END START and is an Indian restaurant . It has a price range is high , it is located , and has an average customer rating .
+The Punter is near The Portland Holiday in the city centre and is an Indian restaurant . It has a price range is high , \n END START , Eagle has an average customer rating .
+The Punter is near The Portland Holiday \n END START The and is an Indian restaurant . It has a price range is high , it is riverside , and has an average customer rating .
+Near Raja Indian Cuisine , Riverside , there is a moderately priced coffee shop called The Wrestlers .
+Near Raja Indian Cuisine , riverside , there is a cheap Italian coffee shop called The Wrestlers .
+Near Raja Indian Cuisine , Riverside , there is a coffee shop UNK is moderately - priced .
+Near Raja Indian Cuisine , Riverside , there is a kid friendly Japanese restaurant named The Wrestlers .
+Near Raja Indian Cuisine , Riverside , there is a coffee shop offering Italian food for UNK .
+Near Raja Indian Cuisine , Riverside , there is a coffee shop called The Wrestlers . It .
+Near Raja Indian Cuisine , Riverside , there is a high priced restaurant called The Twenty Two .
+Near Raja Indian Cuisine , Riverside , there is a Japanese coffee shop , UNK the UNK .
+Blue Spice is moderately priced and located in the riverside . It is family friendly is is rated 1 out of 5 .
+Blue Spice is average rated and located in the riverside . It is family friendly is is cheap rate . \n END .
+Blue Spice is a coffee shop located in the riverside . It is family friendly is is rate 5 out of 5 .
+Blue Spice is an expensive restaurant located in the riverside . It is family friendly is is well rated . \n END .
+Blue Spice is a cheap restaurant located in the riverside . It is family friendly is is high rated for great UNK .
+Blue Spice is a coffee shop located in the riverside . It is kids friendly is is in the moderate price range .
+Blue Spice is a beautiful restaurant located in the riverside . It is kid friendly is is UNK a moderately priced venue .
+Blue Spice is a coffee shop located in the riverside . It is family friendly is is in the low price range .
+The Wrestlers restaurant is child friendly and offers fast food priced on average at more 30 price range . It is located in the riverside area , near Raja Indian Cuisine .
+The coffee shop is child friendly and offers fast food priced on average at more a coffee shop . It is located in the riverside area , near Raja Indian Cuisine .
+The The Wrestlers is child friendly and offers fast food priced on average at more than £ 30 . It is located in the riverside area , near Raja Indian Cuisine .
+The coffee shop is child friendly and offers fast food priced on average at more than £ 30 . It is located in the riverside area , near Raja Indian Cuisine .
+The coffee shop is child friendly and offers fast food priced on average at more than £ 30 . It is located in the riverside area , near Raja Indian Cuisine .
+The coffee shop is child friendly and offers fast food priced on average at more than £ 30 . It is located in the riverside area , near Raja Indian Cuisine .
+The coffee shop is child friendly and offers fast food priced on average at more than £ 30 . It is located in the city area , near Raja Indian Cuisine .
+The coffee shop is child friendly and offers fast food priced on average at more 30 or more . It is located in the riverside area , near Raja Indian Cuisine .
+For Italian food in a kids friendly environment , try The Waterman restaurant . Priced for £ 20 - 25 , it can be found in the riverside area near Raja Indian Cuisine .
+For Italian food in a kids friendly environment , try The Waterman restaurant . For between £ 20 - 25 , it can be found in the riverside area near Raja Indian Cuisine .
+For Italian food in a kids friendly environment , try The Waterman restaurant . \n END START 20 food and , shop can be found in the riverside area near Raja Indian Cuisine .
+For Italian food in a kids friendly environment , try The Waterman restaurant . At between £ 20 - 25 , it can be found in the riverside area near Raja Indian Cuisine .
+For Italian food in a kids friendly environment , try The Waterman restaurant . For between £ 20 - 25 , it can be found in the riverside area near Raja Indian Cuisine .
+For Italian food in a kids friendly environment , try The Waterman restaurant . less than £ 20 price range , it can be found in the riverside area near Raja Indian Cuisine .
+For Italian food in a kids friendly environment , try The Waterman restaurant . For less than 20 per pounds , it can be found in the riverside area near Raja Indian Cuisine .
+For Italian food in a kids friendly environment , try The Waterman restaurant . less than £ 20 per head , it can be found in the riverside area near Raja Indian Cuisine .
+The Mill is a fast pub close to Café Rouge with a price range between £ 20 - 25 . \n END START lovely at rating and is moderately priced Italian food , but it is not kid friendly .
+The Mill is a fast coffee shop near Café Rouge with a price range between £ 20 - 25 . It has a high customer rating and is in the riverside area , but it is not kid friendly .
+The Mill is a fast pub located near Café Rouge with a price range between £ 20 - 25 . \n END START A moderate rating and is French food Loch Fyne , but it is not kid friendly .
+The Mill is a fast coffee shop near Café Rouge with a price range between £ 20 - 25 . It has a high customer rating and is located near Café Sicilia , but it is not kid friendly .
+The Mill is a fast coffee shop near Café Rouge with a price range between £ 20 - 25 . It has a high customer rating and is located near Burger King , but it is not kid friendly .
+The Mill is a fast coffee shop near Café Rouge with a price range between £ 20 - 25 . It has a high customer rating and is UNK out for kids , but it is not kid friendly .
+The Mill is a fast pub located near Café Rouge with a price range between £ 20 - 25 . \n END START The Waterman rating and is in the riverside area , but it is not kid friendly .
+The Mill is a fast coffee shop near Café Rouge with a price range between £ 20 - 25 . It has a high customer rating and is located at the riverside , but it is not kid friendly .
+Green Man is a restaurant serving Italian food , it is located in the riverside area near Express by Holiday Inn and the restaurant is child friendly .
+Green Man is a restaurant serving English food , \n END START in the riverside area near Express by Holiday Inn and the restaurant is family friendly .
+Green Man is a restaurant serving The Rice , , is located in the riverside area near Express by Holiday Inn and The establishment serves English friendly .
+Green Man is a restaurant serving Italian cuisine , it is located in the riverside area near Express by Holiday Inn and yes it is kids friendly .
+Green Man is a restaurant serving Japanese food , It is located in the riverside area near Express by Holiday Inn and the establishment is kid friendly .
+Green Man is a restaurant serving Italian food , it is located in the riverside area near Express by Holiday Inn and has an average customer friendly .
+Green Man is a restaurant serving Japanese food , It is located in the riverside area near Express by Holiday Inn and It is no children friendly .
+Green Man is a restaurant serving Italian food , is family friendly in the riverside area near Express by Holiday Inn and \n END START High friendly .
+Near the Raja Indian Cuisine in Riverside , The Waterman is a child - friendly , Italian , shop .
+Near the Raja Indian Cuisine in riverside , The Waterman is a coffee shop friendly , Italian , choice .
+Near the Raja Indian Cuisine in Riverside is The Waterman . It is children friendly , Italian , food .
+Near the Raja Indian Cuisine in riverside is The Waterman . It is family friendly , Italian , restaurant .
+Near the Raja Indian Cuisine in Riverside , The Waterman is a UNK kid friendly , Italian , shop .
+Near the Raja Indian Cuisine in riverside is The Waterman , a cheap family friendly , Italian , . .
+Near the Raja Indian Cuisine in riverside is The Waterman . A high - friendly , Italian , shop .
+Near the Raja Indian Cuisine in riverside , The Waterman is a cheap family friendly , Italian , shop .
+The Cricketers is a family - Friendly 5 out 5 rating . \n END START The Strada
+The Cricketers is a family - Friendly 5 out 5 rating \n END START French restaurant The
+The Cricketers is a family - Friendly 5 out 5 rating . It is near coffee UNK
+The Cricketers is a cheap - Friendly 5 out 5 rating located near Café Adriatic \n END
+The Cricketers is a family - Friendly 5 out 5 rating restaurant located near Café Sicilia .
+The Cricketers is a family - Friendly 5 out 5 rating near Ranch the . \n END
+The Cricketers is a family - Friendly 5 out 5 rating \n END START Ranch pub quality
+The Cricketers is a children - Friendly 5 out 5 rating pub near Ranch . \n END
+The Mill is a higher priced , family friendly restaurant serving in Japanese food . It is located near the city center .
+The Mill is a higher priced , family friendly restaurant serving in French food . It is located near the city UNK .
+The Mill is a higher priced , family friendly restaurant serving serves Japanese food . It is located near Café Rouge \n .
+The Mill is a higher priced , family friendly restaurant serving serves Japanese food . It is located near Café Rouge . .
+The Mill is a higher priced , family friendly restaurant serving traditional Japanese food . It is located near the city centre .
+The Mill is a higher priced , family friendly restaurant serving UNK Japanese food . It is located near Rainbow Vegetarian Café .
+The Mill is a higher priced , family friendly restaurant serving serves French food . It is located near Café Rouge \n .
+The Mill is a higher priced , family friendly restaurant serving serves Japanese food . It is located near the city centre .
+The Waterman is restaurant which offers French food . Not suitable for children , it is located in the city centre near Raja Indian Cuisine . It has a moderate price range .
+The Waterman is restaurant which serves Fast Food . Not suitable for adults , it is located in the city centre near Raja Indian Cuisine . It has a moderate price range .
+The Waterman is restaurant which serves fast food . Not suitable for families , it is located in the riverside area near Raja Indian Cuisine . It has a moderate price range .
+The Waterman is restaurant which a coffee shop . Not suitable for families , it is located in the city centre near Raja Indian Cuisine . It has a moderate price range .
+The Waterman is restaurant which serves fast food . Not suitable kid friendly , it is located in the city centre near Raja Indian Cuisine . It has a moderate price range .
+The Waterman is restaurant which priced coffee shop . Not suitable for children , it is located in the city centre near Raja Indian Cuisine . \n END START moderate price range .
+The Waterman is restaurant which a coffee shop . Not suitable for UNK , it is located in the riverside area near Raja Indian Cuisine . It has a moderate price range .
+The Waterman is restaurant which offers Indian food . Not suitable for UNK , it is located in the city centre near Raja Indian Cuisine . It has a moderate price range .
+The Boat is a high priced restaurant that serves Indian food in the city centre , near Express by Holiday Inn , it is child friendly and has an average customer rating .
+The Boat is a high priced restaurant that serves Indian food in the city centre , near Express by Holiday Inn , it is child friendly and has an average customer rating .
+The Boat is a high priced restaurant that serves Indian food in the city centre , near Express by Holiday Inn , it is child friendly and has an average customer rating .
+The Boat is a high priced restaurant that serves Indian food in the City Centre , near Express by Holiday Inn , it is child friendly and has an average customer rating .
+The Boat is a high priced restaurant that serves Indian food in the city centre , near Express by Holiday Inn , it is child friendly and has an average customer rating .
+The Rice Boat a high priced restaurant that serves Indian food in the city centre , near Express by Holiday Inn , it is child friendly and has an average customer rating .
+The Boat is a high priced restaurant that serves Indian food in the city centre , near Express by Holiday Inn , it is child friendly and has an average customer rating .
+The Boat is a high priced restaurant that serves Indian food in the city centre , near Express by Holiday Inn , it is child friendly and has an average customer rating .
