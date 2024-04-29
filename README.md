@@ -1,13 +1,50 @@
-# 598 Final Project
+# EECS 498 Foundations of Large Language Models 
+### Final Project: Diffusion-LM with Bigger Models and Smaller Steps
+##### Group members: Zesen Zhao, Yaoxin (Selina) Li, Keqian Wang, Kevin Chen
 
-https://arxiv.org/pdf/2205.14217.pdf 
+
+## Reference
+
+This code is forked from [XiangLi1999/Diffusion-LM](https://github.com/XiangLi1999/Diffusion-LM), which is the repo for [Diffusion-LM Improves Controllable Text Generation](https://arxiv.org/pdf/2205.14217.pdf) NeurIPS 2022.
 
 
+## Code contributions
+
+We cleaned up a lot of files in the code, either to accomodate our testing or to make tweaks and fixes.
+
+Some of the files we created or made key changes to:
+
+ - [`diffusion-models/`](https://github.com/selina-lii/598_diffusion_lm_project/tree/main/diffusion-models): training models
+
+- [`gaussian_diffusion.py`](https://github.com/selina-lii/598_diffusion_lm_project/blob/main/improved-diffusion/improved_diffusion/gaussian_diffusion.py): streamlined core algorithms
+
+- [`infill.py`](https://github.com/selina-lii/598_diffusion_lm_project/blob/main/improved-diffusion/scripts/infill.py) and [`infill_parrot.py`](https://github.com/selina-lii/598_diffusion_lm_project/blob/main/improved-diffusion/scripts/infill_parrot.py): infilling task and a cleaned up version.
+
+- [`bertscore.py`](https://github.com/selina-lii/598_diffusion_lm_project/blob/main/improved-diffusion/scripts/bertscore.py): diffusion experiments
+
+
+Among many others.
 
 -----------------------------------------------------
 ## Conda Setup:
 ```python
-# official version
+# setup on U-M GreatLakes
+conda create -n env python=3.9.7
+conda activate env
+conda install pytorch torchvision torchaudio cudatoolkit=11.3 -c pytorch
+pip install -e improved-diffusion/ transformers/
+pip install spacy==3.2.4 datasets==1.8.0 huggingface_hub==0.4.0 wandb
+# magic
+pip install --upgrade stanza stanza-spacy pydantic
+# solves the mpi4py issue!!
+module load gcc/8.2.0
+module load openmpi/3.1.6
+which mpicc # put your mpicc path here
+env MPICC=/home/<username>/.conda/envs/498/bin/mpicc pip install --no-cache-dir mpi4py
+```
+
+```python
+# original version
 conda install mpi4py
 conda install pytorch torchvision torchaudio cudatoolkit=11.3 -c pytorch
 pip install -e improved-diffusion/ 
@@ -17,23 +54,6 @@ pip install datasets==1.8.0
 pip install huggingface_hub==0.4.0 
 pip install wandb
 ```
-
-```python
-# It works
-conda create -n <name> python=3.9.7
-conda activate <name>
-conda install pytorch torchvision torchaudio cudatoolkit=11.3 -c pytorch
-pip install -e improved-diffusion/ transformers/
-pip install spacy==3.2.4 datasets==1.8.0 huggingface_hub==0.4.0 wandb
-# magic
-pip install --upgrade stanza stanza-spacy pydantic
-# solve the mpi4py issue!!
-module load gcc/8.2.0
-module load openmpi/3.1.6
-which mpicc # put your mpicc path here
-env MPICC=/home/selinali/.conda/envs/498/bin/mpicc pip install --no-cache-dir mpi4py
-```
-
 -----------------------------------------------------
 ## Train Diffusion-LM:
 
@@ -72,3 +92,6 @@ python scripts/infill.py --model_path {path-to-diffusion-lm} --eval_task_ 'contr
 Real Command feed into train.py:
 
 OPENAI_LOGDIR=diffusion_models/diff_e2e-tgt_block_rand16_transformer_lr0.0001_0.0_2000_sqrt_Lsimple_h128_s2_d0.1_sd102_xstart_e2e  TOKENIZERS_PARALLELISM=false python scripts/train.py   --checkpoint_path diffusion_models/diff_e2e-tgt_block_rand16_transformer_lr0.0001_0.0_2000_sqrt_Lsimple_h128_s2_d0.1_sd102_xstart_e2e --model_arch transformer --modality e2e-tgt --save_interval 50000 --lr 0.0001 --batch_size 64  --diffusion_steps 2000 --noise_schedule sqrt  --use_kl False --learn_sigma False  --image_size 8 --num_channels 128 --seed 102 --dropout 0.1 --in_channel 16 --out_channel 16 --padding_mode block --experiment random  --lr_anneal_steps 200000 --weight_decay 0.0 --num_res_blocks 2  --predict_xstart True --training_mode e2e --vocab_size 821  --e2e_train ../datasets/e2e_data
+```
+
+presentation link for the paper: [link](https://slideslive.com/38990777/diffusionlm-improves-controllable-text-generation?ref=speaker-34175)
