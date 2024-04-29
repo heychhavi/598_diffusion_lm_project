@@ -12,7 +12,7 @@ from evaluate import load
 bertscore = load("bertscore")
 
 
-curtime = '6' #datetime.datetime.now().strftime('%Y%m%d-%H%M')
+curtime = '3' #datetime.datetime.now().strftime('%Y%m%d-%H%M')
 
 
 def make_dirs():
@@ -96,7 +96,30 @@ DIFFUSION_STEPS = [1000,400,200,100,80,40,10,5,2] #
 
 
 
-time.sleep(5)
+# from PIL import Image
+
+# # Load the images
+# img1 = Image.open('/home/selinali/bertbase20.png')
+# img2 = Image.open('/home/selinali/bertbase100.png')
+
+# # Get the dimensions of the images
+# width1, height1 = img1.size
+# width2, height2 = img2.size
+
+# # Create a new image with the combined width and maximum height
+# result_width = width1 + width2
+# result_height = max(height1, height2)
+# result = Image.new('RGB', (result_width, result_height))
+
+# # Paste the images onto the new image
+# result.paste(im=img1, box=(0, 0))
+# result.paste(im=img2, box=(width1, 0))
+
+# # Save or display the combined image
+# result.save('combined_image.jpg')
+# result.show()
+
+
 with open(ground_truth_file,'r') as f:
     gt_sentences = f.readlines()
 expanded = []
@@ -104,7 +127,7 @@ for sen in gt_sentences:
     for i in range(8):
         expanded.append(sen)
 
-model_names=['base']
+model_names=['large']
 for I in range(1):
     MODEL_NAME=model_names[I]
 
@@ -117,9 +140,10 @@ for I in range(1):
         # run_diffusion(diffusion_step=i,)
         output_file = f"/home/selinali/diffusion_lm/improved-diffusion/out_gen/diff_{i}/{MODEL_NAME}.{MODEL_NAME}.pt.infill_infill_{curtime}.txt"
         time_file = f"/home/selinali/diffusion_lm/improved-diffusion/out_gen/diff_{i}/time"
-        with open(time_file, 'r') as f:
-            lines=f.readlines()
-            runtime=float(lines[1])
+        # with open(time_file, 'r') as f:
+        #     lines=f.readlines()
+        #     print(lines)
+        #     runtime=float(lines[0])
         print(output_file)
         while True:
             if os.path.exists(output_file):
@@ -134,7 +158,7 @@ for I in range(1):
         f1_scores = bert_scores['f1'] 
         values.append(np.average(f1_scores))
         values_max.append(np.std(f1_scores))
-        runtimes.append(runtime)
+        # runtimes.append(runtime)
         print(f'{i}:{np.min(f1_scores)}')
         # except:
         #     continue
@@ -143,15 +167,23 @@ for I in range(1):
     fig, ax = plt.subplots()
     bars1 = ax.bar(categories, values, color='skyblue',width=0.8)
     bars2 = ax.bar(categories, values_max, bottom=values,color='lightcyan',width=0.8)
-    x = np.arange(len(categories))
-    ax.plot(x, runtimes, label='total runtime')
+    # x = np.arange(len(categories))
+    # orig_runtimes = runtimes
+    # runtimes = runtimes / np.linalg.norm(runtimes)*0.4+0.6
+    # ax.plot(x, runtimes, label='total runtime')
     # Add data labels
     for bar in bars1:
         yval = bar.get_height()
-        ax.text(bar.get_x() + bar.get_width()/2, yval, round(yval, 4), va='bottom')
+        ax.text(bar.get_x(), yval, round(yval, 4), va='bottom')
+
+    # print(runtimes)
+    # for xval, yval, ydisp in zip(x, runtimes, orig_runtimes):
+    #     print(yval)
+    #     ax.scatter(xval, yval, color='r', s=10)  # Plot a red dot
+    #     ax.annotate(f"{int(ydisp)}s", (xval, yval))  # Display the y-value
 
     # Set plot title and labels
-    ax.set_title('DiffusionLM output BERT-base')
+    ax.set_title('DiffusionLM output for BERT-large (sample size = 20)')
     ax.set_xlabel('Number of diffusion steps')
     ax.set_ylabel('BERT Score')
     ax.set_ylim([0.6,1])
