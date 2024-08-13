@@ -5,7 +5,7 @@ Train a diffusion model on images.
 import argparse
 import json, torch, os,sys
 import numpy as np
-sys.path.insert(0, '/Users/zhaozesen/Desktop/SchoolWork/WN24/EECS498/Diffusion-LM/improved-diffusion/')
+sys.path.insert(0, '/kaggle/working/598_diffusion_lm_project/improved-diffusion/')
 from improved_diffusion import dist_util, logger
 from improved_diffusion.image_datasets import load_data
 from improved_diffusion.text_datasets import load_data_text
