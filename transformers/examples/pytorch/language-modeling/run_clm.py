@@ -53,7 +53,7 @@ from transformers.utils import check_min_version
 from transformers.utils.versions import require_version
 from custom_trainer import GPT2LMHeadModelCompress, BERTModelCompress, AutoEncoderWithNoise, GPT2VAE, AR_for_cont,\
     Classifier_GPT2, Classifier_Times, Classifier_POS, Classifier_Tree, Classifier_Consistency
-
+sys.path.insert(0, '/kaggle/working/598_diffusion_lm_project/')
 from improved_diffusion.rounding import rounding_func, load_models, load_tokenizer
 
 # Will error if the minimal version of Transformers is not installed. Remove at your own risks.
