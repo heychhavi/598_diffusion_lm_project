@@ -368,7 +368,7 @@ def get_corpus_rocstory(data_args):
         sentence_lst = []
         nlp = English()
         tokenizer = nlp.tokenizer
-        path = f'{data_args.e2e_train}/src1_train.txt'
+        path = f'/kaggle/working/598_diffusion_lm_project/datasets/e2e_data/src1_train.txt'
         with open(path, 'r') as ff:
             for row in ff:
                 word_lst = row.split('||')[1]
